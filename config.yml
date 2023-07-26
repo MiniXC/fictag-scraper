@@ -1,0 +1,11 @@
+data_dir: "data"
+process_dir: "data/processed"
+use_proxy: true
+proxy_country: "us"
+proxy_interval: 0
+regular_interval: 1
+fail_interval: 1
+start_date: "2008-01-01"
+end_date: "2023-01-01"
+num_threads: 25
+only_scrape_first_n_pages: -1
