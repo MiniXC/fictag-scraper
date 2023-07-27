@@ -1,0 +1,500 @@
+tag,count,href,category
+Kim Wonshik | Ravi,3232,/tags/Kim%20Wonshik%20%7C%20Ravi,c
+Jung Taekwoon | Leo,3709,/tags/Jung%20Taekwoon%20%7C%20Leo,c
+Cha Hakyeon | N,3471,/tags/Cha%20Hakyeon%20%7C%20N,c
+Lee Jaehwan | Ken,3115,/tags/Lee%20Jaehwan%20%7C%20Ken,c
+Lee Hongbin,2840,/tags/Lee%20Hongbin,c
+Han Sanghyuk | Hyuk,2644,/tags/Han%20Sanghyuk%20%7C%20Hyuk,c
+Kim Kibum | Key/Lee Hongbin,1,/tags/Kim%20Kibum%20%7C%20Key*s*Lee%20Hongbin,r
+Jung Taekwoon | Leo/Lee Jaehwan | Ken,392,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N/Lee Jaehwan | Ken,282,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Lee Hongbin,430,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Jung Taekwoon | Leo,1425,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo,r
+Kim Myungsoo | L/Lee Hongbin,6,/tags/Kim%20Myungsoo%20%7C%20L*s*Lee%20Hongbin,r
+Han Sanghyuk | Hyuk/Lee Hongbin,343,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Kim Wonshik | Ravi,379,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Wonshik%20%7C%20Ravi,r
+Jung Taekwoon | Leo/Kim Wonshik | Ravi,767,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Kim Myungsoo | L,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Myungsoo%20%7C%20L,r
+Han Sanghyuk | Hyuk/Kim Wonshik | Ravi,133,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Hongbin/Lee Jaehwan | Ken,234,/tags/Lee%20Hongbin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Wonshik | Ravi/Lee Hongbin,556,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin,r
+Han Sanghyuk | Hyuk/Yook Sungjae,11,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Yook%20Sungjae,r
+Han Sanghyuk | Hyuk/Lee Jaehwan | Ken,610,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Kim Minseok | Xiumin,31,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Minseok%20%7C%20Xiumin,r
+VIXX Ensemble,360,/tags/VIXX%20Ensemble,c
+Jung Taekwoon | Leo/Kim Jongdae | Chen,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Jongdae%20%7C%20Chen,r
+Bang Minah/Kim Wonshik | Ravi,0,/tags/Bang%20Minah*s*Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Lee Hongbin,425,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk,318,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk,r
+Kim Jinhee | Zinni/Lee Hongbin,1,/tags/Kim%20Jinhee%20%7C%20Zinni*s*Lee%20Hongbin,r
+Jung Taekwoon | L/Kim Wonshik | Ravi/Lee Hongbin,0,/tags/Jung%20Taekwoon%20%7C%20L*s*Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin,r
+Han Sanghyuk | Hyuk/Jung Taekwoon | Leo,340,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Jung%20Taekwoon%20%7C%20Leo,r
+Jung Taekwoon | Leo/Park Sojin,5,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Park%20Sojin,r
+Kim Wonshik | Ravi/Lee Jaehwan | Ken,538,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Zhang Yi Xing | Lay,25,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Zhang%20Yi%20Xing%20%7C%20Lay,r
+Kim Ahyoung | Yura/Lee Hongbin,0,/tags/Kim%20Ahyoung%20%7C%20Yura*s*Lee%20Hongbin,r
+Lee Hyeri/Lee Jaehwan | Ken,2,/tags/Lee%20Hyeri*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Ilhoon/Jung Taekwoon | Leo,0,/tags/Jung%20Ilhoon*s*Jung%20Taekwoon%20%7C%20Leo,r
+Bang Minah/Cha Hakyeon | N,2,/tags/Bang%20Minah*s*Cha%20Hakyeon%20%7C%20N,r
+Cha Hakyeon | N & Jung Taekwoon | Leo,34,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Jung%20Taekwoon%20%7C%20Leo,r
+Han Sanghyuk | Hyuk/Jung Taekwoon | Leo/Lee Hongbin,11,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk/Jung Taekwoon | Leo/Lee Hongbin,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk*s*Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Original Character(s),20,/tags/Cha%20Hakyeon%20%7C%20N*s*Original%20Character(s),r
+Jung Taekwoon | Leo/Original Character(s),11,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Original%20Character(s),r
+Kim Wonshik | Ravi/Original Character(s),28,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Original%20Character(s),r
+Cha Hakyeon | N/Reader,69,/tags/Cha%20Hakyeon%20%7C%20N*s*Reader,r
+Jung Taekwoon | Leo/Reader,80,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Reader,r
+Kim Wonshik | Ravi/Reader,50,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Reader,r
+Alternate Universe - Error (Music Video),16,/tags/Alternate%20Universe%20-%20Error%20(Music%20Video),f
+Cha Hakyeon | N/Jackson Wang,5,/tags/Cha%20Hakyeon%20%7C%20N*s*Jackson%20Wang,r
+Heo Youngji/Lee Hongbin,2,/tags/Heo%20Youngji*s*Lee%20Hongbin,r
+Cha Hakyeon/Han Sanghyuk/Jung Taekwoon/Kim Wonshik/Lee Hongbin/Lee Jaehwan,18,/tags/Cha%20Hakyeon*s*Han%20Sanghyuk*s*Jung%20Taekwoon*s*Kim%20Wonshik*s*Lee%20Hongbin*s*Lee%20Jaehwan,r
+Lee Hongbin/Min Yoongi | Suga,3,/tags/Lee%20Hongbin*s*Min%20Yoongi%20%7C%20Suga,r
+Jung Taekwoon | Leo/Park Jimin (BTS),4,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Park%20Jimin%20(BTS),r
+Cha Hakyeon | N/Hong Jisoo | Joshua,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Hong%20Jisoo%20%7C%20Joshua,r
+VIXX Gifts,3,/tags/VIXX%20Gifts,f
+Cha Hakyeon | N/Jung Taekwoon | Leo/Park Sojin,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Park%20Sojin,r
+Cha Hakyeon | N & Park Chanyeol,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Park%20Chanyeol,r
+Kim Jiwon | Bobby/Kim Wonshik | Ravi,0,/tags/Kim%20Jiwon%20%7C%20Bobby*s*Kim%20Wonshik%20%7C%20Ravi,r
+Go Woori/Lee Hongbin,0,/tags/Go%20Woori*s*Lee%20Hongbin,r
+Kim Wonshik | Ravi/Min Yoongi | Suga,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Min%20Yoongi%20%7C%20Suga,r
+Lee Jaehwan | Ken/Original Female Character(s),16,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Original%20Female%20Character(s),r
+Han Sanghyuk | Hyuk/Lee Hongbin/Lee Jaehwan | Ken,12,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Hongbin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Jongin | Kai/Kim Wonshik | Ravi,21,/tags/Kim%20Jongin%20%7C%20Kai*s*Kim%20Wonshik%20%7C%20Ravi,r
+Kim Minjun | Jun. K/Kim Wonshik | Ravi,0,/tags/Kim%20Minjun%20%7C%20Jun*d*%20K*s*Kim%20Wonshik%20%7C%20Ravi,r
+Han Sanghyuk | Hyuk/Kim Wonshik | Ravi/Lee Hongbin,5,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Do Kyungsoo | D.O,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Do%20Kyungsoo%20%7C%20D*d*O,r
+Ahn Heeyeon | Hani & Lee Jaehwan | Ken,0,/tags/Ahn%20Heeyeon%20%7C%20Hani%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Kim Minseok | Xiumin,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Minseok%20%7C%20Xiumin,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk/Lee Jaehwan | Ken,17,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Seokjin | Jin/Lee Jaehwan | Ken,91,/tags/Kim%20Seokjin%20%7C%20Jin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Seo Eunkwang,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Seo%20Eunkwang,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Park Chanyeol,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Park%20Chanyeol,r
+Cha Hakyeon | N/Park Chanyeol,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Park%20Chanyeol,r
+Kim Taehyung | V/Lee Jaehwan | Ken,3,/tags/Kim%20Taehyung%20%7C%20V*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Hoseok | J-Hope/Kim Wonshik | Ravi,3,/tags/Jung%20Hoseok%20%7C%20J-Hope*s*Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Original Female Character(s),10,/tags/Cha%20Hakyeon%20%7C%20N*s*Original%20Female%20Character(s),r
+Bang Minah/Jung Taekwoon | Leo,0,/tags/Bang%20Minah*s*Jung%20Taekwoon%20%7C%20Leo,r
+Cha Hakyeon | N/Min Yoongi | Suga,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Min%20Yoongi%20%7C%20Suga,r
+Lee Jaehwan | Ken/Reader,37,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Reader,r
+Do Kyungsoo | D.O/Jung Taekwoon | Leo,2,/tags/Do%20Kyungsoo%20%7C%20D*d*O*s*Jung%20Taekwoon%20%7C%20Leo,r
+Byun Baekhyun/Lee Hongbin,2,/tags/Byun%20Baekhyun*s*Lee%20Hongbin,r
+Han Sanghyuk | Hyuk/Kim Wonshik | Ravi/Lee Jaehwan | Ken,13,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Min Yoongi | Suga,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Min%20Yoongi%20%7C%20Suga,r
+Han Sanghyuk | Hyuk/Reader,42,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Reader,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Original Character(s),1,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Original%20Character(s),r
+Han Sanghyuk | Hyuk/Jeon Jungkook,5,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Jeon%20Jungkook,r
+Jung Taekwoon | Leo/Kim Taehyung | V,5,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Taehyung%20%7C%20V,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Lee Jaehwan | Ken,13,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Undisclosed,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Undisclosed,r
+Kim Moonkyu | Timoteo/Kim Wonshik | Ravi,1,/tags/Kim%20Moonkyu%20%7C%20Timoteo*s*Kim%20Wonshik%20%7C%20Ravi,r
+Han Sanghyuk | Hyuk/Jung Taekwoon | Leo/Kim Wonshik | Ravi,6,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Hongbin/Wen Jun Hui | Jun,0,/tags/Lee%20Hongbin*s*Wen%20Jun%20Hui%20%7C%20Jun,r
+Han Sanghyuk | Hyuk & Lee Jaehwan | Ken,5,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Everyone,26,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Everyone,r
+Han Sanghyuk | Hyuk/Lee Jaehwan | Ken/Reader,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Jaehwan%20%7C%20Ken*s*Reader,r
+Cha Hakyeon | N & Woo Taewoon | ₩uNo,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Woo%20Taewoon%20%7C%20%E2%82%A9uNo,r
+Kim Wonshik | Ravi/Lee Hongbin/Original Character(s),0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin*s*Original%20Character(s),r
+Jung Taekwoon | Leo/Wang Fei Fei | Fei,3,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Wang%20Fei%20Fei%20%7C%20Fei,r
+Han Sanghyuk | Hyuk & Jung Taekwoon | Leo,50,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Jung%20Taekwoon%20%7C%20Leo,r
+Han Sanghyuk | Hyuk/Liu Xiening | Sally,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Liu%20Xiening%20%7C%20Sally,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk/Kim Wonshik | Ravi,3,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Wonshik%20%7C%20Ravi,r
+Han Sanghyuk | Hyuk/Everyone,26,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Everyone,r
+Han Sanghyuk | Hyuk/Im Nayeon,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Im%20Nayeon,r
+Jung Taekwoon | Leo/Lee Sungjong,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Sungjong,r
+Jung Taekwoon | Leo/Park Sooyoung | Joy,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Park%20Sooyoung%20%7C%20Joy,r
+Cha Hakyeon | N/Shin Bora | Hana,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Shin%20Bora%20%7C%20Hana,r
+Cha Hakyeon | N/Lee Taeyong,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Taeyong,r
+Cha Hakyeon | N & Lee Taeyong,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Lee%20Taeyong,r
+Cha Hakyeon | N/Everyone,35,/tags/Cha%20Hakyeon%20%7C%20N*s*Everyone,r
+Jung Taekwoon | Leo/You,2,/tags/Jung%20Taekwoon%20%7C%20Leo*s*You,r
+Lee Hongbin & Everyone,4,/tags/Lee%20Hongbin%20*a*%20Everyone,r
+Lee Jaehwan | Ken/Lee Junghwan | Sandeul,5,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Lee%20Junghwan%20%7C%20Sandeul,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk/Lee Hongbin,15,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Hongbin,r
+Jung Taekwoon | Leo & Kim Wonshik | Ravi,8,/tags/Jung%20Taekwoon%20%7C%20Leo%20*a*%20Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N & Everyone,6,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Everyone,r
+Han Sanghyuk | Hyuk & Everyone,8,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Everyone,r
+Lee Jaehwan | Ken & Everyone,2,/tags/Lee%20Jaehwan%20%7C%20Ken%20*a*%20Everyone,r
+Jung Taekwoon | Leo & Everyone,10,/tags/Jung%20Taekwoon%20%7C%20Leo%20*a*%20Everyone,r
+Kim Wonshik | Ravi & Everyone,3,/tags/Kim%20Wonshik%20%7C%20Ravi%20*a*%20Everyone,r
+Kim Wonshik | Ravi/Jackson Wang,1,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Jackson%20Wang,r
+Cha Hakyeon | N/Jung Taekwoon | Leo/Kim Wonshik | Ravi/Lee Hongbin,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Amber Liu,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Amber%20Liu,r
+Kim Seokjin | Jin/Lee Jaehwan | Ken/Lee Junghwan | Sandeul,2,/tags/Kim%20Seokjin%20%7C%20Jin*s*Lee%20Jaehwan%20%7C%20Ken*s*Lee%20Junghwan%20%7C%20Sandeul,r
+Cha Hakyeon | N/Original Male Character(s),1,/tags/Cha%20Hakyeon%20%7C%20N*s*Original%20Male%20Character(s),r
+Cha Hakyeon | N & Lee Hongbin,35,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Lee%20Hongbin,r
+Jang Dongwoo/Jung Taekwoon | Leo,0,/tags/Jang%20Dongwoo*s*Jung%20Taekwoon%20%7C%20Leo,r
+Choi Sangyeob/Lee Jaehwan | Ken,0,/tags/Choi%20Sangyeob*s*Lee%20Jaehwan%20%7C%20Ken,r
+Han Sanghyuk | Hyuk-centric,31,/tags/Han%20Sanghyuk%20%7C%20Hyuk-centric,f
+Bottom Kim Wonshik | Ravi,23,/tags/Bottom%20Kim%20Wonshik%20%7C%20Ravi,f
+Kid Han Sanghyuk | Hyuk,4,/tags/Kid%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Domestic Cha Hakyeon | N/Jung Taekwoon | Leo,9,/tags/Domestic%20Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo,f
+Minor Cha Hakyeon | N/Jung Taekwoon | Leo,15,/tags/Minor%20Cha%20Hakyeon%20%7C%20N*s*Jung%20Taekwoon%20%7C%20Leo,f
+Minor Kim Wonshik | Ravi/Lee Hongbin,4,/tags/Minor%20Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hongbin,f
+Han Sanghyuk | Hyuk is a Little Shit,18,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20is%20a%20Little%20Shit,f
+Han Sanghyuk | Hyuk is a Brat,4,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20is%20a%20Brat,f
+Han Sanghyuk | Hyuk/Son Hyunwoo | Shownu,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Son%20Hyunwoo%20%7C%20Shownu,r
+Han Sanghyuk | Hyuk/Park Jinwoo | Jin Jin,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Park%20Jinwoo%20%7C%20Jin%20Jin,r
+Jung Taekwoon | Leo/Kim Yukwon | U-Kwon,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Yukwon%20%7C%20U-Kwon,r
+Jung Taekwoon | Leo & Lee Hongbin,4,/tags/Jung%20Taekwoon%20%7C%20Leo%20*a*%20Lee%20Hongbin,r
+Victoria Asher/Cha Hakyeon | N,1,/tags/Victoria%20Asher*s*Cha%20Hakyeon%20%7C%20N,r
+William Beckett/Jung Taekwoon | Leo,1,/tags/William%20Beckett*s*Jung%20Taekwoon%20%7C%20Leo,r
+Kim Wonshik | Ravi/Gabe Saporta,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Gabe%20Saporta,r
+Cha Hakyeon | N/Park Jimin (BTS),1,/tags/Cha%20Hakyeon%20%7C%20N*s*Park%20Jimin%20(BTS),r
+Lee Hongbin is So Done,11,/tags/Lee%20Hongbin%20is%20So%20Done,f
+Kim Sejeong/Lee Jaehwan | Ken,0,/tags/Kim%20Sejeong*s*Lee%20Jaehwan%20%7C%20Ken,r
+Minor Cha Hakyeon | N/Lee Hongbin,9,/tags/Minor%20Cha%20Hakyeon%20%7C%20N*s*Lee%20Hongbin,f
+Female Lee Hongbin,2,/tags/Female%20Lee%20Hongbin,f
+VIXX Ensemble/Original Character(s),11,/tags/VIXX%20Ensemble*s*Original%20Character(s),r
+Cha Hakyeon | N/Kim Heechul,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Heechul,r
+Mentioned Cha Hakyeon | N,9,/tags/Mentioned%20Cha%20Hakyeon%20%7C%20N,f
+Do Kyungsoo | D.O/Lee Hongbin,1,/tags/Do%20Kyungsoo%20%7C%20D*d*O*s*Lee%20Hongbin,r
+Female Cha Hakyeon | N,4,/tags/Female%20Cha%20Hakyeon%20%7C%20N,f
+Cha Hakyeon | N/Lee Minhyuk (Monsta X),2,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Minhyuk%20(Monsta%20X),r
+Jung Taekwoon | Leo/Kim Seokjin | Jin,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Seokjin%20%7C%20Jin,r
+Choi Minki | Ren/Kim Wonshik | Ravi,0,/tags/Choi%20Minki%20%7C%20Ren*s*Kim%20Wonshik%20%7C%20Ravi,r
+Kim Wonshik | Ravi/Everyone,14,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Everyone,r
+Minor Lee Hongbin/Lee Jaehwan | Ken,1,/tags/Minor%20Lee%20Hongbin*s*Lee%20Jaehwan%20%7C%20Ken,f
+Cha Hakyeon | N & Han Sanghyuk | Hyuk,14,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Han%20Sanghyuk%20%7C%20Hyuk,r
+Cha Hakyeon | N/Kim Ryeowook,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Ryeowook,r
+Dom Cha Hakyeon | N,18,/tags/Dom%20Cha%20Hakyeon%20%7C%20N,f
+Cat Hybrid Jung Taekwoon | Leo,15,/tags/Cat%20Hybrid%20Jung%20Taekwoon%20%7C%20Leo,f
+Hybrid Han Sanghyuk | Hyuk,0,/tags/Hybrid%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Cha Hakyeon | N-centric,19,/tags/Cha%20Hakyeon%20%7C%20N-centric,f
+Han Sanghyuk | Hyuk/Kim Hyunjung | Seola,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Hyunjung%20%7C%20Seola,r
+Kim Wonshik | Ravi/Park Jimin (BTS),3,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Park%20Jimin%20(BTS),r
+Cha Hakyeon | N/Nam Dawon,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Nam%20Dawon,r
+Kim Jiyeon | Kei/Lee Jaehwan | Ken,0,/tags/Kim%20Jiyeon%20%7C%20Kei*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jealous Kim Wonshik | Ravi,2,/tags/Jealous%20Kim%20Wonshik%20%7C%20Ravi,f
+Rovix/Reader,1,/tags/Rovix*s*Reader,r
+Rovix,2,/tags/Rovix,c
+Hirai Momo/Lee Jaehwan | Ken,0,/tags/Hirai%20Momo*s*Lee%20Jaehwan%20%7C%20Ken,r
+Han Sanghyuk | Hyuk/Shim Hyunseong,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Shim%20Hyunseong,r
+Han Sanghyuk | Hyuk & Jung Yerin,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Jung%20Yerin,r
+Kim Seokjin | Jin/Kim Wonshik | Ravi,2,/tags/Kim%20Seokjin%20%7C%20Jin*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Jaehwan | Ken/Original Character(s),2,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Original%20Character(s),r
+Minor Jung Taekwoon | Leo/Kim Wonshik | Ravi,5,/tags/Minor%20Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Wonshik%20%7C%20Ravi,f
+Kim Seokjin | Jin & Kim Wonshik | Ravi,0,/tags/Kim%20Seokjin%20%7C%20Jin%20*a*%20Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Kim Taehyung | V,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Taehyung%20%7C%20V,r
+Jeon Jungkook/VIXX Ensemble,1,/tags/Jeon%20Jungkook*s*VIXX%20Ensemble,r
+Han Sanghyuk | Hyuk/Original Female Character(s),14,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Original%20Female%20Character(s),r
+Kim Wonshik | Ravi/Original Male Character(s),2,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Original%20Male%20Character(s),r
+Lee Hongbin/Original Female Character(s),9,/tags/Lee%20Hongbin*s*Original%20Female%20Character(s),r
+Lee Jaehwan/You,1,/tags/Lee%20Jaehwan*s*You,r
+Top Cha Hakyeon | N,10,/tags/Top%20Cha%20Hakyeon%20%7C%20N,f
+Han Sanghyuk | Hyuk & Lee Hongbin,10,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Lee%20Hongbin,r
+Bang Yongguk/Kim Wonshik | Ravi,1,/tags/Bang%20Yongguk*s*Kim%20Wonshik%20%7C%20Ravi,r
+Kim Seokjin | Jin & Lee Jaehwan | Ken & Lee Junghwan | Sandeul,3,/tags/Kim%20Seokjin%20%7C%20Jin%20*a*%20Lee%20Jaehwan%20%7C%20Ken%20*a*%20Lee%20Junghwan%20%7C%20Sandeul,r
+Girl's Day Ensemble/VIXX Ensemble,0,/tags/Girl's%20Day%20Ensemble*s*VIXX%20Ensemble,r
+Alpha Jung Taekwoon | Leo,8,/tags/Alpha%20Jung%20Taekwoon%20%7C%20Leo,f
+Dom Lee Hongbin,1,/tags/Dom%20Lee%20Hongbin,f
+Model Lee Hongbin,3,/tags/Model%20Lee%20Hongbin,f
+Minor Jung Taekwoon | Leo/Lee Jaehwan | Ken,3,/tags/Minor%20Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Jaehwan%20%7C%20Ken,f
+Sub Cha Hakyeon | N,8,/tags/Sub%20Cha%20Hakyeon%20%7C%20N,f
+Kim Wonshik | Ravi/Lee Taemin,13,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Taemin,r
+Kim Wonshik | Ravi/Son Hyunwoo | Shownu,2,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Son%20Hyunwoo%20%7C%20Shownu,r
+Cha Hakyeon | N/Kim Sejeong,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Sejeong,r
+Angel Lee Jaehwan | Ken,3,/tags/Angel%20Lee%20Jaehwan%20%7C%20Ken,f
+Mentioned Kim Jaehwan,8,/tags/Mentioned%20Kim%20Jaehwan,f
+Kim Wonshik | Ravi & Lee Hongbin,6,/tags/Kim%20Wonshik%20%7C%20Ravi%20*a*%20Lee%20Hongbin,r
+Top Lee Hongbin,3,/tags/Top%20Lee%20Hongbin,f
+Jung Taekwoon | Leo/Rovix,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Rovix,r
+Top Jung Taekwoon | Leo,10,/tags/Top%20Jung%20Taekwoon%20%7C%20Leo,f
+Jung Taekwoon | Leo & Lee Jaehwan | Ken,4,/tags/Jung%20Taekwoon%20%7C%20Leo%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Sub Kim Wonshik | Ravi,3,/tags/Sub%20Kim%20Wonshik%20%7C%20Ravi,f
+Dom Jung Taekwoon | Leo,5,/tags/Dom%20Jung%20Taekwoon%20%7C%20Leo,f
+Cha Hakyeon | N/Joo Eunyoung,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Joo%20Eunyoung,r
+Cha Hakyeon | N & Lee Hongbin & Lee Jaehwan | Ken,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Lee%20Hongbin%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Kim Wonshik | Ravi/Yoo Jeongyeon,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Yoo%20Jeongyeon,r
+Cha Hakyeon | N/Joo Eunyoung/Jung Taekwoon | Leo,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Joo%20Eunyoung*s*Jung%20Taekwoon%20%7C%20Leo,r
+Minor Han Sanghyuk | Hyuk/Lee Jaehwan | Ken,3,/tags/Minor%20Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Jaehwan%20%7C%20Ken,f
+Jung Taekwoon | Leo/Park Myungeun | Jin,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Park%20Myungeun%20%7C%20Jin,r
+Minor Kim Wonshik | Ravi/Lee Jaehwan | Ken,4,/tags/Minor%20Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Jaehwan%20%7C%20Ken,f
+Cha Hakyeon | N/Kim Jonghyun (SHINee),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Jonghyun%20(SHINee),r
+Han Sanghyuk | Hyuk/Shin Bora | Hana,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Shin%20Bora%20%7C%20Hana,r
+Cha Hakyeon | N & Kim Wonshik | Ravi,7,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Kim%20Wonshik%20%7C%20Ravi,r
+Jung Taekwoon | Leo/Sakurada Doori,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Sakurada%20Doori,r
+Cha Hakyeon | N & Jung Taekwoon | Leo & Kim Wonshik | Ravi,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Jung%20Taekwoon%20%7C%20Leo%20*a*%20Kim%20Wonshik%20%7C%20Ravi,r
+Lee Jaehwan | Ken/Kim Kibum | Key,1,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Kim%20Kibum%20%7C%20Key,r
+Cha Hakyeon | N/Lee Jinki | Onew,3,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Jinki%20%7C%20Onew,r
+Cha Hakyeon | N/Kim Seokjin | Jin,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Seokjin%20%7C%20Jin,r
+Cha Hakyeon | N/Terada Takuya,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Terada%20Takuya,r
+Han Sanghyuk | Hyuk/Original Character(s),2,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Original%20Character(s),r
+Jung Taekwoon | Leo/Yoo Kihyun,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Yoo%20Kihyun,r
+Jung Taekwoon | Leo/Kang Minkyung,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kang%20Minkyung,r
+Han Sanghyuk | Hyuk/Kim Sojung | Sowon,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Sojung%20%7C%20Sowon,r
+Im Jaebum | JB/Jung Taekwoon | Leo,1,/tags/Im%20Jaebum%20%7C%20JB*s*Jung%20Taekwoon%20%7C%20Leo,r
+Cha Hakyeon | N & Kim Jongin | Kai,1,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Kim%20Jongin%20%7C%20Kai,r
+Kim Wonshik | Ravi/Original Female Character(s),8,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Original%20Female%20Character(s),r
+Soft Kim Wonshik | Ravi,3,/tags/Soft%20Kim%20Wonshik%20%7C%20Ravi,f
+Cha Hakyeon | N/Kim Namjoon | RM,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Namjoon%20%7C%20RM,r
+Kim Namjoon | RM/Kim Wonshik | Ravi,0,/tags/Kim%20Namjoon%20%7C%20RM*s*Kim%20Wonshik%20%7C%20Ravi,r
+Jung Taekwoon | Leo/Julien Kang,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Julien%20Kang,r
+Jung Daehyun/Lee Jaehwan | Ken/Yoo Youngjae,1,/tags/Jung%20Daehyun*s*Lee%20Jaehwan%20%7C%20Ken*s*Yoo%20Youngjae,r
+Cha Hakyeon | N/Kim Yerim | Yeri,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Yerim%20%7C%20Yeri,r
+Lee Hongbin & Lee Jaehwan | Ken,5,/tags/Lee%20Hongbin%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N & Park Junhee | Jun,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Park%20Junhee%20%7C%20Jun,r
+Jung Taekwoon | Leo/Kim Jongin | Kai,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Jongin%20%7C%20Kai,r
+Kim Wonshik | Ravi/Lee Sungjong,3,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Sungjong,r
+VIXX Ensemble/Original Female Character(s),1,/tags/VIXX%20Ensemble*s*Original%20Female%20Character(s),r
+GOT7 Ensemble/VIXX Ensemble,1,/tags/GOT7%20Ensemble*s*VIXX%20Ensemble,r
+VIXX Ensemble/Everyone,1,/tags/VIXX%20Ensemble*s*Everyone,r
+VIXX Ensemble/VIXX Ensemble,13,/tags/VIXX%20Ensemble*s*VIXX%20Ensemble,r
+Kwon Jiyong | G-Dragon/Lee Hongbin,1,/tags/Kwon%20Jiyong%20%7C%20G-Dragon*s*Lee%20Hongbin,r
+Lee Jaehwan | Ken-centric,7,/tags/Lee%20Jaehwan%20%7C%20Ken-centric,f
+Dom Lee Jaehwan | Ken,4,/tags/Dom%20Lee%20Jaehwan%20%7C%20Ken,f
+Vampire Jung Taekwoon | Leo,8,/tags/Vampire%20Jung%20Taekwoon%20%7C%20Leo,f
+Cha Hakyeon | N/Chittaphon Leechaiyapornkul | Ten,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Chittaphon%20Leechaiyapornkul%20%7C%20Ten,r
+Jeon Jungkook/Jung Taekwoon | Leo,3,/tags/Jeon%20Jungkook*s*Jung%20Taekwoon%20%7C%20Leo,r
+Jeon Jungkook/Kim Taehyung | V/Kim Wonshik | Ravi,0,/tags/Jeon%20Jungkook*s*Kim%20Taehyung%20%7C%20V*s*Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Jeon Jungkook,3,/tags/Cha%20Hakyeon%20%7C%20N*s*Jeon%20Jungkook,r
+Jung Taekwoon | Leo/Kim Dongyoung | Doyoung,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Dongyoung%20%7C%20Doyoung,r
+Vampire Lee Jaehwan | Ken,4,/tags/Vampire%20Lee%20Jaehwan%20%7C%20Ken,f
+Mentioned Lee Hongbin,5,/tags/Mentioned%20Lee%20Hongbin,f
+Kim Wonshik | Ravi/Lee Hoseok | Wonho,1,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Hoseok%20%7C%20Wonho,r
+Bottom Jung Taekwoon | Leo,7,/tags/Bottom%20Jung%20Taekwoon%20%7C%20Leo,f
+Choi Seunghyun | T.O.P./Jung Taekwoon | Leo,0,/tags/Choi%20Seunghyun%20%7C%20T*d*O*d*P*d**s*Jung%20Taekwoon%20%7C%20Leo,r
+Kim Wonshik | Ravi/Song Minho | Mino,1,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Song%20Minho%20%7C%20Mino,r
+Han Sanghyuk | Hyuk/Moon Jongup,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Moon%20Jongup,r
+Bottom Lee Jaehwan | Ken,3,/tags/Bottom%20Lee%20Jaehwan%20%7C%20Ken,f
+Cha Hakyeon | N/Jung Hoseok | J-Hope,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Hoseok%20%7C%20J-Hope,r
+Jung Taekwoon | Leo/Kim Jaejoong,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Jaejoong,r
+Switch Cha Hakyeon | N,2,/tags/Switch%20Cha%20Hakyeon%20%7C%20N,f
+Sub Jung Taekwoon | Leo,8,/tags/Sub%20Jung%20Taekwoon%20%7C%20Leo,f
+Kim Taehyung | V/Kim Wonshik | Ravi,0,/tags/Kim%20Taehyung%20%7C%20V*s*Kim%20Wonshik%20%7C%20Ravi,r
+Han Sanghyuk | Hyuk & Kim Wonshik | Ravi,2,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Kim%20Wonshik%20%7C%20Ravi,r
+Jung Taekwoon | Leo/Shim Changmin,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Shim%20Changmin,r
+Kid Lee Hongbin,3,/tags/Kid%20Lee%20Hongbin,f
+Kid Kim Wonshik | Ravi,2,/tags/Kid%20Kim%20Wonshik%20%7C%20Ravi,f
+Cha Hakyeon | N/Kim Minsung | Hansol,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Minsung%20%7C%20Hansol,r
+Jung Taekwoon | Leo-centric,17,/tags/Jung%20Taekwoon%20%7C%20Leo-centric,f
+Cha Hakyeon | N/Kim Himchan,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Himchan,r
+Han Sanghyuk | Hyuk/Jung Daehyun,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Jung%20Daehyun,r
+Mentioned Jung Taekwoon | Leo,2,/tags/Mentioned%20Jung%20Taekwoon%20%7C%20Leo,f
+Jung Hoseok | J-Hope/Jung Taekwoon | Leo,1,/tags/Jung%20Hoseok%20%7C%20J-Hope*s*Jung%20Taekwoon%20%7C%20Leo,r
+VIXXmas,3,/tags/VIXXmas,f
+Jung Taekwoon | Leo/Jung Taekwoon | Leo,2,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Jung%20Taekwoon%20%7C%20Leo,r
+Kim Wonshik | Ravi/Yoon Jeonghan,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Yoon%20Jeonghan,r
+Lee Hongbin-centric,8,/tags/Lee%20Hongbin-centric,f
+Top Kim Wonshik | Ravi,3,/tags/Top%20Kim%20Wonshik%20%7C%20Ravi,f
+Dom Kim Wonshik | Ravi,4,/tags/Dom%20Kim%20Wonshik%20%7C%20Ravi,f
+Jung Taekwoon | Leo/Shin Sung Rok,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Shin%20Sung%20Rok,r
+Cha Hakyeon | N/Kim Ji Soo (Actor),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Ji%20Soo%20(Actor),r
+Cha Hakyeon | N/Kim Ji Soo (Actor)/Lee Won Geun,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Ji%20Soo%20(Actor)*s*Lee%20Won%20Geun,r
+Rapper Kim Wonshik | Ravi,2,/tags/Rapper%20Kim%20Wonshik%20%7C%20Ravi,f
+Omega Kim Wonshik | Ravi,3,/tags/Omega%20Kim%20Wonshik%20%7C%20Ravi,f
+Jung Taekwoon | Leo/Jung Yuji | UJi,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Jung%20Yuji%20%7C%20UJi,r
+Cha Hakyeon | N/Yoo Kihyun,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Yoo%20Kihyun,r
+Cha Hakyeon | N/Kim Junmyeon | Suho/Kim Namjoon | RM,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Junmyeon%20%7C%20Suho*s*Kim%20Namjoon%20%7C%20RM,r
+Mentioned Lee Jaehwan | Ken,6,/tags/Mentioned%20Lee%20Jaehwan%20%7C%20Ken,f
+Jung Taekwoon | Leo/Kim Junmyeon | Suho,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Junmyeon%20%7C%20Suho,r
+Cha Hakyeon | N/Kim Junmyeon | Suho,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Junmyeon%20%7C%20Suho,r
+Im Changkyun | I.M/Lee Hongbin,0,/tags/Im%20Changkyun%20%7C%20I*d*M*s*Lee%20Hongbin,r
+Jeon Jungkook/Kim Wonshik | Ravi,2,/tags/Jeon%20Jungkook*s*Kim%20Wonshik%20%7C%20Ravi,r
+Vampire Cha Hakyeon | N,7,/tags/Vampire%20Cha%20Hakyeon%20%7C%20N,f
+Omega Jung Taekwoon | Leo,2,/tags/Omega%20Jung%20Taekwoon%20%7C%20Leo,f
+Lee Jaehwan | Ken/Yoo Youngjae,0,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Yoo%20Youngjae,r
+Bang Yongguk/Cha Hakyeon | N,0,/tags/Bang%20Yongguk*s*Cha%20Hakyeon%20%7C%20N,r
+Han Sanghyuk | Hyuk & Reader,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Reader,r
+Kim Namjoon | RM/Lee Jaehwan | Ken,1,/tags/Kim%20Namjoon%20%7C%20RM*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Wonshik | Ravi/Min Yoongi | Suga/Jackson Wang,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Min%20Yoongi%20%7C%20Suga*s*Jackson%20Wang,r
+Huang Zi Tao | Z.Tao/Lee Hongbin,0,/tags/Huang%20Zi%20Tao%20%7C%20Z*d*Tao*s*Lee%20Hongbin,r
+Cha Hakyeon | N/Lee Won Geun,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Won%20Geun,r
+Lee Hongbin & Lee Minho | Lee Know,0,/tags/Lee%20Hongbin%20*a*%20Lee%20Minho%20%7C%20Lee%20Know,r
+Han Jisung | Han & Han Sanghyuk | Hyuk,0,/tags/Han%20Jisung%20%7C%20Han%20*a*%20Han%20Sanghyuk%20%7C%20Hyuk,r
+Byun Baekhyun/Kim Wonshik | Ravi,0,/tags/Byun%20Baekhyun*s*Kim%20Wonshik%20%7C%20Ravi,r
+Chae Hyungwon/Kim Wonshik | Ravi,0,/tags/Chae%20Hyungwon*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Jaehwan | Ken/Lee Minhyuk (Monsta X),0,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Lee%20Minhyuk%20(Monsta%20X),r
+Cha Hakyeon | N/Son Hyunwoo | Shownu,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Son%20Hyunwoo%20%7C%20Shownu,r
+Jung Taekwoon | Leo/Kim Junsu (JYJ),0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Junsu%20(JYJ),r
+Han Sanghyuk | Hyuk & Kim Yugyeom,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Kim%20Yugyeom,r
+Cha Hakyeon | N/Kim Seokjin | Jin/Park Jinyoung (GOT7),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Seokjin%20%7C%20Jin*s*Park%20Jinyoung%20(GOT7),r
+Jung Taekwoon | Leo/Persephone (Ancient Greek Religion & Lore),0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Persephone%20(Ancient%20Greek%20Religion%20*a*%20Lore),r
+Lee Jaehwan | Ken/Park Chanyeol,1,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Park%20Chanyeol,r
+Im Changkyun | I.M/Jung Taekwoon | Leo,0,/tags/Im%20Changkyun%20%7C%20I*d*M*s*Jung%20Taekwoon%20%7C%20Leo,r
+Jung Taekwoon | Leo/Lee Jinki | Onew,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Jinki%20%7C%20Onew,r
+Jung Taekwoon | Leo/Park Miyeon | Serri,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Park%20Miyeon%20%7C%20Serri,r
+Omega Cha Hakyeon | N,5,/tags/Omega%20Cha%20Hakyeon%20%7C%20N,f
+VIXX Ensemble/Reader,2,/tags/VIXX%20Ensemble*s*Reader,r
+Kim Jongin | Kai/Kim Wonshik | Ravi/Lee Taemin,16,/tags/Kim%20Jongin%20%7C%20Kai*s*Kim%20Wonshik%20%7C%20Ravi*s*Lee%20Taemin,r
+Lee Jaehwan | Ken/Lee Jaehwan | Ken,3,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jung Taekwoon | Leo/Kim Namjoon | RM,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Namjoon%20%7C%20RM,r
+Police Officer Jung Taekwoon | Leo,2,/tags/Police%20Officer%20Jung%20Taekwoon%20%7C%20Leo,f
+"Inspired by ""Beautiful Liar"" by VIXX LR",5,/tags/Inspired%20by%20%22Beautiful%20Liar%22%20by%20VIXX%20LR,f
+CEO Kim Wonshik | Ravi,6,/tags/CEO%20Kim%20Wonshik%20%7C%20Ravi,f
+Cha Hakyeon | N/Park Junhee | Jun,2,/tags/Cha%20Hakyeon%20%7C%20N*s*Park%20Junhee%20%7C%20Jun,r
+Bottom Lee Hongbin,9,/tags/Bottom%20Lee%20Hongbin,f
+Kang Yuchan | Chan/Han Sanghyuk | Hyuk,1,/tags/Kang%20Yuchan%20%7C%20Chan*s*Han%20Sanghyuk%20%7C%20Hyuk,r
+Kim Hongjoong/Lee Hongbin,0,/tags/Kim%20Hongjoong*s*Lee%20Hongbin,r
+Kim Seon Ho/Kim Wonshik | Ravi,3,/tags/Kim%20Seon%20Ho*s*Kim%20Wonshik%20%7C%20Ravi,r
+Kim Taehyung | V/Lee Hongbin,0,/tags/Kim%20Taehyung%20%7C%20V*s*Lee%20Hongbin,r
+Han Sanghyuk | Hyuk/Kim Jongdae | Chen,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Jongdae%20%7C%20Chen,r
+Top Lee Jaehwan | Ken,4,/tags/Top%20Lee%20Jaehwan%20%7C%20Ken,f
+Lee Hongbin/Shin Bora | Hana,1,/tags/Lee%20Hongbin*s*Shin%20Bora%20%7C%20Hana,r
+Kim Wonshik | Ravi/Park Chiwoong | Xydo,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Park%20Chiwoong%20%7C%20Xydo,r
+Photographer Lee Hongbin,5,/tags/Photographer%20Lee%20Hongbin,f
+Kim Chungha/Kim Wonshik | Ravi,0,/tags/Kim%20Chungha*s*Kim%20Wonshik%20%7C%20Ravi,r
+Jung Hoseok | J-Hope/Lee Jaehwan | Ken,1,/tags/Jung%20Hoseok%20%7C%20J-Hope*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jeon Jungkook/Lee Jaehwan | Ken,2,/tags/Jeon%20Jungkook*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Namjoon | RM/Kim Seokjin | Jin/Lee Jaehwan | Ken,1,/tags/Kim%20Namjoon%20%7C%20RM*s*Kim%20Seokjin%20%7C%20Jin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jeon Jungkook/Kim Taehyung | V/Lee Jaehwan | Ken,1,/tags/Jeon%20Jungkook*s*Kim%20Taehyung%20%7C%20V*s*Lee%20Jaehwan%20%7C%20Ken,r
+Lee Jaehwan | Ken/Min Yoongi | Suga,2,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Min%20Yoongi%20%7C%20Suga,r
+Jung Hoseok | J-Hope/Lee Jaehwan | Ken/Park Jimin (BTS),1,/tags/Jung%20Hoseok%20%7C%20J-Hope*s*Lee%20Jaehwan%20%7C%20Ken*s*Park%20Jimin%20(BTS),r
+Lee Jaehwan | Ken/Park Jimin (BTS),1,/tags/Lee%20Jaehwan%20%7C%20Ken*s*Park%20Jimin%20(BTS),r
+Beta Lee Hongbin,3,/tags/Beta%20Lee%20Hongbin,f
+Alpha Han Sanghyuk | Hyuk,0,/tags/Alpha%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Lee Chanhyuk/Lee Jaehwan | Ken,0,/tags/Lee%20Chanhyuk*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jo Youngmin/Lee Jaehwan | Ken,1,/tags/Jo%20Youngmin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Jo Kwangmin/Jung Taekwoon | Leo,1,/tags/Jo%20Kwangmin*s*Jung%20Taekwoon%20%7C%20Leo,r
+Ahn Heeyeon | Hani/Lee Jaehwan | Ken/Moon Byulyi | Moonbyul,1,/tags/Ahn%20Heeyeon%20%7C%20Hani*s*Lee%20Jaehwan%20%7C%20Ken*s*Moon%20Byulyi%20%7C%20Moonbyul,r
+Student Lee Hongbin,2,/tags/Student%20Lee%20Hongbin,f
+Kim Jung Hyun (b. 1990)/Lee Jaehwan | Ken,0,/tags/Kim%20Jung%20Hyun%20(b*d*%201990)*s*Lee%20Jaehwan%20%7C%20Ken,r
+Kim Seokjin | Jin & Lee Jaehwan | Ken,2,/tags/Kim%20Seokjin%20%7C%20Jin%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N & Jung Hoseok | J-Hope,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Jung%20Hoseok%20%7C%20J-Hope,r
+Jung Taekwoon | Leo/Lee Seunghyun | Seungri,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Seunghyun%20%7C%20Seungri,r
+Jeon Woosung | Chillin Homie/Kim Wonshik | Ravi,1,/tags/Jeon%20Woosung%20%7C%20Chillin%20Homie*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Hongbin/Undisclosed,0,/tags/Lee%20Hongbin*s*Undisclosed,r
+Cha Hakyeon | N/Kim Wonshik | Ravi/Reader,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Kim%20Wonshik%20%7C%20Ravi*s*Reader,r
+Jung Taekwoon | Leo/Original Male Character(s),1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Original%20Male%20Character(s),r
+Han Sanghyuk | Hyuk/Kim Wonshik | Ravi/Original Female Character(s),0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Wonshik%20%7C%20Ravi*s*Original%20Female%20Character(s),r
+Jung Taekwoon | Leo/Lee Hoseok | Wonho,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Hoseok%20%7C%20Wonho,r
+Cha Hakyeon | N/Jung Eunji/Jung Taekwoon | Leo,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Jung%20Eunji*s*Jung%20Taekwoon%20%7C%20Leo,r
+Alpha Cha Hakyeon | N,2,/tags/Alpha%20Cha%20Hakyeon%20%7C%20N,f
+Alpha Lee Jaehwan | Ken,0,/tags/Alpha%20Lee%20Jaehwan%20%7C%20Ken,f
+Alpha Kim Wonshik | Ravi,6,/tags/Alpha%20Kim%20Wonshik%20%7C%20Ravi,f
+Alpha Lee Hongbin,3,/tags/Alpha%20Lee%20Hongbin,f
+Bottom Cha Hakyeon | N,2,/tags/Bottom%20Cha%20Hakyeon%20%7C%20N,f
+Dom Han Sanghyuk | Hyuk,3,/tags/Dom%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Sub Lee Jaehwan | Ken,2,/tags/Sub%20Lee%20Jaehwan%20%7C%20Ken,f
+Sub Lee Hongbin,3,/tags/Sub%20Lee%20Hongbin,f
+Sub Han Sanghyuk | Hyuk,5,/tags/Sub%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Top Han Sanghyuk | Hyuk,4,/tags/Top%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Omega Lee Jaehwan | Ken,5,/tags/Omega%20Lee%20Jaehwan%20%7C%20Ken,f
+Omega Lee Hongbin,0,/tags/Omega%20Lee%20Hongbin,f
+Vampire Kim Wonshik | Ravi,3,/tags/Vampire%20Kim%20Wonshik%20%7C%20Ravi,f
+Vampire Lee Hongbin,2,/tags/Vampire%20Lee%20Hongbin,f
+Vampire Han Sanghyuk | Hyuk,0,/tags/Vampire%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Mentioned VIXX Ensemble,6,/tags/Mentioned%20VIXX%20Ensemble,f
+Mentioned Han Sanghyuk | Hyuk,0,/tags/Mentioned%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Mentioned Kim Wonshik | Ravi,3,/tags/Mentioned%20Kim%20Wonshik%20%7C%20Ravi,f
+Dancer Cha Hakyeon | N,1,/tags/Dancer%20Cha%20Hakyeon%20%7C%20N,f
+Dance Instructor Cha Hakyeon | N,4,/tags/Dance%20Instructor%20Cha%20Hakyeon%20%7C%20N,f
+Parent Cha Hakyeon | N,1,/tags/Parent%20Cha%20Hakyeon%20%7C%20N,f
+Cute Cha Hakyeon | N,0,/tags/Cute%20Cha%20Hakyeon%20%7C%20N,f
+Merperson Cha Hakyeon | N,1,/tags/Merperson%20Cha%20Hakyeon%20%7C%20N,f
+Merperson Jung Taekwoon | Leo,1,/tags/Merperson%20Jung%20Taekwoon%20%7C%20Leo,f
+Female Jung Taekwoon | Leo,1,/tags/Female%20Jung%20Taekwoon%20%7C%20Leo,f
+Parent Jung Taekwoon | Leo,1,/tags/Parent%20Jung%20Taekwoon%20%7C%20Leo,f
+Shy Jung Taekwoon | Leo,7,/tags/Shy%20Jung%20Taekwoon%20%7C%20Leo,f
+Pianist Jung Taekwoon | Leo,3,/tags/Pianist%20Jung%20Taekwoon%20%7C%20Leo,f
+Minor Han Sanghyuk | Hyuk/Lee Hongbin,0,/tags/Minor%20Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Hongbin,f
+Jeon Jungkook/Lee Hongbin,2,/tags/Jeon%20Jungkook*s*Lee%20Hongbin,r
+Cha Hakyeon/Han Sanghyuk/Jeon Jungkook/Jung Taekwoon/Kim Wonshik/Lee Hongbin/Lee Jaehwan,0,/tags/Cha%20Hakyeon*s*Han%20Sanghyuk*s*Jeon%20Jungkook*s*Jung%20Taekwoon*s*Kim%20Wonshik*s*Lee%20Hongbin*s*Lee%20Jaehwan,r
+Fairy Lee Hongbin,0,/tags/Fairy%20Lee%20Hongbin,f
+Kim Wonshik | Ravi-centric,10,/tags/Kim%20Wonshik%20%7C%20Ravi-centric,f
+Bangtan Boys | BTS Ensemble/VIXX Ensemble,0,/tags/Bangtan%20Boys%20%7C%20BTS%20Ensemble*s*VIXX%20Ensemble,r
+Bangtan Boys | BTS Ensemble/GOT7 Ensemble/VIXX Ensemble,0,/tags/Bangtan%20Boys%20%7C%20BTS%20Ensemble*s*GOT7%20Ensemble*s*VIXX%20Ensemble,r
+Fairy Lee Jaehwan | Ken,3,/tags/Fairy%20Lee%20Jaehwan%20%7C%20Ken,f
+Han Sanghyuk | Hyuk/Hwang Hyunjin,1,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Hwang%20Hyunjin,r
+Inspired by Voodoo Doll (VIXX Music Video),2,/tags/Inspired%20by%20Voodoo%20Doll%20(VIXX%20Music%20Video),f
+University Student Han Sanghyuk | Hyuk,1,/tags/University%20Student%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Jung Taekwoon | Leo as Death,0,/tags/Jung%20Taekwoon%20%7C%20Leo%20as%20Death,f
+Demon Han Sanghyuk | Hyuk,1,/tags/Demon%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Gamer Lee Hongbin,2,/tags/Gamer%20Lee%20Hongbin,f
+Good Leader Cha Hakyeon | N,0,/tags/Good%20Leader%20Cha%20Hakyeon%20%7C%20N,f
+CEO Lee Jaehwan | Ken,2,/tags/CEO%20Lee%20Jaehwan%20%7C%20Ken,f
+Minor Cha Hakyeon | N/Han Sanghyuk | Hyuk,5,/tags/Minor%20Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk,f
+Minor Kim Seokjin | Jin/Lee Jaehwan | Ken,4,/tags/Minor%20Kim%20Seokjin%20%7C%20Jin*s*Lee%20Jaehwan%20%7C%20Ken,f
+Cat Jung Taekwoon | Leo,0,/tags/Cat%20Jung%20Taekwoon%20%7C%20Leo,f
+Minor Jung Taekwoon | Leo/Lee Hongbin,0,/tags/Minor%20Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Hongbin,f
+Priest Kim Wonshik | Ravi,0,/tags/Priest%20Kim%20Wonshik%20%7C%20Ravi,f
+Prince Cha Hakyeon | N,1,/tags/Prince%20Cha%20Hakyeon%20%7C%20N,f
+Prince Jung Taekwoon | Leo,1,/tags/Prince%20Jung%20Taekwoon%20%7C%20Leo,f
+Soft Cha Hakyeon | N,0,/tags/Soft%20Cha%20Hakyeon%20%7C%20N,f
+Soft Jung Taekwoon | Leo,0,/tags/Soft%20Jung%20Taekwoon%20%7C%20Leo,f
+Soft Han Sanghyuk | Hyuk,0,/tags/Soft%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Rich Cha Hakyeon | N,2,/tags/Rich%20Cha%20Hakyeon%20%7C%20N,f
+Sad Cha Hakyeon | N,0,/tags/Sad%20Cha%20Hakyeon%20%7C%20N,f
+Student Kim Wonshik | Ravi,0,/tags/Student%20Kim%20Wonshik%20%7C%20Ravi,f
+SpookyVIXX October,39,/tags/SpookyVIXX%20October,f
+Cha Hakyeon | N & Lee Jaehwan | Ken,3,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+Cha Hakyeon | N/Lee Dongheon (VERIVERY),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Dongheon%20(VERIVERY),r
+Lee Hongbin/Park Hyoshin (Singer),0,/tags/Lee%20Hongbin*s*Park%20Hyoshin%20(Singer),r
+Sweet Cha Hakyeon | N,0,/tags/Sweet%20Cha%20Hakyeon%20%7C%20N,f
+Sweet Jung Taekwoon | Leo,0,/tags/Sweet%20Jung%20Taekwoon%20%7C%20Leo,f
+Sweet Kim Wonshik | Ravi,1,/tags/Sweet%20Kim%20Wonshik%20%7C%20Ravi,f
+Kim Kibum | Key/Kim Wonshik | Ravi,0,/tags/Kim%20Kibum%20%7C%20Key*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Hongbin/Other(s),0,/tags/Lee%20Hongbin*s*Other(s),r
+Kim Wonshik | Ravi/Seo Changbin,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Seo%20Changbin,r
+Cha Hakyeon | N/Choi Dong Joo,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Choi%20Dong%20Joo,r
+Cha Hakyeon | N/Choi Dong Seok (The Family is Coming!),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Choi%20Dong%20Seok%20(The%20Family%20is%20Coming!),r
+Jung Hoseok | J-Hope/Lee Hongbin,0,/tags/Jung%20Hoseok%20%7C%20J-Hope*s*Lee%20Hongbin,r
+VIXXMas2020,9,/tags/VIXXMas2020,f
+Best Friends Han Sanghyuk | Hyuk & Lee Hongbin,1,/tags/Best%20Friends%20Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Lee%20Hongbin,f
+Mother Hen Cha Hakyeon | N,5,/tags/Mother%20Hen%20Cha%20Hakyeon%20%7C%20N,f
+Cha Hakyeon | N/Lee Yi Kyung (Actor),0,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Yi%20Kyung%20(Actor),r
+POV Jung Taekwoon | Leo,0,/tags/POV%20Jung%20Taekwoon%20%7C%20Leo,f
+Cha Hakyeon | N & Kim Sunggyu (INFINITE),0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Kim%20Sunggyu%20(INFINITE),r
+Jung Taekwoon | Leo/Kim Sunggyu (INFINITE),0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Sunggyu%20(INFINITE),r
+VIXXentines 2021,1,/tags/VIXXentines%202021,f
+Kim Wonshik | Ravi & Lee Jaehwan | Ken,2,/tags/Kim%20Wonshik%20%7C%20Ravi%20*a*%20Lee%20Jaehwan%20%7C%20Ken,r
+inTOXICating Fic Fest,0,/tags/inTOXICating%20Fic%20Fest,f
+Kim Taeyeon (SNSD)/Kim Wonshik | Ravi,0,/tags/Kim%20Taeyeon%20(SNSD)*s*Kim%20Wonshik%20%7C%20Ravi,r
+Lee Hongbin/Lee Hyun Woo (b. 1993),0,/tags/Lee%20Hongbin*s*Lee%20Hyun%20Woo%20(b*d*%201993),r
+Kim Hongjoong/Kim Wonshik | Ravi,0,/tags/Kim%20Hongjoong*s*Kim%20Wonshik%20%7C%20Ravi,r
+Han Sanghyuk | Hyuk/Kim Mingyu (SEVENTEEN),0,/tags/Han%20Sanghyuk%20%7C%20Hyuk*s*Kim%20Mingyu%20(SEVENTEEN),r
+Cha Hakyeon | N/Undisclosed,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Undisclosed,r
+Jung Taekwoon | Leo/Lee Sejin | LYn,0,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Sejin%20%7C%20LYn,r
+Cha Hakyeon | N/Lee Hongbin/Lee Jaehwan | Ken,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Lee%20Hongbin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Taekwoon Fic-Fest Bingo,0,/tags/Taekwoon%20Fic-Fest%20Bingo,f
+SpookyVIXX October 2021,19,/tags/SpookyVIXX%20October%202021,f
+Kang Seulgi/Lee Jaehwan | Ken,0,/tags/Kang%20Seulgi*s*Lee%20Jaehwan%20%7C%20Ken,r
+Song: Chained Up (VIXX),2,/tags/Song:%20Chained%20Up%20(VIXX),f
+Lee Hongbin/Lee Taemin,0,/tags/Lee%20Hongbin*s*Lee%20Taemin,r
+Han Sanghyuk | Hyuk & Kim Hongjoong,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Kim%20Hongjoong,r
+Cha Hakyeon | N & Kim Hongjoong,0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Kim%20Hongjoong,r
+Cha Hakyeon | N/Kang Yuchan | Chan,1,/tags/Cha%20Hakyeon%20%7C%20N*s*Kang%20Yuchan%20%7C%20Chan,r
+Singer Lee Jaehwan | Ken,0,/tags/Singer%20Lee%20Jaehwan%20%7C%20Ken,f
+Lee Jaehwan | Ken & Lee Seokmin | DK,0,/tags/Lee%20Jaehwan%20%7C%20Ken%20*a*%20Lee%20Seokmin%20%7C%20DK,r
+Kim Chanmi/Kim Wonshik | Ravi,1,/tags/Kim%20Chanmi*s*Kim%20Wonshik%20%7C%20Ravi,r
+Cha Hakyeon | N/Park Sunyoung | Luna,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Park%20Sunyoung%20%7C%20Luna,r
+Cha Hakyeon | N/Han Sanghyuk | Hyuk/Lee Hongbin/Lee Jaehwan | Ken,0,/tags/Cha%20Hakyeon%20%7C%20N*s*Han%20Sanghyuk%20%7C%20Hyuk*s*Lee%20Hongbin*s*Lee%20Jaehwan%20%7C%20Ken,r
+Bang Chan (Stray Kids)/Kim Wonshik | Ravi,0,/tags/Bang%20Chan%20(Stray%20Kids)*s*Kim%20Wonshik%20%7C%20Ravi,r
+Bang Chan (Stray Kids)/Kim Wonshik | Ravi/Seo Changbin,0,/tags/Bang%20Chan%20(Stray%20Kids)*s*Kim%20Wonshik%20%7C%20Ravi*s*Seo%20Changbin,r
+Jung Wooyoung (ATEEZ)/Kim Wonshik | Ravi,0,/tags/Jung%20Wooyoung%20(ATEEZ)*s*Kim%20Wonshik%20%7C%20Ravi,r
+Jung Taekwoon | Leo/Lee Taemin,1,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Lee%20Taemin,r
+Jung Taekwoon | Leo & Kim Minseok | Xiumin,0,/tags/Jung%20Taekwoon%20%7C%20Leo%20*a*%20Kim%20Minseok%20%7C%20Xiumin,r
+Dynamite Era (VIXX),1,/tags/Dynamite%20Era%20(VIXX),f
+POV Cha Hakyeon | N,0,/tags/POV%20Cha%20Hakyeon%20%7C%20N,f
+POV Han Sanghyuk | Hyuk,0,/tags/POV%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Inspired by Shangri-La (VIXX),3,/tags/Inspired%20by%20Shangri-La%20(VIXX),f
+Song: Shangri-La (VIXX),1,/tags/Song:%20Shangri-La%20(VIXX),f
+Human Cha Hakyeon | N,0,/tags/Human%20Cha%20Hakyeon%20%7C%20N,f
+Human Jung Taekwoon | Leo,0,/tags/Human%20Jung%20Taekwoon%20%7C%20Leo,f
+Human Han Sanghyuk | Hyuk,1,/tags/Human%20Han%20Sanghyuk%20%7C%20Hyuk,f
+Human Kim Wonshik | Ravi,0,/tags/Human%20Kim%20Wonshik%20%7C%20Ravi,f
+Barista Lee Jaehwan | Ken,0,/tags/Barista%20Lee%20Jaehwan%20%7C%20Ken,f
+Barista Kim Wonshik | Ravi,0,/tags/Barista%20Kim%20Wonshik%20%7C%20Ravi,f
+Poor Jung Taekwoon | Leo,0,/tags/Poor%20Jung%20Taekwoon%20%7C%20Leo,f
+Virgin Jung Taekwoon | Leo,0,/tags/Virgin%20Jung%20Taekwoon%20%7C%20Leo,f
+Female Lee Jaehwan | Ken,0,/tags/Female%20Lee%20Jaehwan%20%7C%20Ken,f
+Artist Kim Wonshik | Ravi,0,/tags/Artist%20Kim%20Wonshik%20%7C%20Ravi,f
+Artist Jung Taekwoon | Leo,0,/tags/Artist%20Jung%20Taekwoon%20%7C%20Leo,f
+Kim Seokjin | Jin/Lee Jaehwan | Ken/Min Yoongi | Suga,0,/tags/Kim%20Seokjin%20%7C%20Jin*s*Lee%20Jaehwan%20%7C%20Ken*s*Min%20Yoongi%20%7C%20Suga,r
+VIXX X Fest 2022,0,/tags/VIXX%20X%20Fest%202022,f
+Title from a VIXX Song,1,/tags/Title%20from%20a%20VIXX%20Song,f
+Inspired by VIXX,2,/tags/Inspired%20by%20VIXX,f
+Inspired by a VIXX Song,2,/tags/Inspired%20by%20a%20VIXX%20Song,f
+Lee Hongbin Has Issues,0,/tags/Lee%20Hongbin%20Has%20Issues,f
+Lee Jaehwan | Ken Being an Asshole,0,/tags/Lee%20Jaehwan%20%7C%20Ken%20Being%20an%20Asshole,f
+Jung Taekwoon | Leo Being an Asshole,0,/tags/Jung%20Taekwoon%20%7C%20Leo%20Being%20an%20Asshole,f
+Writer Kim Wonshik | Ravi,0,/tags/Writer%20Kim%20Wonshik%20%7C%20Ravi,f
+Musician Jung Taekwoon | Leo,0,/tags/Musician%20Jung%20Taekwoon%20%7C%20Leo,f
+Kim Wonshik | Ravi/Lim Cheol | DinDin,0,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Lim%20Cheol%20%7C%20DinDin,r
+Cha Hakyeon | N & Original Character(s),0,/tags/Cha%20Hakyeon%20%7C%20N%20*a*%20Original%20Character(s),r
+Han Sanghyuk | Hyuk & Jeon Jungkook,0,/tags/Han%20Sanghyuk%20%7C%20Hyuk%20*a*%20Jeon%20Jungkook,r
+Kim Wonshik | Ravi/Oh Sehun,1,/tags/Kim%20Wonshik%20%7C%20Ravi*s*Oh%20Sehun,r
+Jung Taekwoon | Leo/Kim Hanbin | B.I,2,/tags/Jung%20Taekwoon%20%7C%20Leo*s*Kim%20Hanbin%20%7C%20B*d*I,r
+Bangtan Boys | BTS Ensemble/Lee Jaehwan | Ken,0,/tags/Bangtan%20Boys%20%7C%20BTS%20Ensemble*s*Lee%20Jaehwan%20%7C%20Ken,r
+Lee Jaehwan | Ken/VIXX Ensemble,0,/tags/Lee%20Jaehwan%20%7C%20Ken*s*VIXX%20Ensemble,r
+BamBam Kunpimook Bhuwakul/Cha Hakyeon | N,0,/tags/BamBam%20Kunpimook%20Bhuwakul*s*Cha%20Hakyeon%20%7C%20N,r

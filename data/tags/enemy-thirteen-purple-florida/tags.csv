@@ -1,0 +1,828 @@
+tag,count,href,category
+John Lennon,4829,/tags/John%20Lennon,c
+Paul McCartney,4838,/tags/Paul%20McCartney,c
+Ringo Starr,3019,/tags/Ringo%20Starr,c
+John Lennon/Paul McCartney,3454,/tags/John%20Lennon*s*Paul%20McCartney,r
+George Harrison/Paul McCartney,246,/tags/George%20Harrison*s*Paul%20McCartney,r
+Brian Epstein,873,/tags/Brian%20Epstein,c
+Nat Weiss,3,/tags/Nat%20Weiss,c
+Cilla Black,6,/tags/Cilla%20Black,c
+Clive Epstein,6,/tags/Clive%20Epstein,c
+Brian Epstein/Alistair Taylor,2,/tags/Brian%20Epstein*s*Alistair%20Taylor,r
+Alistair Taylor/Lesley Taylor,1,/tags/Alistair%20Taylor*s*Lesley%20Taylor,r
+Alistair Taylor,9,/tags/Alistair%20Taylor,c
+Lesley Taylor,1,/tags/Lesley%20Taylor,c
+Stuart Sutcliffe,357,/tags/Stuart%20Sutcliffe,c
+Astrid Kirchherr,93,/tags/Astrid%20Kirchherr,c
+Astrid Kirchherr/Stuart Sutcliffe,36,/tags/Astrid%20Kirchherr*s*Stuart%20Sutcliffe,r
+John Lennon/Stuart Sutcliffe,74,/tags/John%20Lennon*s*Stuart%20Sutcliffe,r
+Klaus Voormann,44,/tags/Klaus%20Voormann,c
+Astrid Kirchherr/Klaus Voormann,0,/tags/Astrid%20Kirchherr*s*Klaus%20Voormann,r
+Pete Best,167,/tags/Pete%20Best,c
+Brian Epstein/John Lennon,120,/tags/Brian%20Epstein*s*John%20Lennon,r
+George Harrison/Ringo Starr,1086,/tags/George%20Harrison*s*Ringo%20Starr,r
+Dhani Harrison,64,/tags/Dhani%20Harrison,c
+George Harrison/Jeff Lynne,5,/tags/George%20Harrison*s*Jeff%20Lynne,r
+Dhani Harrison/Jeff Lynne,2,/tags/Dhani%20Harrison*s*Jeff%20Lynne,r
+Rory Storm and the Hurricanes,20,/tags/Rory%20Storm%20and%20the%20Hurricanes,c
+Yoko Ono,338,/tags/Yoko%20Ono,c
+Cynthia Lennon,342,/tags/Cynthia%20Lennon,c
+George Martin,209,/tags/George%20Martin,c
+George Harrison/John Lennon,169,/tags/George%20Harrison*s*John%20Lennon,r
+Bob Dylan/George Harrison,118,/tags/Bob%20Dylan*s*George%20Harrison,r
+Jack Harkness/John Lennon,0,/tags/Jack%20Harkness*s*John%20Lennon,r
+Bob Dylan/Dhani Harrison,1,/tags/Bob%20Dylan*s*Dhani%20Harrison,r
+Alma Cogan/Brian Epstein,2,/tags/Alma%20Cogan*s*Brian%20Epstein,r
+Brian Epstein/George Harrison,12,/tags/Brian%20Epstein*s*George%20Harrison,r
+John Lennon/Ringo Starr,104,/tags/John%20Lennon*s*Ringo%20Starr,r
+Bob Wooler,14,/tags/Bob%20Wooler,c
+Billy J. Kramer,2,/tags/Billy%20J*d*%20Kramer,c
+Pete Shotton,55,/tags/Pete%20Shotton,c
+Gerry Marsden,1,/tags/Gerry%20Marsden,c
+Julian Lennon,188,/tags/Julian%20Lennon,c
+Linda McCartney,313,/tags/Linda%20McCartney,c
+Derek Taylor,21,/tags/Derek%20Taylor,c
+Neil Aspinall,112,/tags/Neil%20Aspinall,c
+Robert Stigwood,1,/tags/Robert%20Stigwood,c
+Julian Lennon/Sean Lennon,1,/tags/Julian%20Lennon*s*Sean%20Lennon,r
+John Lennon/Yoko Ono,208,/tags/John%20Lennon*s*Yoko%20Ono,r
+Frank Iero/John Lennon,0,/tags/Frank%20Iero*s*John%20Lennon,r
+Billie Joe Armstrong/John Lennon,5,/tags/Billie%20Joe%20Armstrong*s*John%20Lennon,r
+Billie Joe Armstrong/Frank Iero/John Lennon,0,/tags/Billie%20Joe%20Armstrong*s*Frank%20Iero*s*John%20Lennon,r
+Billie Joe Armstrong/John Lennon/Paul McCartney,0,/tags/Billie%20Joe%20Armstrong*s*John%20Lennon*s*Paul%20McCartney,r
+Mike Dirnt/Paul McCartney,0,/tags/Mike%20Dirnt*s*Paul%20McCartney,r
+Tré Cool/Ringo Starr,1,/tags/Tr%C3%A9%20Cool*s*Ringo%20Starr,r
+Mia Farrow,3,/tags/Mia%20Farrow,c
+Prudence Farrow,2,/tags/Prudence%20Farrow,c
+Prudence (Dear Prudence),2,/tags/Prudence%20(Dear%20Prudence),c
+Astrid Kirchherr/John Lennon,1,/tags/Astrid%20Kirchherr*s*John%20Lennon,r
+Sean Lennon,71,/tags/Sean%20Lennon,c
+Dhani Harrison/Jeff Lynne/Tom Petty,0,/tags/Dhani%20Harrison*s*Jeff%20Lynne*s*Tom%20Petty,r
+Andrew Hansen/Paul McCartney,1,/tags/Andrew%20Hansen*s*Paul%20McCartney,r
+David Bowie/George Harrison,1,/tags/David%20Bowie*s*George%20Harrison,r
+Brian Epstein/Paul McCartney,18,/tags/Brian%20Epstein*s*Paul%20McCartney,r
+May Pang,42,/tags/May%20Pang,c
+George Harrison & Paul McCartney,176,/tags/George%20Harrison%20*a*%20Paul%20McCartney,r
+John Eastman,8,/tags/John%20Eastman,c
+George Harrison & Ringo Starr,203,/tags/George%20Harrison%20*a*%20Ringo%20Starr,r
+Bob Gruen,1,/tags/Bob%20Gruen,c
+Marianne Faithfull & Paul McCartney,2,/tags/Marianne%20Faithfull%20*a*%20Paul%20McCartney,r
+Julian Lennon/Zak Starkey,1,/tags/Julian%20Lennon*s*Zak%20Starkey,r
+Zak Starkey,14,/tags/Zak%20Starkey,c
+Astrid Kirchherr & Paul McCartney,1,/tags/Astrid%20Kirchherr%20*a*%20Paul%20McCartney,r
+Harry Torrington,1,/tags/Harry%20Torrington,c
+Jane Asher,154,/tags/Jane%20Asher,c
+Jim McCartney,202,/tags/Jim%20McCartney,c
+Mike McCartney,153,/tags/Mike%20McCartney,c
+Mimi Smith,197,/tags/Mimi%20Smith,c
+Margaret Asher,5,/tags/Margaret%20Asher,c
+Brian Epstein/Ringo Starr,11,/tags/Brian%20Epstein*s*Ringo%20Starr,r
+Ivan Vaughan,50,/tags/Ivan%20Vaughan,c
+Colin Hanton,10,/tags/Colin%20Hanton,c
+John Lennon/Other(s),4,/tags/John%20Lennon*s*Other(s),r
+Robert Fraser/Paul McCartney,26,/tags/Robert%20Fraser*s*Paul%20McCartney,r
+Brian Epstein/Marianne Faithfull,0,/tags/Brian%20Epstein*s*Marianne%20Faithfull,r
+Jane Asher/Paul McCartney,82,/tags/Jane%20Asher*s*Paul%20McCartney,r
+Vivien Leigh/Ringo Starr,0,/tags/Vivien%20Leigh*s*Ringo%20Starr,r
+Paul McCartney & Keith Richards,1,/tags/Paul%20McCartney%20*a*%20Keith%20Richards,r
+John Lennon & Ringo Starr,32,/tags/John%20Lennon%20*a*%20Ringo%20Starr,r
+Paul McCartney & Ringo Starr,54,/tags/Paul%20McCartney%20*a*%20Ringo%20Starr,r
+Paul McCartney & Yoko Ono,2,/tags/Paul%20McCartney%20*a*%20Yoko%20Ono,r
+Paul McCartney/Maggie McGivern,2,/tags/Paul%20McCartney*s*Maggie%20McGivern,r
+Maggie McGivern,2,/tags/Maggie%20McGivern,c
+Peter Brown/Kenny Everett,1,/tags/Peter%20Brown*s*Kenny%20Everett,r
+Peter Brown/Tommy Nutter,1,/tags/Peter%20Brown*s*Tommy%20Nutter,r
+Kenny Everett,7,/tags/Kenny%20Everett,c
+Tommy Nutter,1,/tags/Tommy%20Nutter,c
+Peter Brown/John Lennon,0,/tags/Peter%20Brown*s*John%20Lennon,r
+Pattie Boyd,201,/tags/Pattie%20Boyd,c
+Rory Storm,33,/tags/Rory%20Storm,c
+Beatlemania,12,/tags/Beatlemania,f
+George Harrison/Keith Richards,0,/tags/George%20Harrison*s*Keith%20Richards,r
+Peter Harrison,9,/tags/Peter%20Harrison,c
+Brian Epstein/George Martin,9,/tags/Brian%20Epstein*s*George%20Martin,r
+Paul McCartney/Stuart Sutcliffe,19,/tags/Paul%20McCartney*s*Stuart%20Sutcliffe,r
+John Lennon/Original Female Character(s),32,/tags/John%20Lennon*s*Original%20Female%20Character(s),r
+Paul McCartney/Original Female Character(s),19,/tags/Paul%20McCartney*s*Original%20Female%20Character(s),r
+Maureen Cox,70,/tags/Maureen%20Cox,c
+Ruth McCartney,3,/tags/Ruth%20McCartney,c
+Paul McCartney/Dot Rhone,18,/tags/Paul%20McCartney*s*Dot%20Rhone,r
+Linda McCartney/Paul McCartney,191,/tags/Linda%20McCartney*s*Paul%20McCartney,r
+John Lennon/Harry Potter,0,/tags/John%20Lennon*s*Harry%20Potter,r
+Paul McCartney/Other(s),2,/tags/Paul%20McCartney*s*Other(s),r
+Pre-Beatles,53,/tags/Pre-Beatles,f
+John Lennon & Sean Lennon,10,/tags/John%20Lennon%20*a*%20Sean%20Lennon,r
+Julian Lennon & Sean Lennon,5,/tags/Julian%20Lennon%20*a*%20Sean%20Lennon,r
+Beatles Lyrics,6,/tags/Beatles%20Lyrics,f
+Allan Williams,1,/tags/Allan%20Williams,c
+Noel Charles,0,/tags/Noel%20Charles,c
+Sherlock Holmes/Paul McCartney,0,/tags/Sherlock%20Holmes*s*Paul%20McCartney,r
+Early Beatles,93,/tags/Early%20Beatles,f
+Teenage Beatles,3,/tags/Teenage%20Beatles,f
+Mick Jagger/John Lennon,6,/tags/Mick%20Jagger*s*John%20Lennon,r
+Keith Richards/Klaus Voormann,1,/tags/Keith%20Richards*s*Klaus%20Voormann,r
+George Harrison/Brian Jones,2,/tags/George%20Harrison*s*Brian%20Jones,r
+Paul McCartney/Keith Richards,1,/tags/Paul%20McCartney*s*Keith%20Richards,r
+Mick Jagger/Paul McCartney,0,/tags/Mick%20Jagger*s*Paul%20McCartney,r
+John Lennon/Julia Lennon,3,/tags/John%20Lennon*s*Julia%20Lennon,r
+Paul McCartney/Undisclosed,0,/tags/Paul%20McCartney*s*Undisclosed,r
+Pattie Boyd/Eric Clapton,15,/tags/Pattie%20Boyd*s*Eric%20Clapton,r
+Ringo Starr/Rory Storm,5,/tags/Ringo%20Starr*s*Rory%20Storm,r
+Noel Charles/Cynthia Lennon,0,/tags/Noel%20Charles*s*Cynthia%20Lennon,r
+George Harrison/Other(s),1,/tags/George%20Harrison*s*Other(s),r
+The Beatles (Ensemble),63,/tags/The%20Beatles%20(Ensemble),c
+Peter Asher,3,/tags/Peter%20Asher,c
+Brian Epstein & John Lennon,31,/tags/Brian%20Epstein%20*a*%20John%20Lennon,r
+Brian Epstein & Paul McCartney,17,/tags/Brian%20Epstein%20*a*%20Paul%20McCartney,r
+Brian Epstein & George Harrison,12,/tags/Brian%20Epstein%20*a*%20George%20Harrison,r
+Brian Epstein & Ringo Starr,13,/tags/Brian%20Epstein%20*a*%20Ringo%20Starr,r
+John Lennon & Original Character(s),7,/tags/John%20Lennon%20*a*%20Original%20Character(s),r
+George Harrison & John Lennon & Paul McCartney & Ringo Starr,268,/tags/George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+Paul McCartney/Ringo Starr/Reader,1,/tags/Paul%20McCartney*s*Ringo%20Starr*s*Reader,r
+Female Paul McCartney,9,/tags/Female%20Paul%20McCartney,f
+John Lennon/Alex Turner (Musician),0,/tags/John%20Lennon*s*Alex%20Turner%20(Musician),r
+Barbara Bach/Ringo Starr,23,/tags/Barbara%20Bach*s*Ringo%20Starr,r
+Barbara Bach,36,/tags/Barbara%20Bach,c
+"George Harrison & Leonard ""Bones"" McCoy",0,/tags/George%20Harrison%20*a*%20Leonard%20%22Bones%22%20McCoy,r
+George Harrison/Cynthia Lennon,1,/tags/George%20Harrison*s*Cynthia%20Lennon,r
+Keith Moon/Ringo Starr,3,/tags/Keith%20Moon*s*Ringo%20Starr,r
+Nielsa Kirchherr,0,/tags/Nielsa%20Kirchherr,c
+John Lennon/Paul McCartney/Stuart Sutcliffe,4,/tags/John%20Lennon*s*Paul%20McCartney*s*Stuart%20Sutcliffe,r
+George Harrison/Reader,65,/tags/George%20Harrison*s*Reader,r
+Donovan (Musician)/Paul McCartney,2,/tags/Donovan%20(Musician)*s*Paul%20McCartney,r
+Dot Rhone/Original Character(s),0,/tags/Dot%20Rhone*s*Original%20Character(s),r
+Brian Epstein/Original Character(s),1,/tags/Brian%20Epstein*s*Original%20Character(s),r
+Rex Morris,0,/tags/Rex%20Morris,c
+Jim Chester,0,/tags/Jim%20Chester,c
+Dennis Walton,0,/tags/Dennis%20Walton,c
+Ronald Chamberlain,0,/tags/Ronald%20Chamberlain,c
+Raymond Newman,0,/tags/Raymond%20Newman,c
+George Harrison/Klaus Voormann,9,/tags/George%20Harrison*s*Klaus%20Voormann,r
+Paul McCartney & Paul McCartney,1,/tags/Paul%20McCartney%20*a*%20Paul%20McCartney,r
+George Harrison/Everyone,3,/tags/George%20Harrison*s*Everyone,r
+Paul McCartney/Paul McCartney,4,/tags/Paul%20McCartney*s*Paul%20McCartney,r
+Phil Spector,9,/tags/Phil%20Spector,c
+Ahme (Help!)/Paul McCartney,0,/tags/Ahme%20(Help!)*s*Paul%20McCartney,r
+John Entwistle/John Lennon,1,/tags/John%20Entwistle*s*John%20Lennon,r
+Roger Daltrey/Paul McCartney,1,/tags/Roger%20Daltrey*s*Paul%20McCartney,r
+Cynthia Lennon/Jim McCartney,1,/tags/Cynthia%20Lennon*s*Jim%20McCartney,r
+Julian Lennon & Paul McCartney,10,/tags/Julian%20Lennon%20*a*%20Paul%20McCartney,r
+Brian Epstein/Original Female Character(s),0,/tags/Brian%20Epstein*s*Original%20Female%20Character(s),r
+George Harrison/Keith Moon,0,/tags/George%20Harrison*s*Keith%20Moon,r
+Ringo Starr/Pete Townshend,0,/tags/Ringo%20Starr*s*Pete%20Townshend,r
+Mal Evans & Paul McCartney,2,/tags/Mal%20Evans%20*a*%20Paul%20McCartney,r
+Paul McCartney/Nancy Shevell,11,/tags/Paul%20McCartney*s*Nancy%20Shevell,r
+Pete Best/George Harrison,0,/tags/Pete%20Best*s*George%20Harrison,r
+Paul McCartney & Everyone,1,/tags/Paul%20McCartney%20*a*%20Everyone,r
+The Quarrymen,14,/tags/The%20Quarrymen,c
+Joe Flannery,1,/tags/Joe%20Flannery,c
+Bill Harry,1,/tags/Bill%20Harry,c
+Paul McCartney & Stuart Sutcliffe,4,/tags/Paul%20McCartney%20*a*%20Stuart%20Sutcliffe,r
+Alf Bicknell,2,/tags/Alf%20Bicknell,c
+Jimmie Nicol,2,/tags/Jimmie%20Nicol,c
+Alternate Universe - No Beatles,23,/tags/Alternate%20Universe%20-%20No%20Beatles,f
+Len Garry,5,/tags/Len%20Garry,c
+Royston Ellis,11,/tags/Royston%20Ellis,c
+Tara Browne,10,/tags/Tara%20Browne,c
+Pete Best/Paul McCartney,6,/tags/Pete%20Best*s*Paul%20McCartney,r
+John Lennon/Paul McCartney/Original Female Character(s),1,/tags/John%20Lennon*s*Paul%20McCartney*s*Original%20Female%20Character(s),r
+Tyler Coneys,1,/tags/Tyler%20Coneys,c
+Paul McCartney/You,39,/tags/Paul%20McCartney*s*You,r
+Julia Lennon/Paul McCartney,0,/tags/Julia%20Lennon*s*Paul%20McCartney,r
+Based on a Beatles Song,41,/tags/Based%20on%20a%20Beatles%20Song,f
+Ringo Starr/You,14,/tags/Ringo%20Starr*s*You,r
+Julian Lennon/Original Character(s),0,/tags/Julian%20Lennon*s*Original%20Character(s),r
+Jane Asher/Cynthia Lennon,3,/tags/Jane%20Asher*s*Cynthia%20Lennon,r
+Tara Browne/Paul McCartney,3,/tags/Tara%20Browne*s*Paul%20McCartney,r
+Post-Beatles,68,/tags/Post-Beatles,f
+Walter Shenson,1,/tags/Walter%20Shenson,c
+George Toogood Smith,10,/tags/George%20Toogood%20Smith,c
+Linda McCartney/Original Character(s),0,/tags/Linda%20McCartney*s*Original%20Character(s),r
+George Toogood Smith/Mimi Smith,1,/tags/George%20Toogood%20Smith*s*Mimi%20Smith,r
+Cynthia Lennon/Stuart Sutcliffe,2,/tags/Cynthia%20Lennon*s*Stuart%20Sutcliffe,r
+Tony Barrow,2,/tags/Tony%20Barrow,c
+Fred Seaman,5,/tags/Fred%20Seaman,c
+George Harrison & John Lennon & Paul McCartney,19,/tags/George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney,r
+Sean Lennon/James McCartney,1,/tags/Sean%20Lennon*s*James%20McCartney,r
+Brother Jeremiah (Shadowhunter Chronicles)/John Lennon,0,/tags/Brother%20Jeremiah%20(Shadowhunter%20Chronicles)*s*John%20Lennon,r
+Cynthia Lennon/Julian Lennon,0,/tags/Cynthia%20Lennon*s*Julian%20Lennon,r
+John Lennon/Julian Lennon,3,/tags/John%20Lennon*s*Julian%20Lennon,r
+Julian Lennon/Yoko Ono,0,/tags/Julian%20Lennon*s*Yoko%20Ono,r
+Fink (The Network)/John Lennon,5,/tags/Fink%20(The%20Network)*s*John%20Lennon,r
+George Harrison/Jason White (Green Day),0,/tags/George%20Harrison*s*Jason%20White%20(Green%20Day),r
+Bobby Dykins,2,/tags/Bobby%20Dykins,c
+Francie Schwartz,2,/tags/Francie%20Schwartz,c
+Paul McCartney/Yoko Ono,8,/tags/Paul%20McCartney*s*Yoko%20Ono,r
+Peter Brown/Brian Epstein,0,/tags/Peter%20Brown*s*Brian%20Epstein,r
+Female John Lennon,5,/tags/Female%20John%20Lennon,f
+Female George Harrison,8,/tags/Female%20George%20Harrison,f
+Female Ringo Starr,6,/tags/Female%20Ringo%20Starr,f
+John Lennon/Linda McCartney,7,/tags/John%20Lennon*s*Linda%20McCartney,r
+Geoff Emerick,7,/tags/Geoff%20Emerick,c
+Maharishi Mahesh Yogi,5,/tags/Maharishi%20Mahesh%20Yogi,c
+George Harrison/Original Female Character(s),26,/tags/George%20Harrison*s*Original%20Female%20Character(s),r
+Minor John Lennon/Paul McCartney,12,/tags/Minor%20John%20Lennon*s*Paul%20McCartney,f
+John Lennon Lives,23,/tags/John%20Lennon%20Lives,f
+John Lennon/Paul McCartney/Original Character(s),1,/tags/John%20Lennon*s*Paul%20McCartney*s*Original%20Character(s),r
+Stuart Sutcliffe/Klaus Voormann,1,/tags/Stuart%20Sutcliffe*s*Klaus%20Voormann,r
+Brian Epstein/John Lennon/Paul McCartney,1,/tags/Brian%20Epstein*s*John%20Lennon*s*Paul%20McCartney,r
+The Doctor (Doctor Who)/John Lennon,1,/tags/The%20Doctor%20(Doctor%20Who)*s*John%20Lennon,r
+Jealous Paul McCartney,6,/tags/Jealous%20Paul%20McCartney,f
+John Lennon's Death,12,/tags/John%20Lennon's%20Death,f
+Julia Baird,3,/tags/Julia%20Baird,c
+"Jacqueline ""Jackie"" Dykins",1,/tags/Jacqueline%20%22Jackie%22%20Dykins,c
+John Lennon/Mike McCartney/Paul McCartney,0,/tags/John%20Lennon*s*Mike%20McCartney*s*Paul%20McCartney,r
+George Harrison/Undisclosed,0,/tags/George%20Harrison*s*Undisclosed,r
+Lee Eastman,6,/tags/Lee%20Eastman,c
+Allen Klein,8,/tags/Allen%20Klein,c
+Pete Best & Stuart Sutcliffe,0,/tags/Pete%20Best%20*a*%20Stuart%20Sutcliffe,r
+John Lennon/Original Male Character(s),18,/tags/John%20Lennon*s*Original%20Male%20Character(s),r
+John Lennon & Mimi Smith,25,/tags/John%20Lennon%20*a*%20Mimi%20Smith,r
+John Lennon/Reader,72,/tags/John%20Lennon*s*Reader,r
+Jeremy James,1,/tags/Jeremy%20James,c
+Bob Dylan/George Harrison/Jeff Lynne/Tom Petty,1,/tags/Bob%20Dylan*s*George%20Harrison*s*Jeff%20Lynne*s*Tom%20Petty,r
+John Lennon & Yoko Ono,17,/tags/John%20Lennon%20*a*%20Yoko%20Ono,r
+Mentioned Yoko Ono,4,/tags/Mentioned%20Yoko%20Ono,f
+George Harrison & Jeff Lynne & Reader,1,/tags/George%20Harrison%20*a*%20Jeff%20Lynne%20*a*%20Reader,r
+George Harrison & Reader,8,/tags/George%20Harrison%20*a*%20Reader,r
+George Harrison & Jeff Lynne,3,/tags/George%20Harrison%20*a*%20Jeff%20Lynne,r
+Insecure John Lennon,23,/tags/Insecure%20John%20Lennon,f
+George Harrison & Stuart Sutcliffe,2,/tags/George%20Harrison%20*a*%20Stuart%20Sutcliffe,r
+John Lennon/You,24,/tags/John%20Lennon*s*You,r
+Denny Laine,7,/tags/Denny%20Laine,c
+Davy Jones (The Monkees)/Ringo Starr,0,/tags/Davy%20Jones%20(The%20Monkees)*s*Ringo%20Starr,r
+Denny Laine/Linda McCartney,1,/tags/Denny%20Laine*s*Linda%20McCartney,r
+Denny Laine/Paul McCartney,3,/tags/Denny%20Laine*s*Paul%20McCartney,r
+Yoko Ono/Original Female Character(s),0,/tags/Yoko%20Ono*s*Original%20Female%20Character(s),r
+Ringo Starr & Ringo Starr,1,/tags/Ringo%20Starr%20*a*%20Ringo%20Starr,r
+John Lennon & John Lennon,1,/tags/John%20Lennon%20*a*%20John%20Lennon,r
+George Harrison/Tom Petty,4,/tags/George%20Harrison*s*Tom%20Petty,r
+Bisexual John Lennon,29,/tags/Bisexual%20John%20Lennon,f
+Linda McCartney & Paul McCartney,12,/tags/Linda%20McCartney%20*a*%20Paul%20McCartney,r
+John Lennon/Everyone,3,/tags/John%20Lennon*s*Everyone,r
+Astrid Kirchherr/John Lennon/Stuart Sutcliffe,1,/tags/Astrid%20Kirchherr*s*John%20Lennon*s*Stuart%20Sutcliffe,r
+Mick Jagger/John Lennon/Keith Richards,0,/tags/Mick%20Jagger*s*John%20Lennon*s*Keith%20Richards,r
+Cynthia Lennon & John Lennon,8,/tags/Cynthia%20Lennon%20*a*%20John%20Lennon,r
+Linda McCartney/Reader,2,/tags/Linda%20McCartney*s*Reader,r
+May Pang & Reader,1,/tags/May%20Pang%20*a*%20Reader,r
+Mal Evans & John Lennon,0,/tags/Mal%20Evans%20*a*%20John%20Lennon,r
+Pattie Boyd/Reader,8,/tags/Pattie%20Boyd*s*Reader,r
+John Deacon/Paul McCartney,0,/tags/John%20Deacon*s*Paul%20McCartney,r
+Pattie Boyd/George Harrison/Reader,6,/tags/Pattie%20Boyd*s*George%20Harrison*s*Reader,r
+Linda McCartney/Paul McCartney/Reader,0,/tags/Linda%20McCartney*s*Paul%20McCartney*s*Reader,r
+Cher (US Musician)/Ringo Starr,0,/tags/Cher%20(US%20Musician)*s*Ringo%20Starr,r
+Bob Dylan/John Lennon,5,/tags/Bob%20Dylan*s*John%20Lennon,r
+Bob Dylan/Paul McCartney,2,/tags/Bob%20Dylan*s*Paul%20McCartney,r
+Bob Dylan/Ringo Starr,2,/tags/Bob%20Dylan*s*Ringo%20Starr,r
+Elsie Gleave,2,/tags/Elsie%20Gleave,c
+David Bailey/Jean Shrimpton,2,/tags/David%20Bailey*s*Jean%20Shrimpton,r
+Ringo Starr Needs a Hug,11,/tags/Ringo%20Starr%20Needs%20a%20Hug,f
+Paul McCartney/Everyone,3,/tags/Paul%20McCartney*s*Everyone,r
+George Harrison/Paul McCartney/Ringo Starr,1,/tags/George%20Harrison*s*Paul%20McCartney*s*Ringo%20Starr,r
+John Lennon/Paul McCartney/Yoko Ono,3,/tags/John%20Lennon*s*Paul%20McCartney*s*Yoko%20Ono,r
+Minor George Harrison/Ringo Starr,7,/tags/Minor%20George%20Harrison*s*Ringo%20Starr,f
+Protective John Lennon,22,/tags/Protective%20John%20Lennon,f
+John Deacon/George Harrison,0,/tags/John%20Deacon*s*George%20Harrison,r
+Cynthia Lennon/Reader,1,/tags/Cynthia%20Lennon*s*Reader,r
+Michael Lindsay-Hogg,4,/tags/Michael%20Lindsay-Hogg,c
+Harry Harrison,3,/tags/Harry%20Harrison,c
+Bob Dylan/Stuart Sutcliffe,1,/tags/Bob%20Dylan*s*Stuart%20Sutcliffe,r
+Paul McCartney/Pete Townshend,1,/tags/Paul%20McCartney*s*Pete%20Townshend,r
+Ringo Starr/Other(s),0,/tags/Ringo%20Starr*s*Other(s),r
+Elton John/John Lennon,0,/tags/Elton%20John*s*John%20Lennon,r
+Jürgen Vollmer/Klaus Voormann,0,/tags/J%C3%BCrgen%20Vollmer*s*Klaus%20Voormann,r
+Old Paul McCartney,4,/tags/Old%20Paul%20McCartney,f
+Brian Epstein/Elton John,0,/tags/Brian%20Epstein*s*Elton%20John,r
+Norman Smith,3,/tags/Norman%20Smith,c
+Elsie Starkey,9,/tags/Elsie%20Starkey,c
+Richard Asher,0,/tags/Richard%20Asher,c
+Alpha Ringo Starr,4,/tags/Alpha%20Ringo%20Starr,f
+Sad Paul McCartney,16,/tags/Sad%20Paul%20McCartney,f
+Rooftop Concert (The Beatles),6,/tags/Rooftop%20Concert%20(The%20Beatles),f
+John Lennon/Rory Storm,1,/tags/John%20Lennon*s*Rory%20Storm,r
+John Lennon/Ringo Starr/Rory Storm,0,/tags/John%20Lennon*s*Ringo%20Starr*s*Rory%20Storm,r
+Ringo Starr & Rory Storm,4,/tags/Ringo%20Starr%20*a*%20Rory%20Storm,r
+Bottom John Lennon,64,/tags/Bottom%20John%20Lennon,f
+The Dakota (The Beatles),3,/tags/The%20Dakota%20(The%20Beatles),f
+Robert Fraser (The Beatles),39,/tags/Robert%20Fraser%20(The%20Beatles),c
+Mal Evans/Paul McCartney,4,/tags/Mal%20Evans*s*Paul%20McCartney,r
+Mary Anna McCartney,31,/tags/Mary%20Anna%20McCartney,c
+Mary Mohin McCartney,19,/tags/Mary%20Mohin%20McCartney,c
+Mary Mohin McCartney & Paul McCartney,2,/tags/Mary%20Mohin%20McCartney%20*a*%20Paul%20McCartney,r
+John Lennon/Paul McCartney in Paris,4,/tags/John%20Lennon*s*Paul%20McCartney%20in%20Paris,f
+Paul McCartney Dies,2,/tags/Paul%20McCartney%20Dies,f
+Song: Another Day (Paul McCartney),1,/tags/Song:%20Another%20Day%20(Paul%20McCartney),f
+Crying Paul McCartney,11,/tags/Crying%20Paul%20McCartney,f
+Song: Blackbird (The Beatles),17,/tags/Song:%20Blackbird%20(The%20Beatles),f
+Freddie Mercury/Paul McCartney,1,/tags/Freddie%20Mercury*s*Paul%20McCartney,r
+John Lennon/Elvis Presley,0,/tags/John%20Lennon*s*Elvis%20Presley,r
+John Lennon/Bob Wooler,1,/tags/John%20Lennon*s*Bob%20Wooler,r
+Davy Jones (The Monkees) & Ringo Starr,0,/tags/Davy%20Jones%20(The%20Monkees)%20*a*%20Ringo%20Starr,r
+Top Ringo Starr,15,/tags/Top%20Ringo%20Starr,f
+Harold Hargreaves Harrison,12,/tags/Harold%20Hargreaves%20Harrison,c
+Pete Best/Stuart Sutcliffe,0,/tags/Pete%20Best*s*Stuart%20Sutcliffe,r
+John Lennon & Julia Lennon,3,/tags/John%20Lennon%20*a*%20Julia%20Lennon,r
+George Harrison/John Lennon/Paul McCartney/Ringo Starr/You,3,/tags/George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr*s*You,r
+POV Ringo Starr,11,/tags/POV%20Ringo%20Starr,f
+Eric Griffiths,4,/tags/Eric%20Griffiths,c
+George Harrison & Paul McCartney & Ringo Starr,1,/tags/George%20Harrison%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+Brian Epstein/Stuart Sutcliffe,1,/tags/Brian%20Epstein*s*Stuart%20Sutcliffe,r
+John Lennon/Paul McCartney/Ringo Starr,3,/tags/John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr,r
+Age Play Little Paul McCartney,0,/tags/Age%20Play%20Little%20Paul%20McCartney,f
+Song: A Hard Day's Night (The Beatles),2,/tags/Song:%20A%20Hard%20Day's%20Night%20(The%20Beatles),f
+Song: (Just Like) Starting Over (John Lennon),0,/tags/Song:%20(Just%20Like)%20Starting%20Over%20(John%20Lennon),f
+John Lennon/George Martin,2,/tags/John%20Lennon*s*George%20Martin,r
+John Lennon/Mike Nesmith,1,/tags/John%20Lennon*s*Mike%20Nesmith,r
+Jakob Dylan/Dhani Harrison,0,/tags/Jakob%20Dylan*s*Dhani%20Harrison,r
+Chester (A Cricket in Times Square) & John Lennon,0,/tags/Chester%20(A%20Cricket%20in%20Times%20Square)%20*a*%20John%20Lennon,r
+Ivy Fisher/Derek Taylor,0,/tags/Ivy%20Fisher*s*Derek%20Taylor,r
+Millie Sutcliffe,1,/tags/Millie%20Sutcliffe,c
+Arlene Reckson,1,/tags/Arlene%20Reckson,c
+Paul McCartney/Roger Taylor (Queen),0,/tags/Paul%20McCartney*s*Roger%20Taylor%20(Queen),r
+Top Paul McCartney,48,/tags/Top%20Paul%20McCartney,f
+Bottom Paul McCartney,95,/tags/Bottom%20Paul%20McCartney,f
+Top John Lennon,68,/tags/Top%20John%20Lennon,f
+John Lennon & Stuart Sutcliffe,17,/tags/John%20Lennon%20*a*%20Stuart%20Sutcliffe,r
+John Lennon & Rory Storm,0,/tags/John%20Lennon%20*a*%20Rory%20Storm,r
+Johnny Guitar (Rory Storm and the Hurricanes) & Ringo Starr,2,/tags/Johnny%20Guitar%20(Rory%20Storm%20and%20the%20Hurricanes)%20*a*%20Ringo%20Starr,r
+Paul McCartney/Ivan Vaughan,1,/tags/Paul%20McCartney*s*Ivan%20Vaughan,r
+William Beckett/John Lennon,1,/tags/William%20Beckett*s*John%20Lennon,r
+Olivia Arias,37,/tags/Olivia%20Arias,c
+Kevin Jonas/John Lennon,0,/tags/Kevin%20Jonas*s*John%20Lennon,r
+Song: I Am the Walrus (The Beatles),3,/tags/Song:%20I%20Am%20the%20Walrus%20(The%20Beatles),f
+Angela Williams (The Beatles),2,/tags/Angela%20Williams%20(The%20Beatles),c
+Ringo Starr & You,3,/tags/Ringo%20Starr%20*a*%20You,r
+Dom John Lennon,7,/tags/Dom%20John%20Lennon,f
+Bottom Ringo Starr,10,/tags/Bottom%20Ringo%20Starr,f
+Dhani Harrison & George Harrison,3,/tags/Dhani%20Harrison%20*a*%20George%20Harrison,r
+Harry Graves,6,/tags/Harry%20Graves,c
+Janet (The Good Place)/John Lennon,0,/tags/Janet%20(The%20Good%20Place)*s*John%20Lennon,r
+Sub Paul McCartney,10,/tags/Sub%20Paul%20McCartney,f
+Song: Beautiful Boy (John Lennon),26,/tags/Song:%20Beautiful%20Boy%20(John%20Lennon),f
+Song: Yesterday (The Beatles),3,/tags/Song:%20Yesterday%20(The%20Beatles),f
+David Bowie/John Lennon,2,/tags/David%20Bowie*s*John%20Lennon,r
+Osgood Fielding III/John Lennon,0,/tags/Osgood%20Fielding%20III*s*John%20Lennon,r
+Mal Evans/George Harrison,1,/tags/Mal%20Evans*s*George%20Harrison,r
+Paul McCartney & Ivan Vaughan,4,/tags/Paul%20McCartney%20*a*%20Ivan%20Vaughan,r
+Brian Epstein/Mal Evans,1,/tags/Brian%20Epstein*s*Mal%20Evans,r
+Paul McCartney/Original Male Character(s),4,/tags/Paul%20McCartney*s*Original%20Male%20Character(s),r
+Brian Epstein/George Harrison/John Lennon/Paul McCartney/Ringo Starr,3,/tags/Brian%20Epstein*s*George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr,r
+Iris Caldwell,1,/tags/Iris%20Caldwell,c
+Ringo Starr is a Good Friend,21,/tags/Ringo%20Starr%20is%20a%20Good%20Friend,f
+Paul McCartney is a Good Friend,5,/tags/Paul%20McCartney%20is%20a%20Good%20Friend,f
+Chris O'Dell,2,/tags/Chris%20O'Dell,c
+Pattie Boyd & Chris O'Dell,0,/tags/Pattie%20Boyd%20*a*%20Chris%20O'Dell,r
+Jane Asher & Paul McCartney,3,/tags/Jane%20Asher%20*a*%20Paul%20McCartney,r
+Nigel Walley,2,/tags/Nigel%20Walley,c
+Rod Davis,2,/tags/Rod%20Davis,c
+John Duff Lowe,1,/tags/John%20Duff%20Lowe,c
+Song: Paperback Writer (The Beatles),2,/tags/Song:%20Paperback%20Writer%20(The%20Beatles),f
+Brian Epstein & Alistair Taylor,1,/tags/Brian%20Epstein%20*a*%20Alistair%20Taylor,r
+Neil Aspinall/John Lennon,1,/tags/Neil%20Aspinall*s*John%20Lennon,r
+John Lennon/Billy Shears,0,/tags/John%20Lennon*s*Billy%20Shears,r
+Heather Louise McCartney & Mary Anna McCartney,1,/tags/Heather%20Louise%20McCartney%20*a*%20Mary%20Anna%20McCartney,r
+Starrison Week,10,/tags/Starrison%20Week,f
+Royston Ellis/John Lennon,0,/tags/Royston%20Ellis*s*John%20Lennon,r
+Ilsa Lund/Paul McCartney,0,/tags/Ilsa%20Lund*s*Paul%20McCartney,r
+Ilsa Lund/Ringo Starr,0,/tags/Ilsa%20Lund*s*Ringo%20Starr,r
+Neil Aspinall/Paul McCartney,1,/tags/Neil%20Aspinall*s*Paul%20McCartney,r
+Neil Aspinall/John Lennon/Paul McCartney,0,/tags/Neil%20Aspinall*s*John%20Lennon*s*Paul%20McCartney,r
+George Harrison/George Martin,1,/tags/George%20Harrison*s*George%20Martin,r
+Bisexual Paul McCartney,27,/tags/Bisexual%20Paul%20McCartney,f
+Mary Anna McCartney & Paul McCartney,2,/tags/Mary%20Anna%20McCartney%20*a*%20Paul%20McCartney,r
+Mary Anna McCartney & Linda McCartney,1,/tags/Mary%20Anna%20McCartney%20*a*%20Linda%20McCartney,r
+Jodie Eastman,3,/tags/Jodie%20Eastman,c
+George Harrison & Tom Petty,5,/tags/George%20Harrison%20*a*%20Tom%20Petty,r
+Pete Best & George Martin,1,/tags/Pete%20Best%20*a*%20George%20Martin,r
+David Spinozza/Yoko Ono,0,/tags/David%20Spinozza*s*Yoko%20Ono,r
+Neil Aspinall/Ringo Starr,2,/tags/Neil%20Aspinall*s*Ringo%20Starr,r
+Donovan (Musician)/Bob Dylan/George Harrison,0,/tags/Donovan%20(Musician)*s*Bob%20Dylan*s*George%20Harrison,r
+Bob Dylan/George Harrison/John Lennon/Paul McCartney/Ringo Starr,0,/tags/Bob%20Dylan*s*George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr,r
+Yoko Ono & Hikaru Sulu,0,/tags/Yoko%20Ono%20*a*%20Hikaru%20Sulu,r
+Sub John Lennon,3,/tags/Sub%20John%20Lennon,f
+Dhani Harrison/Louisa May (Queen),0,/tags/Dhani%20Harrison*s*Louisa%20May%20(Queen),r
+Jane Asher/Linda McCartney,2,/tags/Jane%20Asher*s*Linda%20McCartney,r
+Sam Havadtoy,1,/tags/Sam%20Havadtoy,c
+Jason Starkey,4,/tags/Jason%20Starkey,c
+Sarah Menikides,2,/tags/Sarah%20Menikides,c
+Richard Starkey Sr.,0,/tags/Richard%20Starkey%20Sr*d*,c
+Jesus Christ/John Lennon,1,/tags/Jesus%20Christ*s*John%20Lennon,r
+Mal Evans/John Lennon/Paul McCartney,0,/tags/Mal%20Evans*s*John%20Lennon*s*Paul%20McCartney,r
+Terry Doran,1,/tags/Terry%20Doran,c
+Brian Epstein & George Harrison & John Lennon & Paul McCartney & Ringo Starr,11,/tags/Brian%20Epstein%20*a*%20George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+Song: Nowhere Man (The Beatles),1,/tags/Song:%20Nowhere%20Man%20(The%20Beatles),f
+Sam Havadtoy/Yoko Ono,0,/tags/Sam%20Havadtoy*s*Yoko%20Ono,r
+Dhani Harrison/Original Character(s),1,/tags/Dhani%20Harrison*s*Original%20Character(s),r
+James Corden/Paul McCartney,0,/tags/James%20Corden*s*Paul%20McCartney,r
+Jean Kirstein/Paul McCartney,0,/tags/Jean%20Kirstein*s*Paul%20McCartney,r
+Brian Epstein/You,1,/tags/Brian%20Epstein*s*You,r
+Mike McCartney & Paul McCartney,6,/tags/Mike%20McCartney%20*a*%20Paul%20McCartney,r
+Jim McCartney & Linda McCartney,3,/tags/Jim%20McCartney%20*a*%20Linda%20McCartney,r
+Cynthia Lennon & Linda McCartney,1,/tags/Cynthia%20Lennon%20*a*%20Linda%20McCartney,r
+Grogu | Baby Yoda & John Lennon,0,/tags/Grogu%20%7C%20Baby%20Yoda%20*a*%20John%20Lennon,r
+Paul McCartney/Eren Yeager,0,/tags/Paul%20McCartney*s*Eren%20Yeager,r
+Marco Bott/Paul McCartney,0,/tags/Marco%20Bott*s*Paul%20McCartney,r
+Neil Aspinall/George Harrison,1,/tags/Neil%20Aspinall*s*George%20Harrison,r
+Cynthia Lennon/Phyllis McKenzie,1,/tags/Cynthia%20Lennon*s*Phyllis%20McKenzie,r
+Phyllis McKenzie,2,/tags/Phyllis%20McKenzie,c
+Neil Aspinall/Brian Epstein,1,/tags/Neil%20Aspinall*s*Brian%20Epstein,r
+Brian Epstein & Stuart Sutcliffe,1,/tags/Brian%20Epstein%20*a*%20Stuart%20Sutcliffe,r
+Thelma Pickles,1,/tags/Thelma%20Pickles,c
+Yoko Ono & Ringo Starr,0,/tags/Yoko%20Ono%20*a*%20Ringo%20Starr,r
+Cynthia Lennon & Ringo Starr,0,/tags/Cynthia%20Lennon%20*a*%20Ringo%20Starr,r
+Jane Asher & Ringo Starr,0,/tags/Jane%20Asher%20*a*%20Ringo%20Starr,r
+Olivia Arias & Ringo Starr,0,/tags/Olivia%20Arias%20*a*%20Ringo%20Starr,r
+Pattie Boyd & Ringo Starr,1,/tags/Pattie%20Boyd%20*a*%20Ringo%20Starr,r
+Linda McCartney & Ringo Starr,0,/tags/Linda%20McCartney%20*a*%20Ringo%20Starr,r
+Paul McCartney & Billy Shears,0,/tags/Paul%20McCartney%20*a*%20Billy%20Shears,r
+Brian Epstein & Billy Shears,0,/tags/Brian%20Epstein%20*a*%20Billy%20Shears,r
+Jim McCartney & Paul McCartney,1,/tags/Jim%20McCartney%20*a*%20Paul%20McCartney,r
+William Shatner/Ringo Starr,1,/tags/William%20Shatner*s*Ringo%20Starr,r
+Alfred Lennon/John Lennon,0,/tags/Alfred%20Lennon*s*John%20Lennon,r
+Billy Shears/Ringo Starr,0,/tags/Billy%20Shears*s*Ringo%20Starr,r
+Paul McCartney & Mimi Smith,6,/tags/Paul%20McCartney%20*a*%20Mimi%20Smith,r
+Noel Gallagher/Mary Anna McCartney,1,/tags/Noel%20Gallagher*s*Mary%20Anna%20McCartney,r
+Ringo Starr/Charlie Watts,0,/tags/Ringo%20Starr*s*Charlie%20Watts,r
+Scooby Doo & Ringo Starr,0,/tags/Scooby%20Doo%20*a*%20Ringo%20Starr,r
+"Norville ""Shaggy"" Rogers & Ringo Starr",0,/tags/Norville%20%22Shaggy%22%20Rogers%20*a*%20Ringo%20Starr,r
+Vladmir Lenin/Paul McCartney,0,/tags/Vladmir%20Lenin*s*Paul%20McCartney,r
+Song: Here Comes the Sun (The Beatles),14,/tags/Song:%20Here%20Comes%20the%20Sun%20(The%20Beatles),f
+Song: Free as a Bird (The Beatles),1,/tags/Song:%20Free%20as%20a%20Bird%20(The%20Beatles),f
+Alistair Donald,1,/tags/Alistair%20Donald,c
+Brian Epstein & Mal Evans,1,/tags/Brian%20Epstein%20*a*%20Mal%20Evans,r
+Song: Drive My Car (The Beatles),1,/tags/Song:%20Drive%20My%20Car%20(The%20Beatles),f
+John Lennon & Other(s),0,/tags/John%20Lennon%20*a*%20Other(s),r
+Elton John & John Lennon,0,/tags/Elton%20John%20*a*%20John%20Lennon,r
+Elton John & Paul McCartney,0,/tags/Elton%20John%20*a*%20Paul%20McCartney,r
+Liam Gallagher (Oasis)/Yoko Ono,0,/tags/Liam%20Gallagher%20(Oasis)*s*Yoko%20Ono,r
+Brian Epstein & George Martin,1,/tags/Brian%20Epstein%20*a*%20George%20Martin,r
+Bob Dylan & George Harrison,12,/tags/Bob%20Dylan%20*a*%20George%20Harrison,r
+John Lennon Loves Paul McCartney,10,/tags/John%20Lennon%20Loves%20Paul%20McCartney,f
+Paul McCartney Loves John Lennon,6,/tags/Paul%20McCartney%20Loves%20John%20Lennon,f
+Minerva McGonagall/Ringo Starr,0,/tags/Minerva%20McGonagall*s*Ringo%20Starr,r
+George Harrison & Peter Harrison,1,/tags/George%20Harrison%20*a*%20Peter%20Harrison,r
+Song: Hey Jude (The Beatles),16,/tags/Song:%20Hey%20Jude%20(The%20Beatles),f
+Olivia Arias & Paul McCartney,2,/tags/Olivia%20Arias%20*a*%20Paul%20McCartney,r
+Pattie Boyd/Maureen Cox,4,/tags/Pattie%20Boyd*s*Maureen%20Cox,r
+Astrid Kirchherr/Cynthia Lennon,1,/tags/Astrid%20Kirchherr*s*Cynthia%20Lennon,r
+Freda Kelly,2,/tags/Freda%20Kelly,c
+George Harrison & Jimmie Nicol,1,/tags/George%20Harrison%20*a*%20Jimmie%20Nicol,r
+Billy Preston,9,/tags/Billy%20Preston,c
+John Lennon/Paul McCartney Smut,2,/tags/John%20Lennon*s*Paul%20McCartney%20Smut,f
+Tim | John Lennon's Cat,2,/tags/Tim%20%7C%20John%20Lennon's%20Cat,c
+Martha | Paul McCartney's Dog,46,/tags/Martha%20%7C%20Paul%20McCartney's%20Dog,c
+John Lennon & Martha | Paul McCartney's Dog,0,/tags/John%20Lennon%20*a*%20Martha%20%7C%20Paul%20McCartney's%20Dog,r
+Martha | Paul McCartney's Dog & Paul McCartney,0,/tags/Martha%20%7C%20Paul%20McCartney's%20Dog%20*a*%20Paul%20McCartney,r
+Tatia Starkey,0,/tags/Tatia%20Starkey,c
+George Harrison/John Lennon/Paul McCartney/Ringo Starr/Reader,1,/tags/George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr*s*Reader,r
+Jane Asher & George Harrison & John Lennon & Paul McCartney & Ringo Starr,0,/tags/Jane%20Asher%20*a*%20George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+George Harrison & John Lennon & Paul McCartney & Ringo Starr & Original Male Character(s),0,/tags/George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr%20*a*%20Original%20Male%20Character(s),r
+John Lennon/Thelma Pickles,0,/tags/John%20Lennon*s*Thelma%20Pickles,r
+Sarah Menikides/Zak Starkey,0,/tags/Sarah%20Menikides*s*Zak%20Starkey,r
+Johnny Guitar (Rory Storm and the Hurricanes),6,/tags/Johnny%20Guitar%20(Rory%20Storm%20and%20the%20Hurricanes),c
+George Harrison & Lemon Demon | Neil Cicierega & John Lennon & Paul McCartney & Ringo Starr,0,/tags/George%20Harrison%20*a*%20Lemon%20Demon%20%7C%20Neil%20Cicierega%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+George Harrison/John Lennon/Paul McCartney/Ringo Starr/Original Character(s),0,/tags/George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Ringo%20Starr*s*Original%20Character(s),r
+Louise Harrison | George Harrison's Sister,4,/tags/Louise%20Harrison%20%7C%20George%20Harrison's%20Sister,c
+Tiger | Ringo Starr's Dog,1,/tags/Tiger%20%7C%20Ringo%20Starr's%20Dog,c
+George Harrison/Billy Preston,0,/tags/George%20Harrison*s*Billy%20Preston,r
+Paul McCartney & Jimmie Nicol,0,/tags/Paul%20McCartney%20*a*%20Jimmie%20Nicol,r
+Heather Louise McCartney & Mary Anna McCartney & Stella McCartney,0,/tags/Heather%20Louise%20McCartney%20*a*%20Mary%20Anna%20McCartney%20*a*%20Stella%20McCartney,r
+Heather Louise McCartney & James McCartney & Mary Anna McCartney & Stella McCartney,0,/tags/Heather%20Louise%20McCartney%20*a*%20James%20McCartney%20*a*%20Mary%20Anna%20McCartney%20*a*%20Stella%20McCartney,r
+Mimi Smith/Stuart Sutcliffe,0,/tags/Mimi%20Smith*s*Stuart%20Sutcliffe,r
+John Lennon's Lost Weekend,6,/tags/John%20Lennon's%20Lost%20Weekend,f
+Bearded Paul McCartney,1,/tags/Bearded%20Paul%20McCartney,f
+Domestic John Lennon/Paul McCartney,0,/tags/Domestic%20John%20Lennon*s*Paul%20McCartney,f
+Paul McCartney's Birthday,0,/tags/Paul%20McCartney's%20Birthday,f
+Promiscuous Paul McCartney,0,/tags/Promiscuous%20Paul%20McCartney,f
+Hungry George Harrison (The Beatles),2,/tags/Hungry%20George%20Harrison%20(The%20Beatles),f
+George Harrison Lives (The Beatles),2,/tags/George%20Harrison%20Lives%20(The%20Beatles),f
+Eventual John Lennon/Paul McCartney,0,/tags/Eventual%20John%20Lennon*s*Paul%20McCartney,f
+Insecure Paul McCartney,0,/tags/Insecure%20Paul%20McCartney,f
+John Lennon/Paul McCartney Fluff,1,/tags/John%20Lennon*s*Paul%20McCartney%20Fluff,f
+Omega Paul McCartney,7,/tags/Omega%20Paul%20McCartney,f
+Paul McCartney Being an Idiot,3,/tags/Paul%20McCartney%20Being%20an%20Idiot,f
+Trans Paul McCartney,7,/tags/Trans%20Paul%20McCartney,f
+Pirate George Harrison (The Beatles),0,/tags/Pirate%20George%20Harrison%20(The%20Beatles),f
+Polyamorous Beatles,0,/tags/Polyamorous%20Beatles,f
+Protective Ringo Starr,0,/tags/Protective%20Ringo%20Starr,f
+Dom Ringo Starr,1,/tags/Dom%20Ringo%20Starr,f
+Vampire George Harrison (The Beatles),1,/tags/Vampire%20George%20Harrison%20(The%20Beatles),f
+Inspired by Octopus Garden AU - Cirilee,0,/tags/Inspired%20by%20Octopus%20Garden%20AU%20-%20Cirilee,f
+Merperson Paul McCartney,0,/tags/Merperson%20Paul%20McCartney,f
+Octopus Merperson Ringo Starr,1,/tags/Octopus%20Merperson%20Ringo%20Starr,f
+Alpha George Harrison (The Beatles),0,/tags/Alpha%20George%20Harrison%20(The%20Beatles),f
+Cute George Harrison (The Beatles),19,/tags/Cute%20George%20Harrison%20(The%20Beatles),f
+Needy Paul McCartney,1,/tags/Needy%20Paul%20McCartney,f
+Nervous Paul McCartney,0,/tags/Nervous%20Paul%20McCartney,f
+Stressed Paul McCartney,0,/tags/Stressed%20Paul%20McCartney,f
+Stubborn Paul McCartney,0,/tags/Stubborn%20Paul%20McCartney,f
+Paul McCartney Tries,2,/tags/Paul%20McCartney%20Tries,f
+Sex Worker Paul McCartney,0,/tags/Sex%20Worker%20Paul%20McCartney,f
+Insecure Ringo Starr,5,/tags/Insecure%20Ringo%20Starr,f
+POV Paul McCartney,12,/tags/POV%20Paul%20McCartney,f
+Oblivious Ringo Starr,4,/tags/Oblivious%20Ringo%20Starr,f
+Ringo Starr-centric,1,/tags/Ringo%20Starr-centric,f
+Sex Worker John Lennon,0,/tags/Sex%20Worker%20John%20Lennon,f
+Alpha Paul McCartney,1,/tags/Alpha%20Paul%20McCartney,f
+Brian Epstein/George Martin/Alistair Taylor,1,/tags/Brian%20Epstein*s*George%20Martin*s*Alistair%20Taylor,r
+Tim Curry (Actor)/Ringo Starr,0,/tags/Tim%20Curry%20(Actor)*s*Ringo%20Starr,r
+Sonny Drane,1,/tags/Sonny%20Drane,c
+Sonny Drane/John Lennon,1,/tags/Sonny%20Drane*s*John%20Lennon,r
+Astrid Kirchherr & John Lennon,1,/tags/Astrid%20Kirchherr%20*a*%20John%20Lennon,r
+George Harrison & Ringo Starr & Original Character(s),2,/tags/George%20Harrison%20*a*%20Ringo%20Starr%20*a*%20Original%20Character(s),r
+Louise Harrison | George Harrison's Sister/Elsie Starkey,0,/tags/Louise%20Harrison%20%7C%20George%20Harrison's%20Sister*s*Elsie%20Starkey,r
+Pining John Lennon,2,/tags/Pining%20John%20Lennon,f
+Prudence (Dear Prudence)/Eleanor Rigby (Eleanor Rigby),0,/tags/Prudence%20(Dear%20Prudence)*s*Eleanor%20Rigby%20(Eleanor%20Rigby),r
+Alpha John Lennon,6,/tags/Alpha%20John%20Lennon,f
+Beta George Harrison (The Beatles),1,/tags/Beta%20George%20Harrison%20(The%20Beatles),f
+Omega John Lennon,2,/tags/Omega%20John%20Lennon,f
+Soft Paul McCartney,0,/tags/Soft%20Paul%20McCartney,f
+Sick Ringo Starr,0,/tags/Sick%20Ringo%20Starr,f
+Mimi Smith & Stuart Sutcliffe,1,/tags/Mimi%20Smith%20*a*%20Stuart%20Sutcliffe,r
+Mal Evans & George Harrison,2,/tags/Mal%20Evans%20*a*%20George%20Harrison,r
+Neil Aspinall & Derek Taylor,0,/tags/Neil%20Aspinall%20*a*%20Derek%20Taylor,r
+John Lennon/Jimmy McCulloch,1,/tags/John%20Lennon*s*Jimmy%20McCulloch,r
+Jodie Eastman/John Eastman,1,/tags/Jodie%20Eastman*s*John%20Eastman,r
+Neil Aspinall & George Harrison,5,/tags/Neil%20Aspinall%20*a*%20George%20Harrison,r
+Neil Aspinall & Ringo Starr,0,/tags/Neil%20Aspinall%20*a*%20Ringo%20Starr,r
+Jane Asher/Cynthia Lennon/John Lennon/Paul McCartney,0,/tags/Jane%20Asher*s*Cynthia%20Lennon*s*John%20Lennon*s*Paul%20McCartney,r
+George Harrison/John Lennon/Ringo Starr,1,/tags/George%20Harrison*s*John%20Lennon*s*Ringo%20Starr,r
+Ringo Starr/Wojira (Ninjago),0,/tags/Ringo%20Starr*s*Wojira%20(Ninjago),r
+Dom Paul McCartney,1,/tags/Dom%20Paul%20McCartney,f
+POV John Lennon,6,/tags/POV%20John%20Lennon,f
+Friar Park (The Beatles),8,/tags/Friar%20Park%20(The%20Beatles),f
+Poor Ringo Starr,2,/tags/Poor%20Ringo%20Starr,f
+Small Paul McCartney,0,/tags/Small%20Paul%20McCartney,f
+Stripper George Harrison (The Beatles),0,/tags/Stripper%20George%20Harrison%20(The%20Beatles),f
+Title From a Beatles Song,16,/tags/Title%20From%20a%20Beatles%20Song,f
+Kenny Everett & Freddie Mercury,0,/tags/Kenny%20Everett%20*a*%20Freddie%20Mercury,r
+Stuart Bell (The Beatles),0,/tags/Stuart%20Bell%20(The%20Beatles),c
+John Dunbar (The Beatles),2,/tags/John%20Dunbar%20(The%20Beatles),c
+Song: My Sweet Lord (George Harrison),1,/tags/Song:%20My%20Sweet%20Lord%20(George%20Harrison),f
+George Harrison/Rory Storm,1,/tags/George%20Harrison*s*Rory%20Storm,r
+Astrid Kirchherr & Ringo Starr,1,/tags/Astrid%20Kirchherr%20*a*%20Ringo%20Starr,r
+Atouk (Caveman),0,/tags/Atouk%20(Caveman),c
+George Harrison & Astrid Kirchherr,0,/tags/George%20Harrison%20*a*%20Astrid%20Kirchherr,r
+George Harrison/Ringo Starr/Rory Storm,0,/tags/George%20Harrison*s*Ringo%20Starr*s*Rory%20Storm,r
+Alex (A Clockwork Orange)/Ringo Starr,0,/tags/Alex%20(A%20Clockwork%20Orange)*s*Ringo%20Starr,r
+Mettaton (Undertale)/Ringo Starr,0,/tags/Mettaton%20(Undertale)*s*Ringo%20Starr,r
+John Lennon/Mettaton (Undertale)/Ringo Starr,0,/tags/John%20Lennon*s*Mettaton%20(Undertale)*s*Ringo%20Starr,r
+Cute Ringo Starr,9,/tags/Cute%20Ringo%20Starr,f
+Sweet Ringo Starr,14,/tags/Sweet%20Ringo%20Starr,f
+Mentioned Ringo Starr,1,/tags/Mentioned%20Ringo%20Starr,f
+Soft Ringo Starr,2,/tags/Soft%20Ringo%20Starr,f
+Album: Rubber Soul (The Beatles),4,/tags/Album:%20Rubber%20Soul%20(The%20Beatles),f
+Song: She Said She Said (The Beatles),1,/tags/Song:%20She%20Said%20She%20Said%20(The%20Beatles),f
+Song: Something (The Beatles),2,/tags/Song:%20Something%20(The%20Beatles),f
+Song: For No One (The Beatles),0,/tags/Song:%20For%20No%20One%20(The%20Beatles),f
+Song: Help! (The Beatles),1,/tags/Song:%20Help!%20(The%20Beatles),f
+Song: Save the World (George Harrison),0,/tags/Song:%20Save%20the%20World%20(George%20Harrison),f
+Song: Do You Want to Know a Secret (The Beatles),2,/tags/Song:%20Do%20You%20Want%20to%20Know%20a%20Secret%20(The%20Beatles),f
+Song: I Want to Hold Your Hand (The Beatles),8,/tags/Song:%20I%20Want%20to%20Hold%20Your%20Hand%20(The%20Beatles),f
+Song: Spirits of Ancient Egypt (Paul McCartney),0,/tags/Song:%20Spirits%20of%20Ancient%20Egypt%20(Paul%20McCartney),f
+Song: Golden Slumbers/Carry That Weight (The Beatles),0,/tags/Song:%20Golden%20Slumbers*s*Carry%20That%20Weight%20(The%20Beatles),f
+The Cavern Club (The Beatles),7,/tags/The%20Cavern%20Club%20(The%20Beatles),f
+Song: Things We Said Today (The Beatles),0,/tags/Song:%20Things%20We%20Said%20Today%20(The%20Beatles),f
+Paul McCartney Being an Asshole,4,/tags/Paul%20McCartney%20Being%20an%20Asshole,f
+Album: Abbey Road (The Beatles),2,/tags/Album:%20Abbey%20Road%20(The%20Beatles),f
+Magical Mystery Smut Month (The Beatles),0,/tags/Magical%20Mystery%20Smut%20Month%20(The%20Beatles),f
+McLennon Big Bang 2018 (The Beatles),1,/tags/McLennon%20Big%20Bang%202018%20(The%20Beatles),f
+McLennon Big Bang 2020 (The Beatles),0,/tags/McLennon%20Big%20Bang%202020%20(The%20Beatles),f
+Hamburg Era (The Beatles),30,/tags/Hamburg%20Era%20(The%20Beatles),f
+George Harrison Is a Good Friend (The Beatles),6,/tags/George%20Harrison%20Is%20a%20Good%20Friend%20(The%20Beatles),f
+Let It Be/Get Back Sessions (The Beatles),31,/tags/Let%20It%20Be*s*Get%20Back%20Sessions%20(The%20Beatles),f
+Magical Mystery Tour (The Beatles),4,/tags/Magical%20Mystery%20Tour%20(The%20Beatles),f
+McLennon Day 2021 (The Beatles),1,/tags/McLennon%20Day%202021%20(The%20Beatles),f
+McLennon Fanfic Exchange (The Beatles),4,/tags/McLennon%20Fanfic%20Exchange%20(The%20Beatles),f
+Song: All You Need Is Love (The Beatles),2,/tags/Song:%20All%20You%20Need%20Is%20Love%20(The%20Beatles),f
+Song: She Loves You (The Beatles),0,/tags/Song:%20She%20Loves%20You%20(The%20Beatles),f
+Song: When I'm Sixty-Four (The Beatles),0,/tags/Song:%20When%20I'm%20Sixty-Four%20(The%20Beatles),f
+The Quarrymen Era (The Beatles),10,/tags/The%20Quarrymen%20Era%20(The%20Beatles),f
+Song: Lucy in the Sky With Diamonds (The Beatles),2,/tags/Song:%20Lucy%20in%20the%20Sky%20With%20Diamonds%20(The%20Beatles),f
+Bob Dylan & Ringo Starr,0,/tags/Bob%20Dylan%20*a*%20Ringo%20Starr,r
+Jackie Dykins,1,/tags/Jackie%20Dykins,c
+Margaret Hunt,1,/tags/Margaret%20Hunt,c
+Arthur Howes,0,/tags/Arthur%20Howes,c
+John French,0,/tags/John%20French,c
+John Lennon & Keith Richards,1,/tags/John%20Lennon%20*a*%20Keith%20Richards,r
+Geoff Emerick/Norman Smith,0,/tags/Geoff%20Emerick*s*Norman%20Smith,r
+Richard Langham,1,/tags/Richard%20Langham,c
+Linda McCartney/Paul McCartney/Roger Taylor (Queen),0,/tags/Linda%20McCartney*s*Paul%20McCartney*s*Roger%20Taylor%20(Queen),r
+Barbara Baker/John Lennon/Paul McCartney,1,/tags/Barbara%20Baker*s*John%20Lennon*s*Paul%20McCartney,r
+Paul McCartney & You,7,/tags/Paul%20McCartney%20*a*%20You,r
+John Lennon & You,6,/tags/John%20Lennon%20*a*%20You,r
+Rod Murray,1,/tags/Rod%20Murray,c
+Lu Walters,4,/tags/Lu%20Walters,c
+Barbara Baker,0,/tags/Barbara%20Baker,c
+Barbara Baker/John Lennon,0,/tags/Barbara%20Baker*s*John%20Lennon,r
+Brian Epstein/Mal Evans/George Martin,0,/tags/Brian%20Epstein*s*Mal%20Evans*s*George%20Martin,r
+Rod Murray/Stuart Sutcliffe,0,/tags/Rod%20Murray*s*Stuart%20Sutcliffe,r
+George Harrison (The Beatles) & You,3,/tags/George%20Harrison%20(The%20Beatles)%20*a*%20You,r
+Eric Clapton/Bob Dylan/George Harrison/Ringo Starr,1,/tags/Eric%20Clapton*s*Bob%20Dylan*s*George%20Harrison*s*Ringo%20Starr,r
+Music Video: Got My Mind Set On You (George Harrison),0,/tags/Music%20Video:%20Got%20My%20Mind%20Set%20On%20You%20(George%20Harrison),f
+Teddy Boy George Harrison (The Beatles),2,/tags/Teddy%20Boy%20George%20Harrison%20(The%20Beatles),f
+Tender John Lennon,0,/tags/Tender%20John%20Lennon,f
+Elsie Starkey/Ringo Starr,1,/tags/Elsie%20Starkey*s*Ringo%20Starr,r
+Glyn Johns,11,/tags/Glyn%20Johns,c
+Song: Real Love (The Beatles),0,/tags/Song:%20Real%20Love%20(The%20Beatles),f
+Douglas Millings,1,/tags/Douglas%20Millings,c
+Liam Gallagher (Oasis)/John Lennon,0,/tags/Liam%20Gallagher%20(Oasis)*s*John%20Lennon,r
+Prince Paul McCartney,1,/tags/Prince%20Paul%20McCartney,f
+Peter Brown (The Beatles),1,/tags/Peter%20Brown%20(The%20Beatles),c
+Gordon Caldwell | George Harrison's Brother-in-Law,0,/tags/Gordon%20Caldwell%20%7C%20George%20Harrison's%20Brother-in-Law,c
+Glyn Johns/Original Character(s),0,/tags/Glyn%20Johns*s*Original%20Character(s),r
+Mal Evans & George Harrison & John Lennon & Paul McCartney & Ringo Starr,0,/tags/Mal%20Evans%20*a*%20George%20Harrison%20*a*%20John%20Lennon%20*a*%20Paul%20McCartney%20*a*%20Ringo%20Starr,r
+John Lennon/Andy Warhol,0,/tags/John%20Lennon*s*Andy%20Warhol,r
+Sick George Harrison (The Beatles),3,/tags/Sick%20George%20Harrison%20(The%20Beatles),f
+Late Beatles,9,/tags/Late%20Beatles,f
+Heather Louise McCartney & John Lennon,2,/tags/Heather%20Louise%20McCartney%20*a*%20John%20Lennon,r
+Julia Lennon & Paul McCartney,0,/tags/Julia%20Lennon%20*a*%20Paul%20McCartney,r
+Maureen Cox/Linda McCartney,0,/tags/Maureen%20Cox*s*Linda%20McCartney,r
+Maureen Cox/Bob Dylan,5,/tags/Maureen%20Cox*s*Bob%20Dylan,r
+Maureen Cox & Chris O'Dell,1,/tags/Maureen%20Cox%20*a*%20Chris%20O'Dell,r
+Bob Dylan & Chris O'Dell,1,/tags/Bob%20Dylan%20*a*%20Chris%20O'Dell,r
+Maureen Cox & George Harrison,2,/tags/Maureen%20Cox%20*a*%20George%20Harrison,r
+Song: Girl (The Beatles),0,/tags/Song:%20Girl%20(The%20Beatles),f
+Song: If I Fell (The Beatles),1,/tags/Song:%20If%20I%20Fell%20(The%20Beatles),f
+Olivia Arias/Reader,1,/tags/Olivia%20Arias*s*Reader,r
+Olivia Arias & George Harrison,1,/tags/Olivia%20Arias%20*a*%20George%20Harrison,r
+Sean Lennon & Paul McCartney,2,/tags/Sean%20Lennon%20*a*%20Paul%20McCartney,r
+Sean Lennon & Yoko Ono,1,/tags/Sean%20Lennon%20*a*%20Yoko%20Ono,r
+Vi Caldwell,0,/tags/Vi%20Caldwell,c
+Iris Caldwell/Paul McCartney,0,/tags/Iris%20Caldwell*s*Paul%20McCartney,r
+Song: For You Blue (The Beatles),0,/tags/Song:%20For%20You%20Blue%20(The%20Beatles),f
+Song: Eleanor Rigby (The Beatles),4,/tags/Song:%20Eleanor%20Rigby%20(The%20Beatles),f
+Joan Baez/Bob Dylan/George Harrison,0,/tags/Joan%20Baez*s*Bob%20Dylan*s*George%20Harrison,r
+Trixie Franklin/Julian Lennon,2,/tags/Trixie%20Franklin*s*Julian%20Lennon,r
+John Lennon & Julian Lennon & Sean Lennon,1,/tags/John%20Lennon%20*a*%20Julian%20Lennon%20*a*%20Sean%20Lennon,r
+Trixie Franklin & Julian Lennon,0,/tags/Trixie%20Franklin%20*a*%20Julian%20Lennon,r
+Julian Lennon & Justin Clayton,0,/tags/Julian%20Lennon%20*a*%20Justin%20Clayton,r
+Justin Clayton,1,/tags/Justin%20Clayton,c
+Paul McCartney/Brendon Urie,0,/tags/Paul%20McCartney*s*Brendon%20Urie,r
+Joan Baez/George Harrison,0,/tags/Joan%20Baez*s*George%20Harrison,r
+Queenie Epstein,1,/tags/Queenie%20Epstein,c
+George Martin/Paul McCartney,9,/tags/George%20Martin*s*Paul%20McCartney,r
+Song: Baby It's You (The Beatles),0,/tags/Song:%20Baby%20It's%20You%20(The%20Beatles),f
+Eric Clapton & George Harrison,1,/tags/Eric%20Clapton%20*a*%20George%20Harrison,r
+John Lennon/Mike McCartney,0,/tags/John%20Lennon*s*Mike%20McCartney,r
+John Lennon/Mimi Smith,0,/tags/John%20Lennon*s*Mimi%20Smith,r
+Jim McCartney/Mimi Smith,0,/tags/Jim%20McCartney*s*Mimi%20Smith,r
+Iris Caldwell & Paul McCartney,0,/tags/Iris%20Caldwell%20*a*%20Paul%20McCartney,r
+John Lennon & Original Female Character(s),0,/tags/John%20Lennon%20*a*%20Original%20Female%20Character(s),r
+John Lennon/Jim McCartney,0,/tags/John%20Lennon*s*Jim%20McCartney,r
+Pattie Boyd/Linda McCartney,1,/tags/Pattie%20Boyd*s*Linda%20McCartney,r
+Johnny Guitar/Ringo Starr,3,/tags/Johnny%20Guitar*s*Ringo%20Starr,r
+Dhani Harrison/Tom Petty,1,/tags/Dhani%20Harrison*s*Tom%20Petty,r
+Bob Dylan & George Harrison & Jeff Lynne & Roy Orbison & Tom Petty,5,/tags/Bob%20Dylan%20*a*%20George%20Harrison%20*a*%20Jeff%20Lynne%20*a*%20Roy%20Orbison%20*a*%20Tom%20Petty,r
+Song: Blue Jay Way (The Beatles),0,/tags/Song:%20Blue%20Jay%20Way%20(The%20Beatles),f
+Song: Let It Be (The Beatles),2,/tags/Song:%20Let%20It%20Be%20(The%20Beatles),f
+Song: Here There And Everywhere (The Beatles),0,/tags/Song:%20Here%20There%20And%20Everywhere%20(The%20Beatles),f
+Jules Gordon,0,/tags/Jules%20Gordon,c
+Linda McCartney/Paul McCartney/Ringo Starr,0,/tags/Linda%20McCartney*s*Paul%20McCartney*s*Ringo%20Starr,r
+John Lennon/Paul McCartney/Reader,1,/tags/John%20Lennon*s*Paul%20McCartney*s*Reader,r
+George Harrison/Ringo Starr/Reader,0,/tags/George%20Harrison*s*Ringo%20Starr*s*Reader,r
+Rusty Anderson,1,/tags/Rusty%20Anderson,c
+Brian Ray,1,/tags/Brian%20Ray,c
+I Wrote This While Listening to The Beatles,4,/tags/I%20Wrote%20This%20While%20Listening%20to%20The%20Beatles,f
+Mark Lewisohn,0,/tags/Mark%20Lewisohn,c
+Dhani Harrison/Mereki Beach,2,/tags/Dhani%20Harrison*s*Mereki%20Beach,r
+Beatles Rarepair Week,4,/tags/Beatles%20Rarepair%20Week,f
+Jeff Lynne & Paul McCartney,1,/tags/Jeff%20Lynne%20*a*%20Paul%20McCartney,r
+Linda McCartney/Yoko Ono,0,/tags/Linda%20McCartney*s*Yoko%20Ono,r
+Michael Lindsay-Hogg/Ringo Starr,0,/tags/Michael%20Lindsay-Hogg*s*Ringo%20Starr,r
+Pattie Boyd/Original Character(s),0,/tags/Pattie%20Boyd*s*Original%20Character(s),r
+Mean John Lennon,0,/tags/Mean%20John%20Lennon,f
+Mal Evans/Ringo Starr,1,/tags/Mal%20Evans*s*Ringo%20Starr,r
+Paul McCartney/Rocky (Yesterday 2019),1,/tags/Paul%20McCartney*s*Rocky%20(Yesterday%202019),r
+Pete Best/Ringo Starr,2,/tags/Pete%20Best*s*Ringo%20Starr,r
+Astrid Kirchherr/Ringo Starr,1,/tags/Astrid%20Kirchherr*s*Ringo%20Starr,r
+George Harrison/Jürgen Vollmer,1,/tags/George%20Harrison*s*J%C3%BCrgen%20Vollmer,r
+Pete Best & Paul McCartney,1,/tags/Pete%20Best%20*a*%20Paul%20McCartney,r
+Student George Harrison (The Beatles),1,/tags/Student%20George%20Harrison%20(The%20Beatles),f
+Cynthia Lennon & Phyllis McKenzie,1,/tags/Cynthia%20Lennon%20*a*%20Phyllis%20McKenzie,r
+Maureen Cox/Keith Moon/Ringo Starr,1,/tags/Maureen%20Cox*s*Keith%20Moon*s*Ringo%20Starr,r
+Ringo Starr & Joe Walsh,1,/tags/Ringo%20Starr%20*a*%20Joe%20Walsh,r
+Ian James (The Beatles),1,/tags/Ian%20James%20(The%20Beatles),c
+John Lennon & Bob Wooler,0,/tags/John%20Lennon%20*a*%20Bob%20Wooler,r
+Pete Best & George Harrison,0,/tags/Pete%20Best%20*a*%20George%20Harrison,r
+George Harrison/John Lennon/Paul McCartney/Billy Preston/Ringo Starr,0,/tags/George%20Harrison*s*John%20Lennon*s*Paul%20McCartney*s*Billy%20Preston*s*Ringo%20Starr,r
+George Harrison/Glyn Johns,0,/tags/George%20Harrison*s*Glyn%20Johns,r
+Pete Best & John Lennon,0,/tags/Pete%20Best%20*a*%20John%20Lennon,r
+John Lennon/Billy Preston,0,/tags/John%20Lennon*s*Billy%20Preston,r
+Maureen Cox/Keith Moon,0,/tags/Maureen%20Cox*s*Keith%20Moon,r
+John Lennon & Pete Shotton,0,/tags/John%20Lennon%20*a*%20Pete%20Shotton,r
+Old John Lennon/Paul McCartney,1,/tags/Old%20John%20Lennon*s*Paul%20McCartney,f
+Pregnant Paul McCartney,0,/tags/Pregnant%20Paul%20McCartney,f
+George Harrison/Eric Idle,1,/tags/George%20Harrison*s*Eric%20Idle,r
+Pattie Boyd/Glyn Johns,1,/tags/Pattie%20Boyd*s*Glyn%20Johns,r
+Beatles Kink Meme,17,/tags/Beatles%20Kink%20Meme,f
+Castiel (Supernatural)/Ringo Starr,1,/tags/Castiel%20(Supernatural)*s*Ringo%20Starr,r
+Cynthia Lennon/May Pang,1,/tags/Cynthia%20Lennon*s*May%20Pang,r
+The Fourmost Ensemble,0,/tags/The%20Fourmost%20Ensemble,c
+Robert Fraser/John Lennon,0,/tags/Robert%20Fraser*s*John%20Lennon,r
+The Beatles In India,2,/tags/The%20Beatles%20In%20India,f
+Community: johnheartpaul,0,/tags/Community:%20johnheartpaul,f
+Pete Best/Brian Epstein,0,/tags/Pete%20Best*s*Brian%20Epstein,r
+Olivia Arias/Linda McCartney,1,/tags/Olivia%20Arias*s*Linda%20McCartney,r
+John Lennon/George Martin/Paul McCartney,0,/tags/John%20Lennon*s*George%20Martin*s*Paul%20McCartney,r
+The Beatles (Ensemble) & Original Character(s),2,/tags/The%20Beatles%20(Ensemble)%20*a*%20Original%20Character(s),r
+The Beatles Ensemble/Fall Out Boy Ensemble,0,/tags/The%20Beatles%20Ensemble*s*Fall%20Out%20Boy%20Ensemble,r
+Dean Gordon,0,/tags/Dean%20Gordon,c
+Julian Lennon & Original Character(s),0,/tags/Julian%20Lennon%20*a*%20Original%20Character(s),r
+Julian Lennon/Original Female Character(s),0,/tags/Julian%20Lennon*s*Original%20Female%20Character(s),r
+Emil Kirchherr,0,/tags/Emil%20Kirchherr,c
+Ravi Shankar (Musician),0,/tags/Ravi%20Shankar%20(Musician),c
+John Lennon/Peter Noone,0,/tags/John%20Lennon*s*Peter%20Noone,r
+Paul McCartney/Elvis Presley,2,/tags/Paul%20McCartney*s*Elvis%20Presley,r
+Song: All My Loving (The Beatles),2,/tags/Song:%20All%20My%20Loving%20(The%20Beatles),f
+Angry Paul McCartney,2,/tags/Angry%20Paul%20McCartney,f
+Pattie Boyd & Roger Taylor (Queen),1,/tags/Pattie%20Boyd%20*a*%20Roger%20Taylor%20(Queen),r
+Cute John Lennon,5,/tags/Cute%20John%20Lennon,f
+Glyn Johns & Pete Townshend,1,/tags/Glyn%20Johns%20*a*%20Pete%20Townshend,r
+George Floyd (1973-2020)/John Lennon,0,/tags/George%20Floyd%20(1973-2020)*s*John%20Lennon,r
+Cynthia Lennon & Paul McCartney,1,/tags/Cynthia%20Lennon%20*a*%20Paul%20McCartney,r
+George Harrison/Roy Orbison,0,/tags/George%20Harrison*s*Roy%20Orbison,r
+Ringo Starr/Roger Taylor (Queen),0,/tags/Ringo%20Starr*s*Roger%20Taylor%20(Queen),r
+George Harrison (The Beatles)/Roger Taylor (Queen),0,/tags/George%20Harrison%20(The%20Beatles)*s*Roger%20Taylor%20(Queen),r
+George Harrison/Ringo Starr/Roger Taylor (Queen),0,/tags/George%20Harrison*s*Ringo%20Starr*s*Roger%20Taylor%20(Queen),r
+Robert Fraser/John Lennon/Paul McCartney,0,/tags/Robert%20Fraser*s*John%20Lennon*s*Paul%20McCartney,r
+Pattie Boyd & Derek Taylor,1,/tags/Pattie%20Boyd%20*a*%20Derek%20Taylor,r
+Leslie Cavendish,1,/tags/Leslie%20Cavendish,c
+Pete Best & Brian Epstein,0,/tags/Pete%20Best%20*a*%20Brian%20Epstein,r
+George Harrison/Jeff Lynne/Ringo Starr,0,/tags/George%20Harrison*s*Jeff%20Lynne*s*Ringo%20Starr,r
+Glyn Johns/Pete Townshend,0,/tags/Glyn%20Johns*s*Pete%20Townshend,r
+Starrison Week 2022,7,/tags/Starrison%20Week%202022,f
+Rupert | George Harrison's Cat,1,/tags/Rupert%20%7C%20George%20Harrison's%20Cat,c
+Jostick | George Harrison's Cat,1,/tags/Jostick%20%7C%20George%20Harrison's%20Cat,c
+Winston | George Harrison's Dog,1,/tags/Winston%20%7C%20George%20Harrison's%20Dog,c
+Elizabeth II of the United Kingdom/Paul McCartney,0,/tags/Elizabeth%20II%20of%20the%20United%20Kingdom*s*Paul%20McCartney,r
+Dhani Harrison & George Harrison & Ringo Starr,1,/tags/Dhani%20Harrison%20*a*%20George%20Harrison%20*a*%20Ringo%20Starr,r
+George Martin & Paul McCartney,2,/tags/George%20Martin%20*a*%20Paul%20McCartney,r
+John Lennon is a Mess,3,/tags/John%20Lennon%20is%20a%20Mess,f
+John Lennon/Paul McCartney/Keith Richards,4,/tags/John%20Lennon*s*Paul%20McCartney*s*Keith%20Richards,r
+Mentioned John Lennon,1,/tags/Mentioned%20John%20Lennon,f
+Korky | George Harrison's Cat,1,/tags/Korky%20%7C%20George%20Harrison's%20Cat,c
+Dr. Henry Jekyll/Paul McCartney,0,/tags/Dr*d*%20Henry%20Jekyll*s*Paul%20McCartney,r
+Edward Hyde/Paul McCartney,0,/tags/Edward%20Hyde*s*Paul%20McCartney,r
+Song: You've Got To Hide Your Love Away (The Beatles),1,/tags/Song:%20You've%20Got%20To%20Hide%20Your%20Love%20Away%20(The%20Beatles),f
+Song: All I've Got To Do (The Beatles),1,/tags/Song:%20All%20I've%20Got%20To%20Do%20(The%20Beatles),f
+Stevie Nicks/Derek Taylor,1,/tags/Stevie%20Nicks*s*Derek%20Taylor,r
+Rose Martin,2,/tags/Rose%20Martin,c
+Top Stuart Sutcliffe,1,/tags/Top%20Stuart%20Sutcliffe,f
+Starrison Holiday Gift Exchange,1,/tags/Starrison%20Holiday%20Gift%20Exchange,f
+Starrison Holiday Gift Exchange 2022,1,/tags/Starrison%20Holiday%20Gift%20Exchange%202022,f
+Ray Dagg,0,/tags/Ray%20Dagg,c
+Geoff Emerick & George Harrison,1,/tags/Geoff%20Emerick%20*a*%20George%20Harrison,r
+Geoff Emerick & Paul McCartney,1,/tags/Geoff%20Emerick%20*a*%20Paul%20McCartney,r
+Albert | AlbertsStuff | Flamingo/John Lennon,0,/tags/Albert%20%7C%20AlbertsStuff%20%7C%20Flamingo*s*John%20Lennon,r
+Barry Miles,1,/tags/Barry%20Miles,c
+Allen Klein/Paul McCartney,0,/tags/Allen%20Klein*s*Paul%20McCartney,r
+Paul McCartney/Rory Storm,0,/tags/Paul%20McCartney*s*Rory%20Storm,r
+John Lennon/Original Dog Character(s),0,/tags/John%20Lennon*s*Original%20Dog%20Character(s),r
+John Lennon/Russia (Anthropomorphic),0,/tags/John%20Lennon*s*Russia%20(Anthropomorphic),r
+John Lennon/Russia (Anthropomorphic)/Original Dog Character(s),0,/tags/John%20Lennon*s*Russia%20(Anthropomorphic)*s*Original%20Dog%20Character(s),r
+Eddie | Paul McCartney's Dog,1,/tags/Eddie%20%7C%20Paul%20McCartney's%20Dog,c
+Song: I'm Only Sleeping (The Beatles),0,/tags/Song:%20I'm%20Only%20Sleeping%20(The%20Beatles),f
+Ty O'Brien (Rory Storm and the Hurricanes),1,/tags/Ty%20O'Brien%20(Rory%20Storm%20and%20the%20Hurricanes),c
+John Lennon & Paul McCartney Friendship,3,/tags/John%20Lennon%20*a*%20Paul%20McCartney%20Friendship,f
+George Harrison/Ringo Starr in Love,3,/tags/George%20Harrison*s*Ringo%20Starr%20in%20Love,f
+Song: All Those Years Ago (George Harrison),0,/tags/Song:%20All%20Those%20Years%20Ago%20(George%20Harrison),f
+Starrison Week 2020,0,/tags/Starrison%20Week%202020,f
+Album: All Things Must Pass (George Harrison),0,/tags/Album:%20All%20Things%20Must%20Pass%20(George%20Harrison),f
+Album: The White Album (The Beatles),0,/tags/Album:%20The%20White%20Album%20(The%20Beatles),f
+Album: With The Beatles (The Beatles),1,/tags/Album:%20With%20The%20Beatles%20(The%20Beatles),f
+Peace and Love Mini Fest 2023,1,/tags/Peace%20and%20Love%20Mini%20Fest%202023,f
+Song: Can't Buy Me Love (The Beatles),0,/tags/Song:%20Can't%20Buy%20Me%20Love%20(The%20Beatles),f
+Song: And I Love Her (The Beatles),1,/tags/Song:%20And%20I%20Love%20Her%20(The%20Beatles),f
+Royston Ellis/George Harrison,0,/tags/Royston%20Ellis*s*George%20Harrison,r
+Crying John Lennon,0,/tags/Crying%20John%20Lennon,f
+Les Anthony,1,/tags/Les%20Anthony,c
+Cendrillon | Cinderella (Cendrillon - Perrault)/George Harrison (The Beatles),0,/tags/Cendrillon%20%7C%20Cinderella%20(Cendrillon%20-%20Perrault)*s*George%20Harrison%20(The%20Beatles),r
+Neil Aspinall/Original Character(s),0,/tags/Neil%20Aspinall*s*Original%20Character(s),r
+Joe Elliott (Def Leppard)/George Harrison (The Beatles),0,/tags/Joe%20Elliott%20(Def%20Leppard)*s*George%20Harrison%20(The%20Beatles),r
+Yoko Ono/Francie Schwartz,1,/tags/Yoko%20Ono*s*Francie%20Schwartz,r
+Don McCullin,1,/tags/Don%20McCullin,c
+John Lennon/Keith Richards,0,/tags/John%20Lennon*s*Keith%20Richards,r
+David Bailey/Rosemary Bramble,1,/tags/David%20Bailey*s*Rosemary%20Bramble,r
+Rowena Horne,1,/tags/Rowena%20Horne,c
+Eddie Clayton (Musician),0,/tags/Eddie%20Clayton%20(Musician),c
+Art Garfunkel/George Harrison,0,/tags/Art%20Garfunkel*s*George%20Harrison,r
+Song: Strawberry Fields Forever (The Beatles),4,/tags/Song:%20Strawberry%20Fields%20Forever%20(The%20Beatles),f
+Ghost John Lennon,0,/tags/Ghost%20John%20Lennon,f
+Mick Jagger/Yoko Ono,1,/tags/Mick%20Jagger*s*Yoko%20Ono,r
+Mal Evans & Everyone,1,/tags/Mal%20Evans%20*a*%20Everyone,r
+Icke Braun/Paul McCartney,1,/tags/Icke%20Braun*s*Paul%20McCartney,r
+Icke Braun,1,/tags/Icke%20Braun,c
+Jane Asher/Denny Laine,0,/tags/Jane%20Asher*s*Denny%20Laine,r
+Dave Davies/John Lennon,0,/tags/Dave%20Davies*s*John%20Lennon,r
+Denny Laine/Linda McCartney/Paul McCartney,0,/tags/Denny%20Laine*s*Linda%20McCartney*s*Paul%20McCartney,r
+Pattie Boyd/May Pang,0,/tags/Pattie%20Boyd*s*May%20Pang,r
+Peter Asher/Paul McCartney,0,/tags/Peter%20Asher*s*Paul%20McCartney,r
+Hunter Davies,0,/tags/Hunter%20Davies,c
+Hunter Davies/Paul McCartney,0,/tags/Hunter%20Davies*s*Paul%20McCartney,r
+Mark David Chapman & John Lennon,0,/tags/Mark%20David%20Chapman%20*a*%20John%20Lennon,r
+David Bowie/Mick Jagger/Yoko Ono,0,/tags/David%20Bowie*s*Mick%20Jagger*s*Yoko%20Ono,r
+Tara Browne/Marianne Faithfull/Paul McCartney,0,/tags/Tara%20Browne*s*Marianne%20Faithfull*s*Paul%20McCartney,r
+Song: Michelle (The Beatles),1,/tags/Song:%20Michelle%20(The%20Beatles),f
+Penelope Featherington/John Lennon,1,/tags/Penelope%20Featherington*s*John%20Lennon,r
+Sherlock Holmes & John Lennon,1,/tags/Sherlock%20Holmes%20*a*%20John%20Lennon,r
