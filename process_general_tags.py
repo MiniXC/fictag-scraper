@@ -15,4 +15,5 @@ df = df.sort_values("count", ascending=False)
 
 Path(f"{process_dir}/tags").mkdir(parents=True, exist_ok=True)
 
-df.to_csv(f"{process_dir}/tags/_general_tags.csv", index=False)
+# we need the index to later join with the works
+df.to_csv(f"{process_dir}/tags/_general_tags.csv", index=True)

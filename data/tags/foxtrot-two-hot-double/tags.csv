@@ -1,0 +1,724 @@
+tag,count,href,category
+"Masaru ""Echo"" Enatsu",114,/tags/Masaru%20%22Echo%22%20Enatsu,c
+"Maxim ""Kapkan"" Basuda/Gustave ""Doc"" Kateb",2,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Gustave%20%22Doc%22%20Kateb,r
+"Siu ""Ying"" Mei Lin",77,/tags/Siu%20%22Ying%22%20Mei%20Lin,c
+"Tina ""Frost"" Lin Tsang/Reader",4,/tags/Tina%20%22Frost%22%20Lin%20Tsang*s*Reader,r
+"Gustave ""Doc"" Kateb/Julien ""Rook"" Nizan",42,/tags/Gustave%20%22Doc%22%20Kateb*s*Julien%20%22Rook%22%20Nizan,r
+"Elżbieta ""Ela"" Bosak/Reader",7,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Reader,r
+"Mike ""Thatcher"" Baker/Reader",21,/tags/Mike%20%22Thatcher%22%20Baker*s*Reader,r
+"Elżbieta ""Ela"" Bosak",150,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak,c
+"Timur ""Glaz"" Glazkov/Shuhrat ""Fuze"" Kessikbayev",41,/tags/Timur%20%22Glaz%22%20Glazkov*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Shuhrat ""Fuze"" Kessikbayev/Siu ""Ying"" Mei Lin",3,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Grace ""Dokkaebi"" Nam",225,/tags/Grace%20%22Dokkaebi%22%20Nam,c
+Zofia Bosak,89,/tags/Zofia%20Bosak,c
+"Liu ""Lesion"" Tze Long",94,/tags/Liu%20%22Lesion%22%20Tze%20Long,c
+"Jack ""Pulse"" Estrada/Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/Jack%20%22Pulse%22%20Estrada*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Elias ""Blitz"" Kötz/Reader",38,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Reader,r
+"Maxim ""Kapkan"" Basuda/Julien ""Rook"" Nizan",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Julien%20%22Rook%22%20Nizan,r
+"Dominic ""Bandit"" Brunsmeier/Reader",39,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Reader,r
+"Gilles ""Montagne"" Touré/Alexandr ""Tachanka"" Senaviev",3,/tags/Gilles%20%22Montagne%22%20Tour%C3%A9*s*Alexandr%20%22Tachanka%22%20Senaviev,r
+"Sébastien ""Buck"" Côté/Ryad ""Jackal"" Ramírez Al-Hassar",23,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Julien ""Rook"" Nizan/Reader",22,/tags/Julien%20%22Rook%22%20Nizan*s*Reader,r
+"Jordan ""Thermite"" Trace/Reader",38,/tags/Jordan%20%22Thermite%22%20Trace*s*Reader,r
+"Grace ""Dokkaebi"" Nam/Reader",8,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Reader,r
+"Elias ""Blitz"" Kötz/Julien ""Rook"" Nizan",31,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Julien%20%22Rook%22%20Nizan,r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Reader",14,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Reader,r
+"Gilles ""Montagne"" Touré/Reader",17,/tags/Gilles%20%22Montagne%22%20Tour%C3%A9*s*Reader,r
+"Alexsandr ""Tachanka"" Senaviev/Reader",41,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Reader,r
+"Marius ""Jäger"" Streicher/Reader",27,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Reader,r
+"Masaru ""Echo"" Enatsu/Reader",16,/tags/Masaru%20%22Echo%22%20Enatsu*s*Reader,r
+"Seamus ""Sledge"" Cowden/Reader",12,/tags/Seamus%20%22Sledge%22%20Cowden*s*Reader,r
+"Mark ""Mute"" Chandar/Reader",17,/tags/Mark%20%22Mute%22%20Chandar*s*Reader,r
+"James ""Smoke"" Porter/Reader",15,/tags/James%20%22Smoke%22%20Porter*s*Reader,r
+"Yumiko ""Hibana"" Imagawa",133,/tags/Yumiko%20%22Hibana%22%20Imagawa,c
+"Gustave ""Doc"" Kateb/Ryad ""Jackal"" Ramírez Al-Hassar",2,/tags/Gustave%20%22Doc%22%20Kateb*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Ryad ""Jackal"" Ramirez Al-Hassar/Marius ""Jäger"" Streicher",1,/tags/Ryad%20%22Jackal%22%20Ramirez%20Al-Hassar*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Dominic ""Bandit"" Brunsmeier/Marius ""Jäger"" Streicher",254,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Gustave ""Doc"" Kateb & Gilles ""Montagne"" Touré",33,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Shuhrat ""Fuze"" Kessikbayev/Marius ""Jäger"" Streicher",74,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Julien ""Rook"" Nizan/Emmanuelle ""Twitch"" Pichon",4,/tags/Julien%20%22Rook%22%20Nizan*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Jack ""Pulse"" Estrada/Jordan ""Thermite"" Trace",20,/tags/Jack%20%22Pulse%22%20Estrada*s*Jordan%20%22Thermite%22%20Trace,r
+"Elena ""Mira"" Maria Alvarez/Alexsandr ""Tachanka"" Senaviev",7,/tags/Elena%20%22Mira%22%20Maria%20Alvarez*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Chul Kyung ""Vigil"" Hwa",167,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa,c
+"Seamus ""Sledge"" Cowden/Elias ""Blitz"" Kötz/Julien ""Rook"" Nizan",1,/tags/Seamus%20%22Sledge%22%20Cowden*s*Elias%20%22Blitz%22%20K%C3%B6tz*s*Julien%20%22Rook%22%20Nizan,r
+"Elias ""Blitz"" Kötz/Emmanuelle ""Twitch"" Pichon",1,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Olivier ""Lion"" Flament/Shuhrat ""Fuze"" Kessikbayev",3,/tags/Olivier%20%22Lion%22%20Flament*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Olivier ""Lion"" Flament",395,/tags/Olivier%20%22Lion%22%20Flament,c
+"Shuhrat ""Fuze"" Kessikbayev/Jordan ""Thermite"" Trace",6,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Jordan%20%22Thermite%22%20Trace,r
+"Timur ""Glaz"" Glazkov/Shuhrat ""Fuze"" Kessikbayev/Reader",2,/tags/Timur%20%22Glaz%22%20Glazkov*s*Shuhrat%20%22Fuze%22%20Kessikbayev*s*Reader,r
+"Eliza ""Ash"" Cohen/Jordan ""Thermite"" Trace",28,/tags/Eliza%20%22Ash%22%20Cohen*s*Jordan%20%22Thermite%22%20Trace,r
+"Dominic ""Bandit"" Brunsmeier/Gustave ""Doc"" Kateb",10,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Gustave%20%22Doc%22%20Kateb,r
+"Dominic ""Bandit"" Brunsmeier/Olivier ""Lion"" Flament",17,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Olivier%20%22Lion%22%20Flament,r
+"Seamus ""Sledge"" Cowden/Elias ""Blitz"" Kötz",5,/tags/Seamus%20%22Sledge%22%20Cowden*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Lera ""Finka"" Melnikova",190,/tags/Lera%20%22Finka%22%20Melnikova,c
+"Chul Kyung ""Vigil"" Hwa/Julien ""Rook"" Nizan",2,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Julien%20%22Rook%22%20Nizan,r
+"Marius ""Jäger"" Streicher/Monika ""IQ"" Weiss",2,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Monika%20%22IQ%22%20Weiss,r
+"Grace ""Dokkaebi"" Nam/Taina ""Caveira"" Pereira",9,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Taina%20%22Caveira%22%20Pereira,r
+"Gustave ""Doc"" Kateb/Gilles ""Montagne"" Touré",79,/tags/Gustave%20%22Doc%22%20Kateb*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Masaru ""Echo"" Enatsu/Grace ""Dokkaebi"" Nam",5,/tags/Masaru%20%22Echo%22%20Enatsu*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Masaru ""Echo"" Enatsu/Liu ""Lesion"" Tze Long",15,/tags/Masaru%20%22Echo%22%20Enatsu*s*Liu%20%22Lesion%22%20Tze%20Long,r
+"Elźbieta ""Ela"" Bosak/Taina ""Caveira"" Pereira",4,/tags/El%C5%BAbieta%20%22Ela%22%20Bosak*s*Taina%20%22Caveira%22%20Pereira,r
+"Elżbieta ""Ela"" Bosak/Grace ""Dokkaebi"" Nam",6,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Gustave ""Doc"" Kateb/Marius ""Jäger"" Streicher",13,/tags/Gustave%20%22Doc%22%20Kateb*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Yumiko ""Hibana"" Imagawa/Jordan ""Thermite"" Trace",7,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Jordan%20%22Thermite%22%20Trace,r
+"Elias ""Blitz"" Kötz/Gilles ""Montagne"" Touré",24,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Mark ""Mute"" Chandar/Grace ""Dokkaebi"" Nam",12,/tags/Mark%20%22Mute%22%20Chandar*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Dominic ""Bandit"" Brunsmeier/Timur ""Glaz"" Glazkov",7,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Timur%20%22Glaz%22%20Glazkov,r
+"Olivier ""Lion"" Flament/Reader",32,/tags/Olivier%20%22Lion%22%20Flament*s*Reader,r
+"Marasu ""Echo"" Enatsu/Chul Kyung ""Vigil"" Hwa",14,/tags/Marasu%20%22Echo%22%20Enatsu*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"Liu ""Lesion"" Tze Long/James ""Smoke"" Porter",7,/tags/Liu%20%22Lesion%22%20Tze%20Long*s*James%20%22Smoke%22%20Porter,r
+"Olivier ""Lion"" Flament/Lera ""Finka"" Melnikova",2,/tags/Olivier%20%22Lion%22%20Flament*s*Lera%20%22Finka%22%20Melnikova,r
+"Dominic ""Bandit"" Brunsmeier/Everyone",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Everyone,r
+"Yumiko ""Hibana"" Imagawa/Elias ""Blitz"" Kötz",0,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Elias ""Blitz"" Kötz/Marius ""Jäger"" Streicher",31,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Sébastien ""Buck"" Côté/Reader",8,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Reader,r
+"Meghan ""Valkyrie"" Castellano/Sébastien ""Buck"" Côté",2,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9,r
+"Chul Kyung ""Vigil"" Hwa/Reader",6,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Reader,r
+"Masaru ""Echo"" Enatsu/Chul Kyung ""Vigil"" Hwa",5,/tags/Masaru%20%22Echo%22%20Enatsu*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"Chul Kyung ""Vigil"" Hwa/Craig ""Blackbeard"" Jenson",9,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Craig%20%22Blackbeard%22%20Jenson,r
+"Sébastien ""Buck"" Côté/Craig ""Blackbeard"" Jenson",0,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Craig%20%22Blackbeard%22%20Jenson,r
+"Gustave ""Doc"" Kateb/Taina ""Caveira"" Pereira",12,/tags/Gustave%20%22Doc%22%20Kateb*s*Taina%20%22Caveira%22%20Pereira,r
+"Taina ""Caveira"" Pereira/Reader",9,/tags/Taina%20%22Caveira%22%20Pereira*s*Reader,r
+"Mark ""Mute"" Chandar/Chul Kyung ""Vigil"" Hwa",39,/tags/Mark%20%22Mute%22%20Chandar*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"Mark ""Mute"" Chandar/Chul Kyung ""Vigil"" Hwa/Marius ""Jäger"" Streicher",1,/tags/Mark%20%22Mute%22%20Chandar*s*Chul%20Kyung%20%22Vigil%22%20Hwa*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Maxim ""Kapkan"" Basuda/Dominic ""Bandit"" Brunsmeier",10,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Dominic%20%22Bandit%22%20Brunsmeier,r
+"Elżbieta ""Ela"" Bosak/Siu ""Ying"" Mei Lin",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Meghan ""Valkyrie"" Castellano/Emmanuelle ""Twitch"" Pichon",1,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Timur ""Glaz"" Glazkov/Taina ""Caveira"" Pereira",4,/tags/Timur%20%22Glaz%22%20Glazkov*s*Taina%20%22Caveira%22%20Pereira,r
+"Mark ""Mute"" Chandar/Seamus ""Sledge"" Cowden",10,/tags/Mark%20%22Mute%22%20Chandar*s*Seamus%20%22Sledge%22%20Cowden,r
+"Alexsandr ""Tachanka"" Senaviev/Original Character(s)",0,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Original%20Character(s),r
+"Chul Kyung ""Vigil"" Hwa/Alexsandr ""Tachanka"" Senaviev",2,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Lera ""Finka"" Melnikova/Alexsandr ""Tachanka"" Senaviev",15,/tags/Lera%20%22Finka%22%20Melnikova*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Seamus ""Sledge"" Cowden/Alexsandr ""Tachanka"" Senaviev",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Shuhrat ""Fuze"" Kessikbayev/Alexsandr ""Tachanka"" Senaviev",5,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Timur ""Glaz"" Glazkov/Alexsandr ""Tachanka"" Senaviev",0,/tags/Timur%20%22Glaz%22%20Glazkov*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Elena ""Mira"" Maria Álvarez/Emmanuelle ""Twitch"" Pichon",5,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Elżbieta ""Ela"" Bosak/Meghan ""Valkyrie"" Castellano",21,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Meghan%20%22Valkyrie%22%20Castellano,r
+"Shuhrat ""Fuze"" Kessikbayev/Original Character(s)",1,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Original%20Character(s),r
+"Dominic ""Bandit"" Brunsmeier/Eliza ""Ash"" Cohen",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Eliza%20%22Ash%22%20Cohen,r
+"Maxim ""Kapkan"" Basuda/Elias ""Blitz"" Kötz",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Grace ""Dokkaebi"" Nam/Siu ""Ying"" Mei Lin",1,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Sébastien ""Buck"" Côté/Elias ""Blitz"" Kötz",0,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Julien ""Rook"" Nizan/Original Character(s)",1,/tags/Julien%20%22Rook%22%20Nizan*s*Original%20Character(s),r
+"Sébastien ""Buck"" Côté/Original Female Character(s)",2,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Original%20Female%20Character(s),r
+"Tina ""Frost"" Lin Tsang/Original Male Character(s)",0,/tags/Tina%20%22Frost%22%20Lin%20Tsang*s*Original%20Male%20Character(s),r
+"Masaru ""Echo"" Enatsu & Siu ""Ying"" Mei Lin",1,/tags/Masaru%20%22Echo%22%20Enatsu%20*a*%20Siu%20%22Ying%22%20Mei%20Lin,r
+"Yumiko ""Hibana"" Imagawa & Jordan ""Thermite"" Trace",0,/tags/Yumiko%20%22Hibana%22%20Imagawa%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Timur ""Glaz"" Glazkov/Original Male Character(s)",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Original%20Male%20Character(s),r
+"Gustave ""Doc"" Kateb/James ""Smoke"" Porter",12,/tags/Gustave%20%22Doc%22%20Kateb*s*James%20%22Smoke%22%20Porter,r
+"Emmanuelle ""Twitch"" Pichon/Monika ""IQ"" Weiss",4,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Monika%20%22IQ%22%20Weiss,r
+"Olivier ""Lion"" Flament/Marius ""Jäger"" Streicher",1,/tags/Olivier%20%22Lion%22%20Flament*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Maxim ""Kapkan"" Basuda/Gustave ""Doc"" Kateb/Elias ""Blitz"" Kötz",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Gustave%20%22Doc%22%20Kateb*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Dominic ""Bandit"" Brunsmeier/Elias ""Blitz"" Kötz/Marius ""Jäger"" Streicher",6,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Elias%20%22Blitz%22%20K%C3%B6tz*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Mike ""Thatcher"" Baker/James ""Smoke"" Porter/Reader",0,/tags/Mike%20%22Thatcher%22%20Baker*s*James%20%22Smoke%22%20Porter*s*Reader,r
+"Maxim “Kapkan” Basuda/Shuhrat ""Fuze"" Kessikbayev",6,/tags/Maxim%20%E2%80%9CKapkan%E2%80%9D%20Basuda*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Sébastien ""Buck"" Côté/Timur ""Glaz"" Glazkov",3,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Timur%20%22Glaz%22%20Glazkov,r
+"Alexsandr ""Tachanka"" Senaviev/Vicente ""Capitão"" Souza",1,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Vicente%20%22Capit%C3%A3o%22%20Souza,r
+"Alexsandr ""Tachanka"" Senaviev/Marius ""Jäger"" Streicher",2,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Alexsandr ""Tachanka"" Senaviev/Gilles ""Montagne"" Touré",1,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Mike ""Thatcher"" Baker/Marius ""Jäger"" Streicher",2,/tags/Mike%20%22Thatcher%22%20Baker*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Zofia Bosak/Timur ""Glaz"" Glazkov",1,/tags/Zofia%20Bosak*s*Timur%20%22Glaz%22%20Glazkov,r
+"Olivier ""Lion"" Flament/Gilles ""Montagne"" Touré",19,/tags/Olivier%20%22Lion%22%20Flament*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Taina ""Caveira"" Pereira/Tina ""Frost"" Lin Tsang",4,/tags/Taina%20%22Caveira%22%20Pereira*s*Tina%20%22Frost%22%20Lin%20Tsang,r
+"Lera ""Finka"" Melnikova/Emmanuelle ""Twitch"" Pichon",4,/tags/Lera%20%22Finka%22%20Melnikova*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+Ellen Mackintosh,2,/tags/Ellen%20Mackintosh,c
+"Gustave ""Doc"" Kateb/Angela ""Mercy"" Ziegler",0,/tags/Gustave%20%22Doc%22%20Kateb*s*Angela%20%22Mercy%22%20Ziegler,r
+Kure Galanos,0,/tags/Kure%20Galanos,c
+"Dominic ""Bandit"" Brunsmeier/James ""Smoke"" Porter",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*James%20%22Smoke%22%20Porter,r
+"Craig ""Blackbeard"" Jenson/Reader",8,/tags/Craig%20%22Blackbeard%22%20Jenson*s*Reader,r
+"Maxim ""Kapkan"" Basuda/Lera ""Finka"" Melnikova",2,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Lera%20%22Finka%22%20Melnikova,r
+"Seamus ""Sledge"" Cowden/Marius ""Jäger"" Streicher",12,/tags/Seamus%20%22Sledge%22%20Cowden*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Sébastien ""Buck"" Côté/Taina ""Caveira"" Pereira",8,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Taina%20%22Caveira%22%20Pereira,r
+"Dominic ""Bandit"" Brunsmeier & Marius ""Jäger"" Streicher",16,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Elena ""Mira"" Maria Alvarez/Reader",3,/tags/Elena%20%22Mira%22%20Maria%20Alvarez*s*Reader,r
+"Adriano ""Maestro"" Martello",81,/tags/Adriano%20%22Maestro%22%20Martello,c
+"Aria ""Alibi"" de Luca",56,/tags/Aria%20%22Alibi%22%20de%20Luca,c
+"Seamus ""Sledge"" Cowden/Adriano ""Maestro"" Martello",8,/tags/Seamus%20%22Sledge%22%20Cowden*s*Adriano%20%22Maestro%22%20Martello,r
+"Eliza ""Ash"" Cohen/Siu ""Ying"" Mei Lin",1,/tags/Eliza%20%22Ash%22%20Cohen*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Fareeha ""Pharah"" Amari/Gilles ""Montagne"" Touré",0,/tags/Fareeha%20%22Pharah%22%20Amari*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Monika ""IQ"" Weiss/Reader",5,/tags/Monika%20%22IQ%22%20Weiss*s*Reader,r
+"Emmanuelle ""Twitch"" Pichon/Reader",5,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Reader,r
+"Lera ""Finka"" Melnikova/Reader",4,/tags/Lera%20%22Finka%22%20Melnikova*s*Reader,r
+Jan Bosak,2,/tags/Jan%20Bosak,c
+"Jack ""Pulse"" Estrada/Reader",2,/tags/Jack%20%22Pulse%22%20Estrada*s*Reader,r
+"Adriano ""Maestro"" Martello/Reader",5,/tags/Adriano%20%22Maestro%22%20Martello*s*Reader,r
+"Olivier ""Lion"" Flament/Julien ""Rook"" Nizan",14,/tags/Olivier%20%22Lion%22%20Flament*s*Julien%20%22Rook%22%20Nizan,r
+"Olivier ""Lion"" Flament/Emmanuelle ""Twitch"" Pichon",3,/tags/Olivier%20%22Lion%22%20Flament*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Dominic ""Bandit"" Brunsmeier/Gilles ""Montagne"" Touré",16,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Maxim ""Kapkan"" Basuda/Marius ""Jager"" Streicher",9,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Marius%20%22Jager%22%20Streicher,r
+"Chul Kyung ""Vigil"" Hwa/Grace ""Dokkaebi"" Nam",10,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Yumiko ""Hibana"" Imagawa/Monika ""IQ"" Weiss",1,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Monika%20%22IQ%22%20Weiss,r
+"Mike ""Thatcher"" Baker/Olivier ""Lion"" Flament",11,/tags/Mike%20%22Thatcher%22%20Baker*s*Olivier%20%22Lion%22%20Flament,r
+"Dominic ""Bandit"" Brunsmeier/Julien ""Rook"" Nizan",11,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Julien%20%22Rook%22%20Nizan,r
+"Elżbieta ""Ela"" Bosak/Zofia Bosak/Timur ""Glaz"" Glazkov",1,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Zofia%20Bosak*s*Timur%20%22Glaz%22%20Glazkov,r
+"Elena ""Mira"" Maria Álvarez/Mark ""Mute"" Chandar",1,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Mark%20%22Mute%22%20Chandar,r
+"Siu ""Ying"" Mei Lin/Julien ""Rook"" Nizan",1,/tags/Siu%20%22Ying%22%20Mei%20Lin*s*Julien%20%22Rook%22%20Nizan,r
+"Elżbieta ""Ela"" Bosak/Monika ""IQ"" Weiss",2,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Monika%20%22IQ%22%20Weiss,r
+"Erik ""Maverick"" Thorn",91,/tags/Erik%20%22Maverick%22%20Thorn,c
+"Morowa ""Clash"" Evans",48,/tags/Morowa%20%22Clash%22%20Evans,c
+"Seamus ""Sledge"" Cowden/Erik ""Maverick"" Thorn",3,/tags/Seamus%20%22Sledge%22%20Cowden*s*Erik%20%22Maverick%22%20Thorn,r
+"Eliza ""Ash"" Cohen & Jordan ""Thermite"" Trace",4,/tags/Eliza%20%22Ash%22%20Cohen%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Dominic ""Bandit"" Brunsmeier/Monika ""IQ"" Weiss",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Monika%20%22IQ%22%20Weiss,r
+"Timur ""Glaz"" Glazkov/Gustave ""Doc"" Kateb",6,/tags/Timur%20%22Glaz%22%20Glazkov*s*Gustave%20%22Doc%22%20Kateb,r
+"Maxim ""Kapkan"" Basuda/Timur ""Glaz"" Glazkov/Marius ""Jäger"" Streicher",2,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Timur%20%22Glaz%22%20Glazkov*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Mark ""Mute"" Chandar/Shuhrat ""Fuze"" Kessikbayev",3,/tags/Mark%20%22Mute%22%20Chandar*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Julien ""Rook"" Nizan/Gilles ""Montagne"" Touré",10,/tags/Julien%20%22Rook%22%20Nizan*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Mark ""Mute"" Chandar/Marius ""Jäger"" Streicher",5,/tags/Mark%20%22Mute%22%20Chandar*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Elżbieta ""Ela"" Bosak/Dominic ""Bandit"" Brunsmeier",6,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Dominic%20%22Bandit%22%20Brunsmeier,r
+"Mike ""Thatcher"" Baker/Mark ""Mute"" Chandar",2,/tags/Mike%20%22Thatcher%22%20Baker*s*Mark%20%22Mute%22%20Chandar,r
+"Emmanuelle ""Twitch"" Pichon/Gilles ""Montagne"" Touré",4,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Miles ""Castle"" Campbell/Chul Kyung ""Vigil"" Hwa",2,/tags/Miles%20%22Castle%22%20Campbell*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"Elżbieta ""Ela"" Bosak & Zofia Bosak",11,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak%20*a*%20Zofia%20Bosak,r
+"Erik ""Maverick"" Thorn & Jordan ""Thermite"" Trace",0,/tags/Erik%20%22Maverick%22%20Thorn%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Sanaa ""Nomad"" El Maktoub",52,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub,c
+"Taina ""Caveira"" Pereira/Emmanuelle ""Twitch"" Pichon",33,/tags/Taina%20%22Caveira%22%20Pereira*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Olivier ""Lion"" Flament/Gustave ""Doc"" Kateb",141,/tags/Olivier%20%22Lion%22%20Flament*s*Gustave%20%22Doc%22%20Kateb,r
+"Jalal ""Kaid"" El Fassi",38,/tags/Jalal%20%22Kaid%22%20El%20Fassi,c
+"Miles ""Castle"" Campbell/Gilles ""Montagne"" Touré",1,/tags/Miles%20%22Castle%22%20Campbell*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Dominic ""Bandit"" Brunsmeier & Julien ""Rook"" Nizan",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Julien%20%22Rook%22%20Nizan,r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Vicente ""Capitão"" Souza",2,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Vicente%20%22Capit%C3%A3o%22%20Souza,r
+"Jack ""Pulse"" Estrada/Olivier ""Lion"" Flament",1,/tags/Jack%20%22Pulse%22%20Estrada*s*Olivier%20%22Lion%22%20Flament,r
+"Erik ""Maverick"" Thorn/Reader",10,/tags/Erik%20%22Maverick%22%20Thorn*s*Reader,r
+"Alexsandr ""Tachanka"" Senaviev/Original Female Character(s)",9,/tags/Alexsandr%20%22Tachanka%22%20Senaviev*s*Original%20Female%20Character(s),r
+"Mike ""Thatcher"" Baker/Jordan ""Thermite"" Trace",60,/tags/Mike%20%22Thatcher%22%20Baker*s*Jordan%20%22Thermite%22%20Trace,r
+"Sanaa ""Nomad"" El Maktoub/Reader",0,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Reader,r
+"Mike ""Thatcher"" Baker/Liu ""Lesion"" Tze Long",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Liu%20%22Lesion%22%20Tze%20Long,r
+"Maxim ""Kapkan"" Basuda/Timur ""Glaz"" Gazkov/Shuhrat ""Fuze"" Kessikbayev/Alexsandr ""Tachanka"" Senaviev",24,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Timur%20%22Glaz%22%20Gazkov*s*Shuhrat%20%22Fuze%22%20Kessikbayev*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Dominic ""Bandit"" Brunsmeier/Timur ""Glaz"" Glazkov/Reader",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Timur%20%22Glaz%22%20Glazkov*s*Reader,r
+"Dominic ""Bandit"" Brunsmeier/Mark ""Mute"" Chandar",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Mark%20%22Mute%22%20Chandar,r
+"Dominic ""Bandit"" Brunsmeier/Original Character(s)",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Original%20Character(s),r
+"Elias ""Blitz"" Kötz/Original Character(s)",1,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Original%20Character(s),r
+"Dominic ""Bandit"" Brunsmeier/Seamus ""Sledge"" Cowden",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Seamus%20%22Sledge%22%20Cowden,r
+"Elena ""Mira"" Maria Álvarez/Eliza ""Ash"" Cohen",48,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Eliza%20%22Ash%22%20Cohen,r
+"Eliza ""Ash"" Cohen/Original Male Character(s)",1,/tags/Eliza%20%22Ash%22%20Cohen*s*Original%20Male%20Character(s),r
+"Elźbieta ""Ela"" Bosak/Timur ""Glaz"" Glazkov",0,/tags/El%C5%BAbieta%20%22Ela%22%20Bosak*s*Timur%20%22Glaz%22%20Glazkov,r
+"Maxim ""Kapkan"" Basuda/Mark ""Mute"" Chandar",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Mark%20%22Mute%22%20Chandar,r
+"Timur ""Glaz"" Glazkov/Marius ""Jäger"" Streicher",2,/tags/Timur%20%22Glaz%22%20Glazkov*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Gustave ""Doc"" Kateb/Original Male Character(s)",1,/tags/Gustave%20%22Doc%22%20Kateb*s*Original%20Male%20Character(s),r
+"Siu ""Ying"" Mei Lin/Reader",1,/tags/Siu%20%22Ying%22%20Mei%20Lin*s*Reader,r
+"Gustave ""Doc"" Kateb/Original Character(s)",3,/tags/Gustave%20%22Doc%22%20Kateb*s*Original%20Character(s),r
+"Shuhrat ""Fuze"" Kessikbayev/Original Male Character(s)",4,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Original%20Male%20Character(s),r
+"Mark ""Mute"" Chandar/Adriano ""Maestro"" Martello",0,/tags/Mark%20%22Mute%22%20Chandar*s*Adriano%20%22Maestro%22%20Martello,r
+"Mike ""Thatcher"" Baker/Jalal ""Kaid"" El Fassi",3,/tags/Mike%20%22Thatcher%22%20Baker*s*Jalal%20%22Kaid%22%20El%20Fassi,r
+"Elias ""Blitz"" Kötz/Taina ""Caveira"" Pereira",0,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Taina%20%22Caveira%22%20Pereira,r
+"James ""Smoke"" Porter/Original Character(s)",0,/tags/James%20%22Smoke%22%20Porter*s*Original%20Character(s),r
+"James ""Smoke"" Porter/Original Female Character(s)",3,/tags/James%20%22Smoke%22%20Porter*s*Original%20Female%20Character(s),r
+"Maxim ""Kapkan"" Basuda/Timur ""Glaz"" Gazkov/Alexsandr ""Tachanka"" Senaviev",9,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Timur%20%22Glaz%22%20Gazkov*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Shuhrat ""Fuze"" Kessikbayev/Elias ""Blitz"" Kötz",0,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Miles ""Castle"" Campbell/Erik ""Maverick"" Thorn",6,/tags/Miles%20%22Castle%22%20Campbell*s*Erik%20%22Maverick%22%20Thorn,r
+"Timur ""Glaz"" Glazkov/Erik ""Maverick"" Thorn",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Erik%20%22Maverick%22%20Thorn,r
+"Eliza ""Ash"" Cohen/Seamus ""Sledge"" Cowden",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Seamus%20%22Sledge%22%20Cowden,r
+"Mike ""Thatcher"" Baker/Vicente ""Capitão"" Souza",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Vicente%20%22Capit%C3%A3o%22%20Souza,r
+"Timur ""Glaz"" Glazkov/Emmanuelle ""Twitch"" Pichon",0,/tags/Timur%20%22Glaz%22%20Glazkov*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Shuhrat ""Fuze"" Kessikbayev/Other(s)",0,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Other(s),r
+Zofia Bosak/Original Character(s),0,/tags/Zofia%20Bosak*s*Original%20Character(s),r
+"Eliza ""Ash"" Cohen/Lera ""Finka"" Melnikova",1,/tags/Eliza%20%22Ash%22%20Cohen*s*Lera%20%22Finka%22%20Melnikova,r
+"Masaru ""Echo"" Enatsu/Gustave ""Doc"" Kateb",0,/tags/Masaru%20%22Echo%22%20Enatsu*s*Gustave%20%22Doc%22%20Kateb,r
+"Julien ""Rook"" Nizan/Erik ""Maverick"" Thorn",0,/tags/Julien%20%22Rook%22%20Nizan*s*Erik%20%22Maverick%22%20Thorn,r
+"Marius ""Jäger"" Streicher/Gilles ""Montagne"" Touré",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Eliza ""Ash"" Cohen/Yumiko ""Hibana"" Imagawa/Jordan ""Thermite"" Trace",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Yumiko%20%22Hibana%22%20Imagawa*s*Jordan%20%22Thermite%22%20Trace,r
+"Gustave ""Doc"" Kateb & Marius ""Jäger"" Streicher",0,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Maxim ""Kapkan"" Basuda/Original Male Character(s)",4,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Original%20Male%20Character(s),r
+"Maxim ""Kapkan"" Basuda/Original Character(s)",3,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Original%20Character(s),r
+"Taina ""Caveira"" Pereira/Monika ""IQ"" Weiss",1,/tags/Taina%20%22Caveira%22%20Pereira*s*Monika%20%22IQ%22%20Weiss,r
+"Gustave ""Doc"" Kateb/Shuhrat ""Fuze"" Kessikbayev",1,/tags/Gustave%20%22Doc%22%20Kateb*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Eliza ""Ash"" Cohen/James ""Smoke"" Porter",0,/tags/Eliza%20%22Ash%22%20Cohen*s*James%20%22Smoke%22%20Porter,r
+"Mark ""Mute"" Chandar/Seamus ""Sledge"" Cowden/James ""Smoke"" Porter",2,/tags/Mark%20%22Mute%22%20Chandar*s*Seamus%20%22Sledge%22%20Cowden*s*James%20%22Smoke%22%20Porter,r
+"Mark ""Mute"" Chandar/Original Character(s)",1,/tags/Mark%20%22Mute%22%20Chandar*s*Original%20Character(s),r
+"Olivier ""Lion"" Flament/Adriano ""Maestro"" Martello",0,/tags/Olivier%20%22Lion%22%20Flament*s*Adriano%20%22Maestro%22%20Martello,r
+"Dominic ""Bandit"" Brunsmeier/Sébastien ""Buck"" Côté",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9,r
+"Maxim ""Kapkan"" Basuda/Shuhrat ""Fuze"" Kessikbayev",3,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Olivier ""Lion"" Flament & Gustave ""Doc"" Kateb",0,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Gustave%20%22Doc%22%20Kateb,r
+"Marius ""Jäger"" Streicher/Original Character(s)",1,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Original%20Character(s),r
+"Dominic ""Bandit"" Brunsmeier & Elias ""Blitz"" Kötz & Marius ""Jäger"" Streicher & Monika ""IQ"" Weiss",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Elias%20%22Blitz%22%20K%C3%B6tz%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher%20*a*%20Monika%20%22IQ%22%20Weiss,r
+"Lera ""Finka"" Melnikova/Grace ""Dokkaebi"" Nam/Monika ""IQ"" Weiss",0,/tags/Lera%20%22Finka%22%20Melnikova*s*Grace%20%22Dokkaebi%22%20Nam*s*Monika%20%22IQ%22%20Weiss,r
+"Meghan ""Valkyrie"" Castellano/Sanaa ""Nomad"" El Maktoub",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Sanaa%20%22Nomad%22%20El%20Maktoub,r
+"Aria ""Alibi"" de Luca/Gilles ""Montagne"" Touré",0,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Dominic ""Bandit"" Brunsmeier/Olivier ""Lion"" Flament/Gilles ""Montagne"" Touré",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Olivier%20%22Lion%22%20Flament*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Maxim ""Kapkan"" Basuda & Taina ""Caveira"" Pereira",0,/tags/Maxim%20%22Kapkan%22%20Basuda%20*a*%20Taina%20%22Caveira%22%20Pereira,r
+"Yumiko ""Hibana"" Imagawa/Original Character(s)",1,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Original%20Character(s),r
+"Yumiko ""Hibana"" Imagawa/Grace ""Dokkaebi"" Nam",8,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Dominic ""Bandit"" Brunsmeier/Other(s)",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Other(s),r
+"Mark ""Mute"" Chandar/Monika ""IQ"" Weiss",1,/tags/Mark%20%22Mute%22%20Chandar*s*Monika%20%22IQ%22%20Weiss,r
+"Maxim ""Kapkan"" Basuda/Jordan ""Thermite"" Trace",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Jordan%20%22Thermite%22%20Trace,r
+"Grace ""Dokkaebi"" Nam/Jordan ""Thermite"" Trace",0,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Jordan%20%22Thermite%22%20Trace,r
+"Tina ""Frost"" Lin Tsang/Monika ""IQ"" Weiss",3,/tags/Tina%20%22Frost%22%20Lin%20Tsang*s*Monika%20%22IQ%22%20Weiss,r
+"Grace ""Dokkaebi"" Nam/Original Character(s)",1,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Original%20Character(s),r
+"Dominic ""Bandit"" Brunsmeier/Original Female Character(s)",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Original%20Female%20Character(s),r
+"Yumiko ""Hibana"" Imagawa/Siu ""Ying"" Mei Lin",0,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Siu%20%22Ying%22%20Mei%20Lin,r
+Timur “Glaz” Glazkov/Reader,4,/tags/Timur%20%E2%80%9CGlaz%E2%80%9D%20Glazkov*s*Reader,r
+"Lera ""Finka"" Melnikova/Monika ""IQ"" Weiss",2,/tags/Lera%20%22Finka%22%20Melnikova*s*Monika%20%22IQ%22%20Weiss,r
+"Morowa ""Clash"" Evans/Emmanuelle ""Twitch"" Pichon",1,/tags/Morowa%20%22Clash%22%20Evans*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Morowa ""Clash"" Evans/Siu ""Ying"" Mei Lin",3,/tags/Morowa%20%22Clash%22%20Evans*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Marius ""Jäger"" Streicher & Monika ""IQ"" Weiss",3,/tags/Marius%20%22J%C3%A4ger%22%20Streicher%20*a*%20Monika%20%22IQ%22%20Weiss,r
+"Timur ""Glaz"" Glazkov/Original Female Character(s)",4,/tags/Timur%20%22Glaz%22%20Glazkov*s*Original%20Female%20Character(s),r
+"Sébastien ""Buck"" Côté/Shuhrat ""Fuze"" Kessikbayev",1,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Olivier ""Lion"" Flament & Gilles ""Montagne"" Touré",2,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Max ""Mozzie"" Goose",117,/tags/Max%20%22Mozzie%22%20Goose,c
+"Tori ""Gridlock"" Tallyo Fairous",43,/tags/Tori%20%22Gridlock%22%20Tallyo%20Fairous,c
+"Dominic ""Bandit"" Brunsmeier/Max ""Mozzie"" Goose",4,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Max%20%22Mozzie%22%20Goose,r
+"Harishva ""Harry"" Pandey",88,/tags/Harishva%20%22Harry%22%20Pandey,c
+"Aurelia ""Six"" Arnot",14,/tags/Aurelia%20%22Six%22%20Arnot,c
+"Tori ""Gridlock"" Tallyo Fairous/Reader",1,/tags/Tori%20%22Gridlock%22%20Tallyo%20Fairous*s*Reader,r
+"Sanaa ""Nomad"" El Maktoub/Erik ""Maverick"" Thorn",5,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Erik%20%22Maverick%22%20Thorn,r
+"Tori ""Gridlock"" Tallyo Fairous & Max ""Mozzie"" Goose",3,/tags/Tori%20%22Gridlock%22%20Tallyo%20Fairous%20*a*%20Max%20%22Mozzie%22%20Goose,r
+"Maxim ""Kapkan"" Basuda/Original Female Character(s)",6,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Original%20Female%20Character(s),r
+"Morowa ""Clash"" Evans/Taina ""Caveira"" Pereira",5,/tags/Morowa%20%22Clash%22%20Evans*s*Taina%20%22Caveira%22%20Pereira,r
+"Chul Kyung ""Vigil"" Hwa/Gustave ""Doc"" Kateb",1,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Gustave%20%22Doc%22%20Kateb,r
+"Elżbieta ""Ela"" Bosak/ Emmanuelle ""Twitch"" Pichon",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*%20Emmanuelle%20%22Twitch%22%20Pichon,r
+Eliza “Ash” Cohen/Taina “Caveira” Pereira,1,/tags/Eliza%20%E2%80%9CAsh%E2%80%9D%20Cohen*s*Taina%20%E2%80%9CCaveira%E2%80%9D%20Pereira,r
+"Shuhrat ""Fuze"" Kessikbayev/Julien ""Rook"" Nizan",5,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Julien%20%22Rook%22%20Nizan,r
+"Shuhrat ""Fuze"" Kessikbayev/Original Female Character(s)",6,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Original%20Female%20Character(s),r
+"Miles ""Castle"" Campbell/Max ""Mozzie"" Goose",1,/tags/Miles%20%22Castle%22%20Campbell*s*Max%20%22Mozzie%22%20Goose,r
+"Grace ""Dokkaebi"" Nam/Monika ""IQ"" Weiss",1,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Monika%20%22IQ%22%20Weiss,r
+"Gustave ""Doc"" Kateb/Monika ""IQ"" Weiss",0,/tags/Gustave%20%22Doc%22%20Kateb*s*Monika%20%22IQ%22%20Weiss,r
+"Chul Kyung ""Vigil"" Hwa/Erik ""Maverick"" Thorn",1,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Erik%20%22Maverick%22%20Thorn,r
+"Mike ""Thatcher"" Baker/Integra Hellsing",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Integra%20Hellsing,r
+"Liu ""Lesion"" Tze Long/Reader",9,/tags/Liu%20%22Lesion%22%20Tze%20Long*s*Reader,r
+"Timur ""Glaz"" Glazkov/Monika ""IQ"" Weiss",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Monika%20%22IQ%22%20Weiss,r
+"Seamus ""Sledge"" Cowden/Emmanuelle ""Twitch"" Pichon",2,/tags/Seamus%20%22Sledge%22%20Cowden*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Timur ""Glaz"" Glazkov/Adriano ""Maestro"" Martello",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Adriano%20%22Maestro%22%20Martello,r
+"Gustave ""Doc"" Kateb/Emmanuelle ""Twitch"" Pichon",1,/tags/Gustave%20%22Doc%22%20Kateb*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Jack ""Pulse"" Estrada/Yumiko ""Hibana"" Imagawa",17,/tags/Jack%20%22Pulse%22%20Estrada*s*Yumiko%20%22Hibana%22%20Imagawa,r
+"Eliza ""Ash"" Cohen/Taina ""Caveira"" Pereira",3,/tags/Eliza%20%22Ash%22%20Cohen*s*Taina%20%22Caveira%22%20Pereira,r
+"Erik ""Maverick"" Thorn/Jordan ""Thermite"" Trace",5,/tags/Erik%20%22Maverick%22%20Thorn*s*Jordan%20%22Thermite%22%20Trace,r
+"Seamus ""Sledge"" Cowden/Max ""Mozzie"" Goose",10,/tags/Seamus%20%22Sledge%22%20Cowden*s*Max%20%22Mozzie%22%20Goose,r
+"Mike ""Thatcher"" Baker/Gustave ""Doc"" Kateb",8,/tags/Mike%20%22Thatcher%22%20Baker*s*Gustave%20%22Doc%22%20Kateb,r
+"Mark ""Mute"" Chandar/Jordan ""Thermite"" Trace",1,/tags/Mark%20%22Mute%22%20Chandar*s*Jordan%20%22Thermite%22%20Trace,r
+"Grace ""Dokkaebi"" Nam/Emmanuelle ""Twitch"" Pichon",1,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Jalal ""Kaid"" El Fassi/Adriano ""Maestro"" Martello",1,/tags/Jalal%20%22Kaid%22%20El%20Fassi*s*Adriano%20%22Maestro%22%20Martello,r
+"Collinn ""Warden"" McKinley",36,/tags/Collinn%20%22Warden%22%20McKinley,c
+Nøkk (Rainbow Six),43,/tags/N%C3%B8kk%20(Rainbow%20Six),c
+"Meghan ""Valkyrie"" Castellano/Lera ""Finka"" Melnikova",7,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Lera%20%22Finka%22%20Melnikova,r
+"Adriano ""Maestro"" Martello/Erik ""Maverick"" Thorn",3,/tags/Adriano%20%22Maestro%22%20Martello*s*Erik%20%22Maverick%22%20Thorn,r
+"Timur ""Glaz"" Gazkov/Original Male Character(s)",2,/tags/Timur%20%22Glaz%22%20Gazkov*s*Original%20Male%20Character(s),r
+"Adriano ""Maestro"" Martello/Julien ""Rook"" Nizan",1,/tags/Adriano%20%22Maestro%22%20Martello*s*Julien%20%22Rook%22%20Nizan,r
+"Jack ""Pulse"" Estrada/Collinn ""Warden"" McKinley",2,/tags/Jack%20%22Pulse%22%20Estrada*s*Collinn%20%22Warden%22%20McKinley,r
+"Gustave ""Doc"" Kateb/Alexsander ""Tachanka"" Senaviev",10,/tags/Gustave%20%22Doc%22%20Kateb*s*Alexsander%20%22Tachanka%22%20Senaviev,r
+"Mike ""Thatcher"" Baker/Monika ""IQ"" Weiss",1,/tags/Mike%20%22Thatcher%22%20Baker*s*Monika%20%22IQ%22%20Weiss,r
+"Jalal ""Kaid"" El Fassi/Reader",3,/tags/Jalal%20%22Kaid%22%20El%20Fassi*s*Reader,r
+"Collinn ""Warden"" McKinley/Reader",4,/tags/Collinn%20%22Warden%22%20McKinley*s*Reader,r
+"Mike ""Thatcher"" Baker & Olivier ""Lion"" Flament",1,/tags/Mike%20%22Thatcher%22%20Baker%20*a*%20Olivier%20%22Lion%22%20Flament,r
+"Elena ""Mira"" Maria Álvarez/Nøkk",1,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*N%C3%B8kk,r
+"Hanabi (Senran Kagura)/Yumiko ""Hibana"" Imagawa",0,/tags/Hanabi%20(Senran%20Kagura)*s*Yumiko%20%22Hibana%22%20Imagawa,r
+Recruit (Rainbow Six),15,/tags/Recruit%20(Rainbow%20Six),c
+White Masks (Rainbow Six),18,/tags/White%20Masks%20(Rainbow%20Six),c
+Operation: AUtumn Spice,0,/tags/Operation:%20AUtumn%20Spice,f
+"Azucena Rocío ""Amaru"" Quispe",28,/tags/Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe,c
+Mike “Thatcher” Baker/Adriano “Maestro” Martello,7,/tags/Mike%20%E2%80%9CThatcher%E2%80%9D%20Baker*s*Adriano%20%E2%80%9CMaestro%E2%80%9D%20Martello,r
+"Meghan ""Valkyrie"" Castellano/Reader",5,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Reader,r
+"Aria ""Alibi"" de Luca/Adriano ""Maestro"" Martello",4,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Adriano%20%22Maestro%22%20Martello,r
+"Elena ""Mira"" Maria Álvarez/Ryad ""Jackal"" Ramírez Al-Hassar",2,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Mark ""Mute"" Chandar/Hood (Azur Lane)",1,/tags/Mark%20%22Mute%22%20Chandar*s*Hood%20(Azur%20Lane),r
+"Meghan ""Valkyrie"" Castellano/Craig ""Blackbeard"" Jenson",1,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Craig%20%22Blackbeard%22%20Jenson,r
+"Dominic ""Bandit"" Brunsmeier/Original Male Character(s)",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Original%20Male%20Character(s),r
+"Timur ""Glaz"" Glazkov/Original Character(s)",0,/tags/Timur%20%22Glaz%22%20Glazkov*s*Original%20Character(s),r
+"Seamus ""Sledge"" Cowden/Original Character(s)",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Original%20Character(s),r
+"Mark ""Mute"" Chandar/Seamus ""Sledge"" Cowden/Original Character(s)",0,/tags/Mark%20%22Mute%22%20Chandar*s*Seamus%20%22Sledge%22%20Cowden*s*Original%20Character(s),r
+"Mike ""Thatcher"" Baker/Original Female Character(s)",1,/tags/Mike%20%22Thatcher%22%20Baker*s*Original%20Female%20Character(s),r
+"Mike ""Thatcher"" Baker/Original Character(s)",1,/tags/Mike%20%22Thatcher%22%20Baker*s*Original%20Character(s),r
+Seamus “Sledge” Cowden/Morowa “Clash” Evans,0,/tags/Seamus%20%E2%80%9CSledge%E2%80%9D%20Cowden*s*Morowa%20%E2%80%9CClash%E2%80%9D%20Evans,r
+"Elias ""Blitz"" Kotz & Marius ""Jäger"" Streicher",2,/tags/Elias%20%22Blitz%22%20Kotz%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Mark ""Mute"" Chandar/Max ""Mozzie"" Goose",0,/tags/Mark%20%22Mute%22%20Chandar*s*Max%20%22Mozzie%22%20Goose,r
+"Mark ""Mute"" Chandar/Julien ""Rook"" Nizan",0,/tags/Mark%20%22Mute%22%20Chandar*s*Julien%20%22Rook%22%20Nizan,r
+"Elena ""Mira"" Maria Álvarez/Marius ""Jäger"" Streicher",0,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Tori ""Gridlock"" Tallyo Fairous/Max ""Mozzie"" Goose",0,/tags/Tori%20%22Gridlock%22%20Tallyo%20Fairous*s*Max%20%22Mozzie%22%20Goose,r
+"Eliza ""Ash"" Cohen/Sanaa ""Nomad"" El Maktoub",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Sanaa%20%22Nomad%22%20El%20Maktoub,r
+"Elena ""Mira"" Maria Álvarez/Tori ""Gridlock"" Tallyo Fairous",0,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Tori%20%22Gridlock%22%20Tallyo%20Fairous,r
+"Marius ""Jäger"" Streicher/Original Female Character(s)",1,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Original%20Female%20Character(s),r
+"Mike ""Thatcher"" Baker/Seamus ""Sledge"" Cowden",2,/tags/Mike%20%22Thatcher%22%20Baker*s*Seamus%20%22Sledge%22%20Cowden,r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Original Female Character(s)",0,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Original%20Female%20Character(s),r
+"Morowa ""Clash"" Evans/Tori ""Gridlock"" Tallyo Fairous",0,/tags/Morowa%20%22Clash%22%20Evans*s*Tori%20%22Gridlock%22%20Tallyo%20Fairous,r
+"Sébastien ""Buck"" Côté/Original Male Character(s)",0,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Original%20Male%20Character(s),r
+"Miles ""Castle"" Campbell/Gustave ""Doc"" Kateb",3,/tags/Miles%20%22Castle%22%20Campbell*s*Gustave%20%22Doc%22%20Kateb,r
+"Meghan ""Valkyrie"" Castellano/Chul Kyung ""Vigil"" Hwa",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"Meghan ""Valkyrie"" Castellano/Tori ""Gridlock"" Tallyo Fairous",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Tori%20%22Gridlock%22%20Tallyo%20Fairous,r
+"Mark ""Mute"" Chandar/Elias ""Blitz"" Kötz",2,/tags/Mark%20%22Mute%22%20Chandar*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Eliza ""Ash"" Cohen/Erik ""Maverick"" Thorn/Jordan ""Thermite"" Trace",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Erik%20%22Maverick%22%20Thorn*s*Jordan%20%22Thermite%22%20Trace,r
+Taina “Caveira” Pereira/Other(s),0,/tags/Taina%20%E2%80%9CCaveira%E2%80%9D%20Pereira*s*Other(s),r
+"Emmanuelle ""Twitch"" Pichon/Erik ""Maverick"" Thorn",0,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Erik%20%22Maverick%22%20Thorn,r
+"Timur ""Glaz"" Glazkov/Alexsandr ""Tachanka"" Senaviev/Original Female Character(s)",0,/tags/Timur%20%22Glaz%22%20Glazkov*s*Alexsandr%20%22Tachanka%22%20Senaviev*s*Original%20Female%20Character(s),r
+"Taina ""Caviera"" Pereira/White Masks",1,/tags/Taina%20%22Caviera%22%20Pereira*s*White%20Masks,r
+"Meghan ""Valkyrie"" Castellano/Nøkk",3,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*N%C3%B8kk,r
+"Meghan ""Valkyrie"" Castellano/Original Female Character(s)",1,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Original%20Female%20Character(s),r
+"Olivier ""Lion"" Flament & Lera ""Finka"" Melnikova",1,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Lera%20%22Finka%22%20Melnikova,r
+"Meghan ""Valkyrie"" Castellano/Kim ""Fury"" Hernandez",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Kim%20%22Fury%22%20Hernandez,r
+Gustave “Doc” Kateb/Erik “Maverick” Thorn,0,/tags/Gustave%20%E2%80%9CDoc%E2%80%9D%20Kateb*s*Erik%20%E2%80%9CMaverick%E2%80%9D%20Thorn,r
+"Recruit/Shuhrat ""Fuze"" Kessikbayev",0,/tags/Recruit*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+Father Bertrand (Rainbow Six),0,/tags/Father%20Bertrand%20(Rainbow%20Six),c
+Faisal Ramírez Al-Hassar,3,/tags/Faisal%20Ram%C3%ADrez%20Al-Hassar,c
+Sophie Flament,0,/tags/Sophie%20Flament,c
+Game: Tom Clancy's Rainbow Six Siege,28,/tags/Game:%20Tom%20Clancy's%20Rainbow%20Six%20Siege,f
+"Bottom Maxim ""Kapkan"" Basuda",31,/tags/Bottom%20Maxim%20%22Kapkan%22%20Basuda,f
+GSG 9 der Bundespolizei,0,/tags/GSG%209%20der%20Bundespolizei,f
+National Gendarmerie Intervention Group,1,/tags/National%20Gendarmerie%20Intervention%20Group,f
+Pre-Rainbow (Rainbow Six),1,/tags/Pre-Rainbow%20(Rainbow%20Six),f
+"Infected Marius ""Jäger"" Streicher",2,/tags/Infected%20Marius%20%22J%C3%A4ger%22%20Streicher,f
+Game: Tom Clancy's Rainbow Six Siege: Operation Chimera DLC,4,/tags/Game:%20Tom%20Clancy's%20Rainbow%20Six%20Siege:%20Operation%20Chimera%20DLC,f
+Siegemas (Rainbow Six),7,/tags/Siegemas%20(Rainbow%20Six),f
+"Sub Gustave ""Doc"" Kateb",4,/tags/Sub%20Gustave%20%22Doc%22%20Kateb,f
+Game: Tom Clancy's Rainbow Six Siege: Operation Velvet Shell DLC,1,/tags/Game:%20Tom%20Clancy's%20Rainbow%20Six%20Siege:%20Operation%20Velvet%20Shell%20DLC,f
+Tumblr: fuckyeahrainbowsix,0,/tags/Tumblr:%20fuckyeahrainbowsix,f
+"Olivier ""Lion"" Flament/Gustave ""Doc"" Kateb/Gilles ""Montagne"" Touré",4,/tags/Olivier%20%22Lion%22%20Flament*s*Gustave%20%22Doc%22%20Kateb*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+Operation: Consent (Rainbow Six),0,/tags/Operation:%20Consent%20(Rainbow%20Six),f
+Cinematic: Rainbow Six Siege: The Hammer and the Scalpel,1,/tags/Cinematic:%20Rainbow%20Six%20Siege:%20The%20Hammer%20and%20the%20Scalpel,f
+"Olivier ""Lion"" Flament/Original Female Character(s)",2,/tags/Olivier%20%22Lion%22%20Flament*s*Original%20Female%20Character(s),r
+"Olivier ""Lion"" Flament & Other(s)",0,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Other(s),r
+"Aurelia ""Six"" Arnot/Seamus ""Sledge"" Cowden",0,/tags/Aurelia%20%22Six%22%20Arnot*s*Seamus%20%22Sledge%22%20Cowden,r
+"Collinn ""Warden"" McKinley/Original Character(s)",1,/tags/Collinn%20%22Warden%22%20McKinley*s*Original%20Character(s),r
+"Elena ""Mira"" Maria Álvarez/Elżbieta ""Ela"" Bosak/Zofia Bosak/Mark ""Mute"" Chandar",0,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*El%C5%BCbieta%20%22Ela%22%20Bosak*s*Zofia%20Bosak*s*Mark%20%22Mute%22%20Chandar,r
+"Erik ""Maverick"" Thorn & Original Male Character(s)",0,/tags/Erik%20%22Maverick%22%20Thorn%20*a*%20Original%20Male%20Character(s),r
+"Jordan ""Thermite"" Trace/Original Female Character(s)",3,/tags/Jordan%20%22Thermite%22%20Trace*s*Original%20Female%20Character(s),r
+"Elźbieta ""Ela"" Bosak/Taina ""Caveira"" Pereira/Original Male Character(s)",0,/tags/El%C5%BAbieta%20%22Ela%22%20Bosak*s*Taina%20%22Caveira%22%20Pereira*s*Original%20Male%20Character(s),r
+"Lera ""Finka"" Melnikova/Rainbow Six Siege Ensemble",0,/tags/Lera%20%22Finka%22%20Melnikova*s*Rainbow%20Six%20Siege%20Ensemble,r
+"Dominic ""Bandit"" Brunsmeier/Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Sébastien ""Buck"" Côté & Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9%20*a*%20Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Sébastien ""Buck"" Côté/Gustave ""Doc"" Kateb/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Gustave%20%22Doc%22%20Kateb*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Gustave ""Doc"" Kateb/Recruit",1,/tags/Gustave%20%22Doc%22%20Kateb*s*Recruit,r
+"Aurelia ""Six"" Arnot/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/Aurelia%20%22Six%22%20Arnot*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Max ""Mozzie"" Goose/Ryad ""Jackal"" Ramírez Al-Hassar",7,/tags/Max%20%22Mozzie%22%20Goose*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Mike ""Thatcher"" Baker/Max ""Mozzie"" Goose",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Max%20%22Mozzie%22%20Goose,r
+"Masaru ""Echo"" Enatsu/Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/Masaru%20%22Echo%22%20Enatsu*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Elias ""Blitz"" Kötz/Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Maxim ""Kapkan"" Basuda/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Olivier ""Lion"" Flament/Ryad ""Jackal"" Ramírez Al-Hassar",4,/tags/Olivier%20%22Lion%22%20Flament*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Recruit/Gilles ""Montagne"" Touré",0,/tags/Recruit*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+Rainbow Six Siege Ensemble/Original Character(s),0,/tags/Rainbow%20Six%20Siege%20Ensemble*s*Original%20Character(s),r
+"Elena ""Mira"" Maria Álvarez/Dominic ""Bandit"" Brunsmeier",0,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Dominic%20%22Bandit%22%20Brunsmeier,r
+Siegemas 2019 (Rainbow Six),3,/tags/Siegemas%202019%20(Rainbow%20Six),f
+"Grace ""Dokkaebi"" Nam/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"James ""Smoke"" Porter's Daughter",22,/tags/James%20%22Smoke%22%20Porter's%20Daughter,c
+"Gustave ""Doc"" Kateb/Original Female Character(s)",2,/tags/Gustave%20%22Doc%22%20Kateb*s*Original%20Female%20Character(s),r
+"Elena ""Mira"" Maria Álvarez/Azucena Rocío ""Amaru"" Quispe",6,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe,r
+Lozza Goose,0,/tags/Lozza%20Goose,c
+"Lozza Goose/Max ""Mozzie"" Goose",0,/tags/Lozza%20Goose*s*Max%20%22Mozzie%22%20Goose,r
+"Meghan ""Valkyrie"" Castellano/Grace ""Dokkaebi"" Nam",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Yumiko ""Hibana"" Imagawa/Nøkk (Rainbow Six)",0,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*N%C3%B8kk%20(Rainbow%20Six),r
+"Jaimini Kalimohan ""Kali"" Shah",54,/tags/Jaimini%20Kalimohan%20%22Kali%22%20Shah,c
+"Cute Sébastien ""Buck"" Côté",0,/tags/Cute%20S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9,f
+"Masaru ""Echo"" Enatsu/Siu ""Ying"" Mei Lin",2,/tags/Masaru%20%22Echo%22%20Enatsu*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"Mike ""Thatcher"" Baker/Grace ""Dokkaebi"" Nam",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Maxim ""Kapkan"" Basuda/Olivier ""Lion"" Flament",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Olivier%20%22Lion%22%20Flament,r
+"Monika ""IQ"" Weiss/Original Female Character(s)",0,/tags/Monika%20%22IQ%22%20Weiss*s*Original%20Female%20Character(s),r
+GSG 9 (Rainbow Six),0,/tags/GSG%209%20(Rainbow%20Six),c
+"Mark ""Mute"" Chandar/Nøkk",0,/tags/Mark%20%22Mute%22%20Chandar*s*N%C3%B8kk,r
+"Aria ""Alibi"" de Luca/Sammy Emily",0,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Sammy%20Emily,r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Jordan ""Thermite"" Trace",0,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Jordan%20%22Thermite%22%20Trace,r
+"Aria ""Alibi"" de Luca/Nienke ""Iana"" Meijer",5,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Nienke%20%22Iana%22%20Meijer,r
+"Nienke ""Iana"" Meijer",48,/tags/Nienke%20%22Iana%22%20Meijer,c
+"Mark ""Mute"" Chandar/White Masks",0,/tags/Mark%20%22Mute%22%20Chandar*s*White%20Masks,r
+"Max ""Mozzie"" Goose & Gustave ""Doc"" Kateb",0,/tags/Max%20%22Mozzie%22%20Goose%20*a*%20Gustave%20%22Doc%22%20Kateb,r
+"Max ""Mozzie"" Goose/Gustave ""Doc"" Kateb",0,/tags/Max%20%22Mozzie%22%20Goose*s*Gustave%20%22Doc%22%20Kateb,r
+"Ngũgĩ Muchoki ""Wamai"" Furaha",32,/tags/Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha,c
+"Julien ""Rook"" Nizan/Original Female Character(s)",0,/tags/Julien%20%22Rook%22%20Nizan*s*Original%20Female%20Character(s),r
+"Saif ""Oryx"" Al Hadid",24,/tags/Saif%20%22Oryx%22%20Al%20Hadid,c
+"Timur ""Glaz"" Glazkov/Elias ""Blitz"" Kötz",2,/tags/Timur%20%22Glaz%22%20Glazkov*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Elena ""Mira"" María Álvarez/Original Female Character(s)",0,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Original%20Female%20Character(s),r
+"Elias ""Blitz"" Kötz/Original Female Character(s)",3,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Original%20Female%20Character(s),r
+"Lera ""Finka"" Melnikova/Original Character(s)",0,/tags/Lera%20%22Finka%22%20Melnikova*s*Original%20Character(s),r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Original Character(s)",0,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Original%20Character(s),r
+"Taina ""Caveira"" Pereira/Original Female Character(s)",3,/tags/Taina%20%22Caveira%22%20Pereira*s*Original%20Female%20Character(s),r
+"Jordan ""Thermite"" Trace/White Masks",0,/tags/Jordan%20%22Thermite%22%20Trace*s*White%20Masks,r
+Original Rainbow Six Operator(s),35,/tags/Original%20Rainbow%20Six%20Operator(s),c
+"Grace ""Dokkaebi"" Nam/Azucena Rocío ""Amaru"" Quispe",2,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe,r
+"Grace ""Dokkaebi"" Nam/Persona 5 Protagonist",1,/tags/Grace%20%22Dokkaebi%22%20Nam*s*Persona%205%20Protagonist,r
+"Mark ""Mute"" Chandar & Timur ""Glaz"" Glazkov",1,/tags/Mark%20%22Mute%22%20Chandar%20*a*%20Timur%20%22Glaz%22%20Glazkov,r
+"Sébastien ""Buck"" Côté/Elżbieta ""Ela"" Bosak",2,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*El%C5%BCbieta%20%22Ela%22%20Bosak,r
+"Eliza ""Ash"" Cohen/Emmanuelle ""Twitch"" Pichon",1,/tags/Eliza%20%22Ash%22%20Cohen*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Miles ""Castle"" Campbell/Eliza ""Ash"" Cohen",3,/tags/Miles%20%22Castle%22%20Campbell*s*Eliza%20%22Ash%22%20Cohen,r
+"Nøkk/Taina ""Caveira"" Pereira",5,/tags/N%C3%B8kk*s*Taina%20%22Caveira%22%20Pereira,r
+"Kurusu Akira/Grace ""Dokkaebi"" Nam",0,/tags/Kurusu%20Akira*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Elżbieta ""Ela"" Bosak/Zofia Bosak/Reader",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Zofia%20Bosak*s*Reader,r
+"Jack ""Pulse"" Estrada/UMP45 (Girls' Frontline)",0,/tags/Jack%20%22Pulse%22%20Estrada*s*UMP45%20(Girls'%20Frontline),r
+"HK416 (Girls' Frontline)/Marius ""Jäger"" Streicher",0,/tags/HK416%20(Girls'%20Frontline)*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"AK-12 (Girls' Frontline)/Shuhrat ""Fuze"" Kessikbayev",0,/tags/AK-12%20(Girls'%20Frontline)*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Elena ""Mira"" María Álvarez/Taina ""Caveira"" Pereira",3,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Taina%20%22Caveira%22%20Pereira,r
+"Timur ""Glaz"" Glazkov & Original Female Character(s)",2,/tags/Timur%20%22Glaz%22%20Glazkov%20*a*%20Original%20Female%20Character(s),r
+"Alexsandr ""Tachanka"" Senaviev & Original Female Character(s)",1,/tags/Alexsandr%20%22Tachanka%22%20Senaviev%20*a*%20Original%20Female%20Character(s),r
+"Elena ""Mira"" María Álvarez/Mike ""Thatcher"" Baker",1,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Mike%20%22Thatcher%22%20Baker,r
+"Gustave ""Doc"" Kateb & Original Character(s)",0,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Original%20Character(s),r
+"Jordan ""Thermite"" Trace & Original Character(s)",0,/tags/Jordan%20%22Thermite%22%20Trace%20*a*%20Original%20Character(s),r
+"Alexsander ""Tachanka"" Senaviev & Marius ""Jäger"" Streicher",0,/tags/Alexsander%20%22Tachanka%22%20Senaviev%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Olivier ""Lion"" Flament & Ryad ""Jackal"" Ramírez Al-Hassar",1,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Gustave ""Doc"" Kateb & Harishva ""Harry"" Pandey",0,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Harishva%20%22Harry%22%20Pandey,r
+"Julien ""Rook"" Nizan/Recruit",0,/tags/Julien%20%22Rook%22%20Nizan*s*Recruit,r
+"Eliza ""Ash"" Cohen/Nøkk",0,/tags/Eliza%20%22Ash%22%20Cohen*s*N%C3%B8kk,r
+"Lera ""Finka"" Melnikova/Nøkk",0,/tags/Lera%20%22Finka%22%20Melnikova*s*N%C3%B8kk,r
+"Elena ""Mira"" María Álvarez/Original Character(s)",4,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Original%20Character(s),r
+"Sanaa ""Nomad"" El Maktoub/Azucena Rocío ""Amaru"" Quispe",0,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe,r
+"Lera ""Finka"" Melnikova/Original Female Character(s)",1,/tags/Lera%20%22Finka%22%20Melnikova*s*Original%20Female%20Character(s),r
+"Miles ""Castle"" Campbell/Jack ""Pulse"" Estrada",0,/tags/Miles%20%22Castle%22%20Campbell*s*Jack%20%22Pulse%22%20Estrada,r
+"Seamus ""Sledge"" Cowden/Saif ""Oryx"" Al Hadid",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Saif%20%22Oryx%22%20Al%20Hadid,r
+"Dominic ""Bandit"" Brunsmeier/Alexsandr ""Tachanka"" Senaviev",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Dominic ""Bandit"" Brunsmeier/Shuhrat ""Fuze"" Kessikbayev",2,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Nøkk/Jordan ""Thermite"" Trace",1,/tags/N%C3%B8kk*s*Jordan%20%22Thermite%22%20Trace,r
+"Marius ""Jäger"" Streicher/Undisclosed",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Undisclosed,r
+"Masaru ""Echo"" Enatsu/Original Male Character(s)",0,/tags/Masaru%20%22Echo%22%20Enatsu*s*Original%20Male%20Character(s),r
+"Emmanuelle ""Twitch"" Pichon/Marius ""Jäger"" Streicher",0,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Meghan ""Valkyrie"" Castellano/Azucena Rocío ""Amaru"" Quispe",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe,r
+"Saif ""Oryx"" Al Hadid/Reader",3,/tags/Saif%20%22Oryx%22%20Al%20Hadid*s*Reader,r
+Alexis (Rainbow Six),2,/tags/Alexis%20(Rainbow%20Six),c
+"Olivier ""Lion"" Flament/Ngũgĩ Muchoki ""Wamai"" Furaha",0,/tags/Olivier%20%22Lion%22%20Flament*s*Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha,r
+"Meghan ""Valkyrie"" Castellano/Taina ""Caveira"" Pereira/Emmanuelle ""Twitch"" Pichon",0,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Taina%20%22Caveira%22%20Pereira*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Mike ""Thatcher"" Baker/Jalal ""Kaid"" El Fassi/Reader",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Jalal%20%22Kaid%22%20El%20Fassi*s*Reader,r
+"Håvard ""Ace"" Haugland/Julien ""Rook"" Nizan",18,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Julien%20%22Rook%22%20Nizan,r
+"Håvard ""Ace"" Haugland",159,/tags/H%C3%A5vard%20%22Ace%22%20Haugland,c
+"Thandiwe ""Melusi"" Ndlovu",18,/tags/Thandiwe%20%22Melusi%22%20Ndlovu,c
+"Jalal ""Kaid"" El Fassi & Sanaa ""Nomad"" El Maktoub",1,/tags/Jalal%20%22Kaid%22%20El%20Fassi%20*a*%20Sanaa%20%22Nomad%22%20El%20Maktoub,r
+"Dominic ""Bandit"" Brunsmeier/Håvard ""Ace"" Haugland",7,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Dominic ""Bandit"" Brunsmeier/Håvard ""Ace"" Haugland/Julien ""Rook"" Nizan",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*H%C3%A5vard%20%22Ace%22%20Haugland*s*Julien%20%22Rook%22%20Nizan,r
+"Zofia Bosak & Nienke ""Iana"" Meijer",2,/tags/Zofia%20Bosak%20*a*%20Nienke%20%22Iana%22%20Meijer,r
+"Mike ""Thatcher"" Baker/Mark ""Mute"" Chandar/Seamus ""Sledge"" Cowden/James ""Smoke"" Porter",1,/tags/Mike%20%22Thatcher%22%20Baker*s*Mark%20%22Mute%22%20Chandar*s*Seamus%20%22Sledge%22%20Cowden*s*James%20%22Smoke%22%20Porter,r
+"Elżbieta ""Ela"" Bosak/Masaru ""Echo"" Enatsu",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Masaru%20%22Echo%22%20Enatsu,r
+"Aria ""Alibi"" de Luca/Reader",2,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Reader,r
+"Timur ""Glaz"" Glazkov/Jordan ""Thermite"" Trace",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Jordan%20%22Thermite%22%20Trace,r
+"Elżbieta ""Ela"" Bosak/Eliza ""Ash"" Cohen/Original Character(s)",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Eliza%20%22Ash%22%20Cohen*s*Original%20Character(s),r
+"Elżbieta ""Ela"" Bosak/Gustave ""Doc"" Kateb",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Gustave%20%22Doc%22%20Kateb,r
+"Miles ""Castle"" Campbell/Jordan ""Thermite"" Trace",1,/tags/Miles%20%22Castle%22%20Campbell*s*Jordan%20%22Thermite%22%20Trace,r
+"Elżbieta ""Ela"" Bosak/Grace ""Dokkaebi"" Nam/Original Male Character(s)",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Grace%20%22Dokkaebi%22%20Nam*s*Original%20Male%20Character(s),r
+"Ngũgĩ Muchoki ""Wamai"" Furaha/Håvard ""Ace"" Haugland/Jaimini Kalimohan ""Kali"" Shah",0,/tags/Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha*s*H%C3%A5vard%20%22Ace%22%20Haugland*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Adriano ""Maestro"" Martello/Ryad ""Jackal"" Ramírez Al-Hassar/Erik ""Maverick"" Thorn",0,/tags/Adriano%20%22Maestro%22%20Martello*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Erik%20%22Maverick%22%20Thorn,r
+"Julien ""Rook"" Nizan/James ""Smoke"" Porter",2,/tags/Julien%20%22Rook%22%20Nizan*s*James%20%22Smoke%22%20Porter,r
+"Azucena Rocío ""Amaru"" Quispe/ Vicente ""Capitão"" Souza",1,/tags/Azucena%20Roc%C3%ADo%20%22Amaru%22%20Quispe*s*%20Vicente%20%22Capit%C3%A3o%22%20Souza,r
+"Marius ""Jäger"" Streicher's Uncle",1,/tags/Marius%20%22J%C3%A4ger%22%20Streicher's%20Uncle,c
+"Dominic ""Bandit"" Brunsmeier & Monika ""IQ"" Weiss",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Monika%20%22IQ%22%20Weiss,r
+"Miles ""Castle"" Campbell & Morowa ""Clash"" Evans",0,/tags/Miles%20%22Castle%22%20Campbell%20*a*%20Morowa%20%22Clash%22%20Evans,r
+"Morowa ""Clash"" Evans & Erik ""Maverick"" Thorn",0,/tags/Morowa%20%22Clash%22%20Evans%20*a*%20Erik%20%22Maverick%22%20Thorn,r
+"Ngũgĩ Muchoki ""Wamai"" Furaha/Håvard ""Ace"" Haugland",6,/tags/Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Sébastien ""Buck"" Côté/Max ""Mozzie"" Goose/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Max%20%22Mozzie%22%20Goose*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Jack ""Pulse"" Estrada & Jordan ""Thermite"" Trace",1,/tags/Jack%20%22Pulse%22%20Estrada%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Eliza ""Ash"" Cohen & Original Character(s)",0,/tags/Eliza%20%22Ash%22%20Cohen%20*a*%20Original%20Character(s),r
+"Mark ""Mute"" Chandar/Emmanuelle ""Twitch"" Pichon",0,/tags/Mark%20%22Mute%22%20Chandar*s*Emmanuelle%20%22Twitch%22%20Pichon,r
+"Bismarck (Azur Lane)/James ""Smoke"" Porter",0,/tags/Bismarck%20(Azur%20Lane)*s*James%20%22Smoke%22%20Porter,r
+"Marius ""Jäger"" Streicher & Everyone",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher%20*a*%20Everyone,r
+"Elżbieta ""Ela"" Bosak/Marius ""Jäger"" Streicher",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Nøkk & Marius ""Jäger"" Streicher",1,/tags/N%C3%B8kk%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Olivier ""Lion"" Flament/Håvard ""Ace"" Haugland",10,/tags/Olivier%20%22Lion%22%20Flament*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Julien ""Rook"" Nizan/Marius ""Jäger"" Streicher",0,/tags/Julien%20%22Rook%22%20Nizan*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Dominic ""Bandit"" Brunsmeier/Elias ""Blitz"" Kötz/Monika ""IQ"" Weiss",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Elias%20%22Blitz%22%20K%C3%B6tz*s*Monika%20%22IQ%22%20Weiss,r
+Siegetober (Rainbow Six),34,/tags/Siegetober%20(Rainbow%20Six),f
+"Elena ""Mira"" María Álvarez/Grace ""Dokkaebi"" Nam",0,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Sam ""Zero"" Fisher",47,/tags/Sam%20%22Zero%22%20Fisher,c
+"Jordan ""Thermite"" Trace/Original Male Character(s)",1,/tags/Jordan%20%22Thermite%22%20Trace*s*Original%20Male%20Character(s),r
+"Håvard ""Ace"" Haugland/Jordan ""Thermite"" Trace",37,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Jordan%20%22Thermite%22%20Trace,r
+"Dominic ""Bandit"" Brunsmeier Needs a Hug",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20Needs%20a%20Hug,f
+"Bottom Timur ""Glaz"" Glazkov",1,/tags/Bottom%20Timur%20%22Glaz%22%20Glazkov,f
+"Top Maxim ""Kapkan"" Basuda",0,/tags/Top%20Maxim%20%22Kapkan%22%20Basuda,f
+"Meghan ""Valkyrie"" Castellano & Lera ""Finka"" Melnikova",0,/tags/Meghan%20%22Valkyrie%22%20Castellano%20*a*%20Lera%20%22Finka%22%20Melnikova,r
+"Timur ""Glaz"" Glazkov & Shuhrat ""Fuze"" Kessikbayev",2,/tags/Timur%20%22Glaz%22%20Glazkov%20*a*%20Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Sanaa ""Nomad"" El Maktoub/Tina ""Frost"" Lin Tsang",2,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Tina%20%22Frost%22%20Lin%20Tsang,r
+"Sanaa ""Nomad"" El Maktoub & Tina ""Frost"" Lin Tsang",0,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub%20*a*%20Tina%20%22Frost%22%20Lin%20Tsang,r
+"Emmanuelle ""Twitch"" Pichon/Jordan ""Thermite"" Trace",0,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Jordan%20%22Thermite%22%20Trace,r
+"Seamus ""Sledge"" Cowden/Gilles ""Montagne"" Touré",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Apha ""Aruni"" Tawanroong",25,/tags/Apha%20%22Aruni%22%20Tawanroong,c
+"Timur ""Glaz"" Glazkov/Julien ""Rook"" Nizen",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*Julien%20%22Rook%22%20Nizen,r
+"Nienke ""Iana"" Meijer/Wattson | Natalie Paquette",1,/tags/Nienke%20%22Iana%22%20Meijer*s*Wattson%20%7C%20Natalie%20Paquette,r
+"Jaimini Kalimohan ""Kali"" Shah/Monika ""IQ"" Weiss",3,/tags/Jaimini%20Kalimohan%20%22Kali%22%20Shah*s*Monika%20%22IQ%22%20Weiss,r
+"Nienke ""Iana"" Meijer/Marius ""Jäger"" Streicher",2,/tags/Nienke%20%22Iana%22%20Meijer*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+Siegemas 2020 (Rainbow Six),11,/tags/Siegemas%202020%20(Rainbow%20Six),f
+"Håvard ""Ace"" Haughland/Erik ""Maverick"" Thorn",4,/tags/H%C3%A5vard%20%22Ace%22%20Haughland*s*Erik%20%22Maverick%22%20Thorn,r
+"Gustave ""Doc"" Kateb & Original Female Character(s)",0,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Original%20Female%20Character(s),r
+"Aria ""Alibi"" de Luca/Jaimini Kalimohan ""Kali"" Shah",1,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Olivier ""Lion"" Flament & Original Female Character(s)",1,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Original%20Female%20Character(s),r
+"Collinn ""Warden"" McKinley/Gilles ""Montagne"" Touré",2,/tags/Collinn%20%22Warden%22%20McKinley*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Alex (Hotline Miami)/Mark ""Mute"" Chandar",0,/tags/Alex%20(Hotline%20Miami)*s*Mark%20%22Mute%22%20Chandar,r
+"Maxim ""Kapkan"" Basuda & Dominic ""Bandit"" Brunsmeier & Jordan ""Thermite"" Trace",2,/tags/Maxim%20%22Kapkan%22%20Basuda%20*a*%20Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Aria ""Alibi"" de Luca/Thandiwe ""Melusi"" Ndlovu",0,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Thandiwe%20%22Melusi%22%20Ndlovu,r
+"Marius ""Jäger"" Streicher/Original Male Character(s)",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Original%20Male%20Character(s),r
+"Saif ""Oryx"" Al Hadid/Jaimini Kalimohan ""Kali"" Shah",0,/tags/Saif%20%22Oryx%22%20Al%20Hadid*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Sam ""Zero"" Fisher/Gustave ""Doc"" Kateb",1,/tags/Sam%20%22Zero%22%20Fisher*s*Gustave%20%22Doc%22%20Kateb,r
+"Timur ""Glaz"" Glazkov/Gilles ""Montagne"" Touré",0,/tags/Timur%20%22Glaz%22%20Glazkov*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+Mark “Mute” Chandar & James “Smoke” Porter,1,/tags/Mark%20%E2%80%9CMute%E2%80%9D%20Chandar%20*a*%20James%20%E2%80%9CSmoke%E2%80%9D%20Porter,r
+"Seamus ""Sledge"" Cowden/Ngũgĩ Muchoki ""Wamai"" Furaha",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha,r
+"Mike ""Thatcher"" Baker/Ngũgĩ Muchoki ""Wamai"" Furaha",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha,r
+"Max ""Mozzie"" Goose/Olivier ""Lion"" Flament",1,/tags/Max%20%22Mozzie%22%20Goose*s*Olivier%20%22Lion%22%20Flament,r
+"Zofia Bosak/Nienke ""Iana"" Meijer",1,/tags/Zofia%20Bosak*s*Nienke%20%22Iana%22%20Meijer,r
+Sam “Zero” Fisher/Gilles “Montagne” Touré,1,/tags/Sam%20%E2%80%9CZero%E2%80%9D%20Fisher*s*Gilles%20%E2%80%9CMontagne%E2%80%9D%20Tour%C3%A9,r
+"Mark ""Mute"" Chandar/Håvard ""Ace"" Haugland",0,/tags/Mark%20%22Mute%22%20Chandar*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Max ""Mozzie"" Goose/Monika ""IQ"" Weiss",1,/tags/Max%20%22Mozzie%22%20Goose*s*Monika%20%22IQ%22%20Weiss,r
+"Eliza ""Ash"" Cohen/Apha ""Aruni"" Tawanroong",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Apha%20%22Aruni%22%20Tawanroong,r
+"Apha ""Aruni"" Tawanroong/Jordan ""Thermite"" Trace",2,/tags/Apha%20%22Aruni%22%20Tawanroong*s*Jordan%20%22Thermite%22%20Trace,r
+"Sébastien ""Buck"" Côté & Tina ""Frost"" Lin Tsang",1,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9%20*a*%20Tina%20%22Frost%22%20Lin%20Tsang,r
+"Mike ""Thatcher"" Baker/Jaimini Kalimohan ""Kali"" Shah",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Seamus ""Sledge"" Cowden/Jaimini Kalimohan ""Kali"" Shah",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Håvard ""Ace"" Haugland/Apha ""Aruni"" Tawanroong",0,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Apha%20%22Aruni%22%20Tawanroong,r
+"Sébastien ""Buck"" Côté & Taina ""Caveira"" Pereira",1,/tags/S%C3%A9bastien%20%22Buck%22%20C%C3%B4t%C3%A9%20*a*%20Taina%20%22Caveira%22%20Pereira,r
+Siege The Valentines (Rainbow Six),1,/tags/Siege%20The%20Valentines%20(Rainbow%20Six),f
+Siege The Valentines 2020 (Rainbow Six),0,/tags/Siege%20The%20Valentines%202020%20(Rainbow%20Six),f
+Siege The Valentines 2021 (Rainbow Six),3,/tags/Siege%20The%20Valentines%202021%20(Rainbow%20Six),f
+FUCKYEAHRAINBOWSIX's Rainbow Six Siege - Valentines Event,0,/tags/FUCKYEAHRAINBOWSIX's%20Rainbow%20Six%20Siege%20-%20Valentines%20Event,f
+"Jalal ""Kaid"" El Fassi/Sam ""Zero"" Fisher",1,/tags/Jalal%20%22Kaid%22%20El%20Fassi*s*Sam%20%22Zero%22%20Fisher,r
+"Taina ""Caveira"" Pereira & Tina ""Frost"" Lin Tsang",0,/tags/Taina%20%22Caveira%22%20Pereira%20*a*%20Tina%20%22Frost%22%20Lin%20Tsang,r
+"Seamus ""Sledge"" Cowden/Tori ""Gridlock"" Tallyo Fairous",1,/tags/Seamus%20%22Sledge%22%20Cowden*s*Tori%20%22Gridlock%22%20Tallyo%20Fairous,r
+"Yumiko ""Hibana"" Imagawa/Original Female Character(s)",1,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Original%20Female%20Character(s),r
+"Doctor (female) (arknights)/Alexsandr ""Tachanka"" Senaviev",0,/tags/Doctor%20(female)%20(arknights)*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Yumiko ""Hibana"" Imagawa/Nienke ""Iana"" Meijer",2,/tags/Yumiko%20%22Hibana%22%20Imagawa*s*Nienke%20%22Iana%22%20Meijer,r
+"Håvard ""Ace"" Haugland/Reader",14,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Reader,r
+"Santiago ""Flores"" Lucero",17,/tags/Santiago%20%22Flores%22%20Lucero,c
+"Saif ""Oryx"" Al Hadid/Nienke ""Iana"" Meijer",1,/tags/Saif%20%22Oryx%22%20Al%20Hadid*s*Nienke%20%22Iana%22%20Meijer,r
+"Sanaa ""Nomad"" El Maktoub/Apha ""Aruni"" Tawanroong",1,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Apha%20%22Aruni%22%20Tawanroong,r
+"Aiden Pearce/Monika ""IQ"" Weiss",0,/tags/Aiden%20Pearce*s*Monika%20%22IQ%22%20Weiss,r
+"Doctor (Female) (Arknights) & Elias ""Blitz"" Kötz",0,/tags/Doctor%20(Female)%20(Arknights)%20*a*%20Elias%20%22Blitz%22%20K%C3%B6tz,r
+Siege's Fools (Rainbow Six),0,/tags/Siege's%20Fools%20(Rainbow%20Six),f
+"Santiago ""Flores"" Lucero's Husband",1,/tags/Santiago%20%22Flores%22%20Lucero's%20Husband,c
+"Santiago ""Flores"" Lucero/Santiago ""Flores"" Lucero's Husband",2,/tags/Santiago%20%22Flores%22%20Lucero*s*Santiago%20%22Flores%22%20Lucero's%20Husband,r
+Paulie Baker,1,/tags/Paulie%20Baker,c
+"James ""Smoke"" Porter/Marius ""Jäger"" Streicher",0,/tags/James%20%22Smoke%22%20Porter*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Zofia Bosak/Eliza ""Ash"" Cohen",1,/tags/Zofia%20Bosak*s*Eliza%20%22Ash%22%20Cohen,r
+"Seamus ""Sledge"" Cowden/Håvard ""Ace"" Haugland",0,/tags/Seamus%20%22Sledge%22%20Cowden*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Mike ""Thatcher"" Baker/Olivier ""Lion"" Flament/Gustave ""Doc"" Keteb",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Olivier%20%22Lion%22%20Flament*s*Gustave%20%22Doc%22%20Keteb,r
+"Mina ""Thunderbird"" Sky",17,/tags/Mina%20%22Thunderbird%22%20Sky,c
+Zofia Bosak/Reader,1,/tags/Zofia%20Bosak*s*Reader,r
+"Elena ""Mira"" María Álvarez/Zofia Bosak",1,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Zofia%20Bosak,r
+Sun's Out Guns Out Pride Event (Rainbow Six),1,/tags/Sun's%20Out%20Guns%20Out%20Pride%20Event%20(Rainbow%20Six),f
+Tumblr: dualrainbow,0,/tags/Tumblr:%20dualrainbow,f
+Rainbow Six Operators,3,/tags/Rainbow%20Six%20Operators,c
+"Elena ""Mira"" María Álvarez/Elżbieta ""Ela"" Bosak",0,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*El%C5%BCbieta%20%22Ela%22%20Bosak,r
+"Håvard ""Ace"" Haugland/Gustave ""Doc"" Kateb",0,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Gustave%20%22Doc%22%20Kateb,r
+"Gustave ""Doc"" Kateb/Jordan ""Thermite"" Trace",0,/tags/Gustave%20%22Doc%22%20Kateb*s*Jordan%20%22Thermite%22%20Trace,r
+"Max ""Mozzie"" Goose/Håvard ""Ace"" Haugland",0,/tags/Max%20%22Mozzie%22%20Goose*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Maxim ""Kapkan"" Basuda/Max ""Mozzie"" Goose",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Max%20%22Mozzie%22%20Goose,r
+"Meghan ""Valkyrie"" Castellano/Monika ""IQ"" Weiss",2,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Monika%20%22IQ%22%20Weiss,r
+"Marius ""Jäger"" Streicher/Jordan ""Thermite"" Trace",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Jordan%20%22Thermite%22%20Trace,r
+"Aria ""Alibi"" de Luca & Adriano ""Maestro"" Martello",0,/tags/Aria%20%22Alibi%22%20de%20Luca%20*a*%20Adriano%20%22Maestro%22%20Martello,r
+"Maxim ""Kapkan"" Basuda/Other(s)",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Other(s),r
+"Elena ""Mira"" Maria Álvarez/Meghan ""Valkyrie"" Castellano/Eliza ""Ash"" Cohen",0,/tags/Elena%20%22Mira%22%20Maria%20%C3%81lvarez*s*Meghan%20%22Valkyrie%22%20Castellano*s*Eliza%20%22Ash%22%20Cohen,r
+"Ngũgĩ Muchoki ""Wamai"" Furaha/Craig ""Blackbeard"" Jenson",0,/tags/Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha*s*Craig%20%22Blackbeard%22%20Jenson,r
+"Max ""Mozzie"" Goose/Reader",3,/tags/Max%20%22Mozzie%22%20Goose*s*Reader,r
+"Max ""Mozzie"" Goose/Elias ""Blitz"" Kötz",0,/tags/Max%20%22Mozzie%22%20Goose*s*Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Eliza ""Ash"" Cohen/Other(s)",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Other(s),r
+"Elias ""Blitz"" Kötz/Lera ""Finka"" Melnikova/",0,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*Lera%20%22Finka%22%20Melnikova*s*,r
+"Taina ""Caveira"" Pereira/Original Male Character(s)",1,/tags/Taina%20%22Caveira%22%20Pereira*s*Original%20Male%20Character(s),r
+"Taina ""Caveira"" Pereira/Other(s)",0,/tags/Taina%20%22Caveira%22%20Pereira*s*Other(s),r
+"Monika ""IQ"" Weiss/Other(s)",0,/tags/Monika%20%22IQ%22%20Weiss*s*Other(s),r
+"Olivier ""Lion"" Flament/Marius ""Jäger"" Streiche/Gilles ""Montagne"" Touré",0,/tags/Olivier%20%22Lion%22%20Flament*s*Marius%20%22J%C3%A4ger%22%20Streiche*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Siu ""Ying"" Mei Lin/Original Character(s)",0,/tags/Siu%20%22Ying%22%20Mei%20Lin*s*Original%20Character(s),r
+"Sanaa ""Nomad"" El Maktoub/Nienke ""Iana"" Meijer",1,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Nienke%20%22Iana%22%20Meijer,r
+"Elena ""Mira"" Maria Alvarez/White Masks",1,/tags/Elena%20%22Mira%22%20Maria%20Alvarez*s*White%20Masks,r
+"Eliza ""Ash"" Cohen/Marius ""Jäger"" Streicher",0,/tags/Eliza%20%22Ash%22%20Cohen*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Shuhrat ""Fuze"" Kessikbayev/Monika ""IQ"" Weiss",0,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*Monika%20%22IQ%22%20Weiss,r
+"Elena ""Mira"" María Álvarez/Lera ""Finka"" Melnikova/Alexsandr ""Tachanka"" Senaviev",0,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Lera%20%22Finka%22%20Melnikova*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+Elna Gardiner,1,/tags/Elna%20Gardiner,c
+"James ""Smoke"" Porter/Jordan ""Thermite"" Trace",1,/tags/James%20%22Smoke%22%20Porter*s*Jordan%20%22Thermite%22%20Trace,r
+"Dominic ""Bandit"" Brunsmeier & Elias ""Blitz"" Kötz",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Elias%20%22Blitz%22%20K%C3%B6tz,r
+"Sanaa ""Nomad"" El Maktoub/Mina ""Thunderbird"" Sky",4,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Mina%20%22Thunderbird%22%20Sky,r
+"Elna Gardiner & Thandiwe ""Melusi"" Ndlovu",0,/tags/Elna%20Gardiner%20*a*%20Thandiwe%20%22Melusi%22%20Ndlovu,r
+"Apha ""Aruni"" Tawanroong & Jordan ""Thermite"" Trace",0,/tags/Apha%20%22Aruni%22%20Tawanroong%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+Rainbow Six Writer/Artist Pair Up Event,0,/tags/Rainbow%20Six%20Writer*s*Artist%20Pair%20Up%20Event,f
+"Monika ""IQ"" Weiss/Original Character(s)",1,/tags/Monika%20%22IQ%22%20Weiss*s*Original%20Character(s),r
+"Elena ""Mira"" Maria Alvarez/Anja Katarina ""Osa"" Janković",1,/tags/Elena%20%22Mira%22%20Maria%20Alvarez*s*Anja%20Katarina%20%22Osa%22%20Jankovi%C4%87,r
+"Anja Katarina ""Osa"" Janković",12,/tags/Anja%20Katarina%20%22Osa%22%20Jankovi%C4%87,c
+"Olivier ""Lion"" Flament & Julien ""Rook"" Nizan",1,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Julien%20%22Rook%22%20Nizan,r
+"Robin (Arknights) & Tina ""Frost"" Lin Tsang",0,/tags/Robin%20(Arknights)%20*a*%20Tina%20%22Frost%22%20Lin%20Tsang,r
+"Bottom Gustave ""Doc"" Kateb",1,/tags/Bottom%20Gustave%20%22Doc%22%20Kateb,f
+"Maxim ""Kapkan"" Basuda & Monika ""IQ"" Weiss",1,/tags/Maxim%20%22Kapkan%22%20Basuda%20*a*%20Monika%20%22IQ%22%20Weiss,r
+"Maxim ""Kapkan"" Basuda/Monika ""IQ"" Weiss",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Monika%20%22IQ%22%20Weiss,r
+Zofia Bosak's Daughter,4,/tags/Zofia%20Bosak's%20Daughter,c
+Zofia Bosak's Husband,3,/tags/Zofia%20Bosak's%20Husband,c
+"Mina ""Thunderbird"" Sky/Tina ""Frost"" Lin Tsang",1,/tags/Mina%20%22Thunderbird%22%20Sky*s*Tina%20%22Frost%22%20Lin%20Tsang,r
+"Nienke ""Iana"" Meijer/Monika ""IQ"" Weiss",0,/tags/Nienke%20%22Iana%22%20Meijer*s*Monika%20%22IQ%22%20Weiss,r
+"Marius ""Jäger"" Streicher/Other(s)",1,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*Other(s),r
+"Håvard ""Ace"" Haugland/Julien ""Rook"" Nizan/Jordan ""Thermite"" Trace",1,/tags/H%C3%A5vard%20%22Ace%22%20Haugland*s*Julien%20%22Rook%22%20Nizan*s*Jordan%20%22Thermite%22%20Trace,r
+"Sanaa ""Nomad"" El Maktoub/Mina ""Thunderbird"" Sky/Tina ""Frost"" Lin Tsang",1,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Mina%20%22Thunderbird%22%20Sky*s*Tina%20%22Frost%22%20Lin%20Tsang,r
+"Chul Kyung ""Vigil"" Hwa/Nøkk",0,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*N%C3%B8kk,r
+White Masks & Rainbow Six Operators,0,/tags/White%20Masks%20*a*%20Rainbow%20Six%20Operators,r
+Doktor's Curse Event (Rainbow Six),0,/tags/Doktor's%20Curse%20Event%20(Rainbow%20Six),f
+Outbreak Event (Rainbow Six),4,/tags/Outbreak%20Event%20(Rainbow%20Six),f
+"Olivier ""Lion"" Flament & Marius ""Jäger"" Streicher",1,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Tori ""Gridlock"" Tallyo Fairous/Siu ""Ying"" Mei Lin",1,/tags/Tori%20%22Gridlock%22%20Tallyo%20Fairous*s*Siu%20%22Ying%22%20Mei%20Lin,r
+Siegemas 2021 (Rainbow Six),1,/tags/Siegemas%202021%20(Rainbow%20Six),f
+"Brianna ""Thorn"" Skehan",11,/tags/Brianna%20%22Thorn%22%20Skehan,c
+"Dominic ""Bandit"" Brunsmeier/Jordan ""Thermite"" Trace",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Jordan%20%22Thermite%22%20Trace,r
+"Nienke ""Iana"" Meijer & Marius ""Jäger"" Streicher",1,/tags/Nienke%20%22Iana%22%20Meijer%20*a*%20Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Jordan ""Thermite"" Trace/Monika ""IQ"" Weiss",2,/tags/Jordan%20%22Thermite%22%20Trace*s*Monika%20%22IQ%22%20Weiss,r
+"Dominic ""Bandit"" Brunsmeier/Grace ""Dokkaebi"" Nam",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Grace%20%22Dokkaebi%22%20Nam,r
+"Gustave ""Doc"" Kateb & Julien ""Rook"" Nizan",1,/tags/Gustave%20%22Doc%22%20Kateb%20*a*%20Julien%20%22Rook%22%20Nizan,r
+"Eliza ""Ash"" Cohen/Gustave ""Doc"" Kateb",1,/tags/Eliza%20%22Ash%22%20Cohen*s*Gustave%20%22Doc%22%20Kateb,r
+"Kana ""Azami"" Fujiwara/Masayuki Yahata",2,/tags/Kana%20%22Azami%22%20Fujiwara*s*Masayuki%20Yahata,r
+"Kana ""Azami"" Fujiwara",12,/tags/Kana%20%22Azami%22%20Fujiwara,c
+Masayuki Yahata,2,/tags/Masayuki%20Yahata,c
+"Kana ""Azami"" Fujiwara/Recruit",1,/tags/Kana%20%22Azami%22%20Fujiwara*s*Recruit,r
+"Masaru ""Echo"" Enatsu/Yumiko ""Hibana"" Imagawa",1,/tags/Masaru%20%22Echo%22%20Enatsu*s*Yumiko%20%22Hibana%22%20Imagawa,r
+Game: Tom Clancy's Rainbow Six Extraction,7,/tags/Game:%20Tom%20Clancy's%20Rainbow%20Six%20Extraction,f
+Showdown: Back to the West Event (Rainbow Six),0,/tags/Showdown:%20Back%20to%20the%20West%20Event%20(Rainbow%20Six),f
+"Dominic ""Bandit"" Brunsmeier/Kana ""Azami"" Fujiwara",1,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Kana%20%22Azami%22%20Fujiwara,r
+"Timur ""Glaz"" Glazkov/James ""Smoke"" Porter",1,/tags/Timur%20%22Glaz%22%20Glazkov*s*James%20%22Smoke%22%20Porter,r
+Sofia Hernández (Rainbow Six),0,/tags/Sofia%20Hern%C3%A1ndez%20(Rainbow%20Six),c
+Stumpy the Seagull (Rainbow Six),0,/tags/Stumpy%20the%20Seagull%20(Rainbow%20Six),c
+"Max ""Mozzie"" Goose/Shuhrat ""Fuze"" Kessikbayev",2,/tags/Max%20%22Mozzie%22%20Goose*s*Shuhrat%20%22Fuze%22%20Kessikbayev,r
+"Sam ""Zero"" Fisher & Aria ""Alibi"" de Luca",1,/tags/Sam%20%22Zero%22%20Fisher%20*a*%20Aria%20%22Alibi%22%20de%20Luca,r
+"Elena ""Mira"" María Álvarez/Jonathan Samuel Kent",0,/tags/Elena%20%22Mira%22%20Mar%C3%ADa%20%C3%81lvarez*s*Jonathan%20Samuel%20Kent,r
+"Tina ""Frost"" Lin Tsang/Recruit",0,/tags/Tina%20%22Frost%22%20Lin%20Tsang*s*Recruit,r
+"Mike ""Thatcher"" Baker/Sam ""Zero"" Fisher",1,/tags/Mike%20%22Thatcher%22%20Baker*s*Sam%20%22Zero%22%20Fisher,r
+"Sanaa ""Nomad"" El Maktoub/Original Character(s)",0,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Original%20Character(s),r
+"Sanaa ""Nomad"" El Maktoub/Original Female Character(s)",1,/tags/Sanaa%20%22Nomad%22%20El%20Maktoub*s*Original%20Female%20Character(s),r
+"Simon ""Ghost"" Riley/Tina ""Frost"" Lin Tsang",0,/tags/Simon%20%22Ghost%22%20Riley*s*Tina%20%22Frost%22%20Lin%20Tsang,r
+"Craig ""Blackbeard"" Jenson/Erik ""Maverick"" Thorn",0,/tags/Craig%20%22Blackbeard%22%20Jenson*s*Erik%20%22Maverick%22%20Thorn,r
+"Max ""Mozzie"" Goose/Chul Kyung ""Vigil"" Hwa",0,/tags/Max%20%22Mozzie%22%20Goose*s*Chul%20Kyung%20%22Vigil%22%20Hwa,r
+"César ""Goyo"" Ruiz Hernández",8,/tags/C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez,c
+"César ""Goyo"" Ruiz Hernández/Original Character(s)",0,/tags/C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez*s*Original%20Character(s),r
+"Collinn ""Warden"" McKinley/César ""Goyo"" Ruiz Hernández",0,/tags/Collinn%20%22Warden%22%20McKinley*s*C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez,r
+"Aria ""Alibi"" de Luca/Sanaa ""Nomad"" El Maktoub",1,/tags/Aria%20%22Alibi%22%20de%20Luca*s*Sanaa%20%22Nomad%22%20El%20Maktoub,r
+"Adriano ""Maestro"" Martello/Original Character(s)",0,/tags/Adriano%20%22Maestro%22%20Martello*s*Original%20Character(s),r
+"Sam ""Zero"" Fisher & Original Female Character(s)",0,/tags/Sam%20%22Zero%22%20Fisher%20*a*%20Original%20Female%20Character(s),r
+"Nienke ""Iana"" Meijer/Lera ""Finka"" Melnikova",1,/tags/Nienke%20%22Iana%22%20Meijer*s*Lera%20%22Finka%22%20Melnikova,r
+"Marius ""Jäger"" Streicher & Jordan ""Thermite"" Trace",0,/tags/Marius%20%22J%C3%A4ger%22%20Streicher%20*a*%20Jordan%20%22Thermite%22%20Trace,r
+"Olivier ""Lion"" Flament & James ""Smoke"" Porter",0,/tags/Olivier%20%22Lion%22%20Flament%20*a*%20James%20%22Smoke%22%20Porter,r
+"Mike ""Thatcher"" Baker & Mark ""Mute"" Chandar & Seamus ""Sledge"" Cowden & James ""Smoke"" Porter",1,/tags/Mike%20%22Thatcher%22%20Baker%20*a*%20Mark%20%22Mute%22%20Chandar%20*a*%20Seamus%20%22Sledge%22%20Cowden%20*a*%20James%20%22Smoke%22%20Porter,r
+"Emmanuelle ""Twitch"" Pichon/Jaimini Kalimohan ""Kali"" Shah",0,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Chul Kyung ""Vigil"" Hwa & Grace ""Dokkaebi"" Nam",0,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa%20*a*%20Grace%20%22Dokkaebi%22%20Nam,r
+"Elżbieta ""Ela"" Bosak/Grace ""Dokkaebi"" Nam/Siu ""Ying"" Mei Lin",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Grace%20%22Dokkaebi%22%20Nam*s*Siu%20%22Ying%22%20Mei%20Lin,r
+"César ""Goyo"" Ruiz Hernández/Gilles ""Montagne"" Touré",0,/tags/C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Craig ""Blackbeard"" Jenson & César ""Goyo"" Ruiz Hernández",0,/tags/Craig%20%22Blackbeard%22%20Jenson%20*a*%20C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez,r
+"César ""Goyo"" Ruiz Hernández/Original Male Character(s)",0,/tags/C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez*s*Original%20Male%20Character(s),r
+"Chul Kyung ""Vigil"" Hwa/Other(s)",0,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Other(s),r
+"Maxim ""Kapkan"" Basuda/Timur ""Glaz"" Glazkov/James ""Smoke"" Porter",1,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Timur%20%22Glaz%22%20Glazkov*s*James%20%22Smoke%22%20Porter,r
+"César ""Goyo"" Ruiz Hernández/Marius ""Jäger"" Streicher",0,/tags/C%C3%A9sar%20%22Goyo%22%20Ruiz%20Hern%C3%A1ndez*s*Marius%20%22J%C3%A4ger%22%20Streicher,r
+"Anja Katarina ""Osa"" Janković/Lera ""Finka"" Melnikova",0,/tags/Anja%20Katarina%20%22Osa%22%20Jankovi%C4%87*s*Lera%20%22Finka%22%20Melnikova,r
+"Kana ""Azami"" Fujiwara/Original Male Character(s)",0,/tags/Kana%20%22Azami%22%20Fujiwara*s*Original%20Male%20Character(s),r
+"James ""Smoke"" Porter/Alexsandr ""Tachanka"" Senaviev",2,/tags/James%20%22Smoke%22%20Porter*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Elżbieta ""Ela"" Bosak/Nienke ""Iana"" Meijer",0,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Nienke%20%22Iana%22%20Meijer,r
+"Dominic ""Bandit"" Brunsmeier/Nøkk",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*N%C3%B8kk,r
+"Dominic ""Bandit"" Brunsmeier/Seamus ""Sledge"" Cowden/Max ""Mozzie"" Goose",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Seamus%20%22Sledge%22%20Cowden*s*Max%20%22Mozzie%22%20Goose,r
+"Miles ""Castle"" Campbell/Reader",2,/tags/Miles%20%22Castle%22%20Campbell*s*Reader,r
+"Néon ""Sens"" Ngoma Mutombo",3,/tags/N%C3%A9on%20%22Sens%22%20Ngoma%20Mutombo,c
+"Maxim ""Kapkan"" Basuda & Timur ""Glaz"" Glazkov",1,/tags/Maxim%20%22Kapkan%22%20Basuda%20*a*%20Timur%20%22Glaz%22%20Glazkov,r
+Maho Estrada,2,/tags/Maho%20Estrada,c
+"Masaru ""Echo"" Enatsu/Erik ""Maverick"" Thorn",2,/tags/Masaru%20%22Echo%22%20Enatsu*s*Erik%20%22Maverick%22%20Thorn,r
+"James ""Smoke"" Porter/Everyone",1,/tags/James%20%22Smoke%22%20Porter*s*Everyone,r
+"Marius ""Jäger"" Streicher/You",2,/tags/Marius%20%22J%C3%A4ger%22%20Streicher*s*You,r
+"Gustave ""Doc"" Kateb/You",4,/tags/Gustave%20%22Doc%22%20Kateb*s*You,r
+"Shuhrat ""Fuze"" Kessikbayev/You",5,/tags/Shuhrat%20%22Fuze%22%20Kessikbayev*s*You,r
+Charlie Tho “Grim” Keng Boon,3,/tags/Charlie%20Tho%20%E2%80%9CGrim%E2%80%9D%20Keng%20Boon,c
+"Maxim ""Kapkan"" Basuda/You",6,/tags/Maxim%20%22Kapkan%22%20Basuda*s*You,r
+"Trans Gustave ""Doc"" Kateb",0,/tags/Trans%20Gustave%20%22Doc%22%20Kateb,f
+"Ana ""Solis"" Valentina Díaz",2,/tags/Ana%20%22Solis%22%20Valentina%20D%C3%ADaz,c
+"Elżbieta ""Ela"" Bosak/Olivier ""Lion"" Flament",1,/tags/El%C5%BCbieta%20%22Ela%22%20Bosak*s*Olivier%20%22Lion%22%20Flament,r
+"Dominic ""Bandit"" Brunsmeier & Original Character(s)",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier%20*a*%20Original%20Character(s),r
+"Emmanuelle ""Twitch"" Pichon/Original Character(s)",0,/tags/Emmanuelle%20%22Twitch%22%20Pichon*s*Original%20Character(s),r
+"Jaimini Kalimohan ""Kali"" Shah/You",3,/tags/Jaimini%20Kalimohan%20%22Kali%22%20Shah*s*You,r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Original Male Character(s)",3,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Original%20Male%20Character(s),r
+"Nøkk/Mina ""Thunderbird"" Sky",0,/tags/N%C3%B8kk*s*Mina%20%22Thunderbird%22%20Sky,r
+"Eliza ""Ash"" Cohen/Jaimini Kalimohan ""Kali"" Shah",2,/tags/Eliza%20%22Ash%22%20Cohen*s*Jaimini%20Kalimohan%20%22Kali%22%20Shah,r
+"Meghan ""Valkyrie"" Castellano/Original Character(s)",1,/tags/Meghan%20%22Valkyrie%22%20Castellano*s*Original%20Character(s),r
+"Nayara ""Brava"" Cardoso",0,/tags/Nayara%20%22Brava%22%20Cardoso,c
+"Gustave ""Doc"" Kateb/Other(s)",0,/tags/Gustave%20%22Doc%22%20Kateb*s*Other(s),r
+"Emil ""Fenrir"" Svensson/Other(s)",0,/tags/Emil%20%22Fenrir%22%20Svensson*s*Other(s),r
+"Ryad ""Jackal"" Ramírez Al-Hassar/Other(s)",0,/tags/Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar*s*Other(s),r
+"Maxim ""Kapkan"" Basuda/Eliza ""Ash"" Cohen/Taina ""Caveira"" Pereira/Monika ""IQ"" Weiss",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*Eliza%20%22Ash%22%20Cohen*s*Taina%20%22Caveira%22%20Pereira*s*Monika%20%22IQ%22%20Weiss,r
+"Nayara ""Brava"" Cardoso/You",0,/tags/Nayara%20%22Brava%22%20Cardoso*s*You,r
+"Ngũgĩ Muchoki ""Wamai"" Furaha/You",0,/tags/Ng%C5%A9g%C4%A9%20Muchoki%20%22Wamai%22%20Furaha*s*You,r
+"Nienke ""Iana"" Meijer/You",0,/tags/Nienke%20%22Iana%22%20Meijer*s*You,r
+Nøkk (Rainbow Six)/You,0,/tags/N%C3%B8kk%20(Rainbow%20Six)*s*You,r
+"Olivier ""Lion"" Flament/Gustave ""Doc"" Kateb/Julien ""Rook"" Nizan/Gilles ""Montagne"" Touré",0,/tags/Olivier%20%22Lion%22%20Flament*s*Gustave%20%22Doc%22%20Kateb*s*Julien%20%22Rook%22%20Nizan*s*Gilles%20%22Montagne%22%20Tour%C3%A9,r
+"Mike ""Thatcher"" Baker/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Santiago ""Flores"" Lucero/Ryad ""Jackal"" Ramírez Al-Hassar",0,/tags/Santiago%20%22Flores%22%20Lucero*s*Ryad%20%22Jackal%22%20Ram%C3%ADrez%20Al-Hassar,r
+"Sam ""Zero"" Fisher/Harishva ""Harry"" Pandey",0,/tags/Sam%20%22Zero%22%20Fisher*s*Harishva%20%22Harry%22%20Pandey,r
+"Max ""Mozzie"" Goose/Alexsandr ""Tachanka"" Senaviev",0,/tags/Max%20%22Mozzie%22%20Goose*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Dominic ""Bandit"" Brunsmeier/Seamus ""Sledge"" Cowden/Alexsandr ""Tachanka"" Senaviev",0,/tags/Dominic%20%22Bandit%22%20Brunsmeier*s*Seamus%20%22Sledge%22%20Cowden*s*Alexsandr%20%22Tachanka%22%20Senaviev,r
+"Mike ""Thatcher"" Baker/Dominic ""Bandit"" Brunsmeier/Seamus ""Sledge"" Cowden",0,/tags/Mike%20%22Thatcher%22%20Baker*s*Dominic%20%22Bandit%22%20Brunsmeier*s*Seamus%20%22Sledge%22%20Cowden,r
+"Jack ""Pulse"" Estrada/Håvard ""Ace"" Haugland",0,/tags/Jack%20%22Pulse%22%20Estrada*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Maxim ""Kapkan"" Basuda/Håvard ""Ace"" Haugland",0,/tags/Maxim%20%22Kapkan%22%20Basuda*s*H%C3%A5vard%20%22Ace%22%20Haugland,r
+"Sebastien ""Buck"" Côté/Seamus ""Sledge"" Cowden/James ""Smoke"" Porter",0,/tags/Sebastien%20%22Buck%22%20C%C3%B4t%C3%A9*s*Seamus%20%22Sledge%22%20Cowden*s*James%20%22Smoke%22%20Porter,r
+"Elias ""Blitz"" Kötz/James ""Smoke"" Porter",0,/tags/Elias%20%22Blitz%22%20K%C3%B6tz*s*James%20%22Smoke%22%20Porter,r
+"Chul Kyung ""Vigil"" Hwa/Liu ""Lesion"" Tze Long",0,/tags/Chul%20Kyung%20%22Vigil%22%20Hwa*s*Liu%20%22Lesion%22%20Tze%20Long,r
