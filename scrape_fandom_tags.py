@@ -20,8 +20,6 @@ if not tag_path.exists():
 
 fandom_df = pd.read_csv(f"{lco['process_dir']}/canonical_fandoms.csv")
 
-fandom_df = fandom_df.sort_values("count", ascending=True)
-
 tags_url = "https://archiveofourown.org/tags/search?tag_search[name]=&tag_search[fandoms]={fandom}&tag_search[type]=&tag_search[canonical]=T&tag_search[sort_column]=created_at&tag_search[sort_direction]=asc&commit=Search+Tags"
 
 def get_tags(soup):
