@@ -1,0 +1,44 @@
+tag,count,href,category
+Penance Adair,65,/tags/Penance%20Adair,c
+Horatio Cousens,8,/tags/Horatio%20Cousens,c
+Lucy Best,6,/tags/Lucy%20Best,c
+Maladie (The Nevers),2,/tags/Maladie%20(The%20Nevers),c
+Désirée Blodgett,5,/tags/D%C3%A9sir%C3%A9e%20Blodgett,c
+Primrose Chattoway,3,/tags/Primrose%20Chattoway,c
+Myrtle Haplisch,5,/tags/Myrtle%20Haplisch,c
+"""Bonfire"" Annie Carbey",7,/tags/%22Bonfire%22%20Annie%20Carbey,c
+Nimble Jack (The Nevers),9,/tags/Nimble%20Jack%20(The%20Nevers),c
+"Augustus ""Augie"" Bidlow",10,/tags/Augustus%20%22Augie%22%20Bidlow,c
+"""Bonfire"" Annie Carbey/Nimble Jack",3,/tags/%22Bonfire%22%20Annie%20Carbey*s*Nimble%20Jack,r
+"Penance Adair/Augustus ""Augie"" Bidlow",2,/tags/Penance%20Adair*s*Augustus%20%22Augie%22%20Bidlow,r
+Hugo Swann,7,/tags/Hugo%20Swann,c
+Episode: s01e06 True (The Nevers),0,/tags/Episode:%20s01e06%20True%20(The%20Nevers),f
+Frank Mundi/Hugo Swann,3,/tags/Frank%20Mundi*s*Hugo%20Swann,r
+Frank Mundi,4,/tags/Frank%20Mundi,c
+Original Molly True,1,/tags/Original%20Molly%20True,c
+"Augustus ""Augie"" Bidlow/Horatio Cousens",0,/tags/Augustus%20%22Augie%22%20Bidlow*s*Horatio%20Cousens,r
+Amalia True | Zephyr Alexis Navine,39,/tags/Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,c
+"""Bonfire"" Annie Carbey/Amalia True | Zephyr Alexis Navine",0,/tags/%22Bonfire%22%20Annie%20Carbey*s*Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+Horatio Cousens/Amalia True | Zephyr Alexis Navine,0,/tags/Horatio%20Cousens*s*Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+Penance Adair & Amalia True | Zephyr Alexis Navine,21,/tags/Penance%20Adair%20*a*%20Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+Penance Adair/Amalia True | Zephyr Alexis Navine,37,/tags/Penance%20Adair*s*Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+Knitter (The Nevers),0,/tags/Knitter%20(The%20Nevers),c
+Knitter/Amalia True | Zephyr Alexis Navine,0,/tags/Knitter*s*Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+"Augustus ""Augie"" Bidlow/Hugo Swann",3,/tags/Augustus%20%22Augie%22%20Bidlow*s*Hugo%20Swann,r
+Harriet Kaur,6,/tags/Harriet%20Kaur,c
+Episode: s01e03 Ignition (The Nevers),0,/tags/Episode:%20s01e03%20Ignition%20(The%20Nevers),f
+Penance Adair & Harriet Kaur,1,/tags/Penance%20Adair%20*a*%20Harriet%20Kaur,r
+George (The Nevers),1,/tags/George%20(The%20Nevers),c
+Dominique (The Nevers),0,/tags/Dominique%20(The%20Nevers),c
+Nigel Blodgett,2,/tags/Nigel%20Blodgett,c
+Su Ping Lim,3,/tags/Su%20Ping%20Lim,c
+Désirée Blodgett & Nimble Jack,0,/tags/D%C3%A9sir%C3%A9e%20Blodgett%20*a*%20Nimble%20Jack,r
+"Elisabetta ""Beth"" Cassini",2,/tags/Elisabetta%20%22Beth%22%20Cassini,c
+Penance Adair & Désirée Blodgett,0,/tags/Penance%20Adair%20*a*%20D%C3%A9sir%C3%A9e%20Blodgett,r
+Mrs. Beechum (The Nevers),0,/tags/Mrs*d*%20Beechum%20(The%20Nevers),c
+Gilbert Massen,0,/tags/Gilbert%20Massen,c
+Désirée Blodgett/Harriet Kaur,0,/tags/D%C3%A9sir%C3%A9e%20Blodgett*s*Harriet%20Kaur,r
+Penance Adair & Nimble Jack,1,/tags/Penance%20Adair%20*a*%20Nimble%20Jack,r
+Nimble Jack & Amalia True | Zephyr Alexis Navine,0,/tags/Nimble%20Jack%20*a*%20Amalia%20True%20%7C%20Zephyr%20Alexis%20Navine,r
+Nimble Jack & Su Ping Lim,0,/tags/Nimble%20Jack%20*a*%20Su%20Ping%20Lim,r
+Wendy (The Nevers),1,/tags/Wendy%20(The%20Nevers),c

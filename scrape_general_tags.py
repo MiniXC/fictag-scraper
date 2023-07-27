@@ -46,7 +46,6 @@ def scrape_page(url):
     if len(tags) == 0:
         return None
     for tag in tags:
-        full_text = tag.text
         # get <a> tag
         a_tag = tag.find("a")
         tag_text = a_tag.text
