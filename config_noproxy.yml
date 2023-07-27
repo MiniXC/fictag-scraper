@@ -1,11 +1,11 @@
 data_dir: "data"
 process_dir: "data/processed"
-use_proxy: true
+use_proxy: false
 proxy_country: "us"
 proxy_interval: 0
-regular_interval: 1
+regular_interval: 2
 fail_interval: 1
 start_month: "2008-01"
 end_month: "2022-12"
-num_threads: 25
-only_scrape_first_n_pages: -1
+num_threads: 1
+only_scrape_first_n_pages: 5

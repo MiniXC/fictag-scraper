@@ -17,4 +17,4 @@ Path(f"{process_dir}/tags").mkdir(parents=True, exist_ok=True)
 
 # we need the index to later join with the works
 df.reset_index(inplace=True)
-df.to_csv(f"{process_dir}/tags/_general_tags.csv", index=True)
+df.to_csv(f"{process_dir}/tags/_general_tags.csv.gz", index=True)
