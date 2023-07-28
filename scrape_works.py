@@ -26,6 +26,7 @@ fandom_df = pd.read_csv(f"{lco['process_dir']}/canonical_fandoms.csv")
 fandom_df = fandom_df[fandom_df["count"] >= 100]
 
 work_url = "https://archiveofourown.org/works/search?work_search%5Bquery%5D=&work_search%5Btitle%5D=&work_search%5Bcreators%5D=&work_search%5Brevised_at%5D={months_ago}+months+ago&work_search%5Bcomplete%5D=&work_search%5Bcrossover%5D=&work_search%5Bsingle_chapter%5D=0&work_search%5Bword_count%5D=&work_search%5Blanguage_id%5D=&work_search%5Bfandom_names%5D={fandom}&work_search%5Brating_ids%5D=&work_search%5Bcharacter_names%5D=&work_search%5Brelationship_names%5D=&work_search%5Bfreeform_names%5D=&work_search%5Bhits%5D=&work_search%5Bkudos_count%5D=&work_search%5Bcomments_count%5D=&work_search%5Bbookmarks_count%5D=&work_search%5Dsort_column%5D=revised_at&work_search%5Dsort_direction%5D=asc&commit=Search"
+work_url_years = "https://archiveofourown.org/works/search?work_search%5Bquery%5D=&work_search%5Btitle%5D=&work_search%5Bcreators%5D=&work_search%5Brevised_at%5D={years_ago}+years+ago&work_search%5Bcomplete%5D=&work_search%5Bcrossover%5D=&work_search%5Bsingle_chapter%5D=0&work_search%5Bword_count%5D=&work_search%5Blanguage_id%5D=&work_search%5Bfandom_names%5D={fandom}&work_search%5Brating_ids%5D=&work_search%5Bcharacter_names%5D=&work_search%5Brelationship_names%5D=&work_search%5Bfreeform_names%5D=&work_search%5Bhits%5D=&work_search%5Bkudos_count%5D=&work_search%5Bcomments_count%5D=&work_search%5Bbookmarks_count%5D=&work_search%5Dsort_column%5D=revised_at&work_search%5Dsort_direction%5D=asc&commit=Search"
 
 """
 Content rating
@@ -170,16 +171,16 @@ def get_works(soup, fandom_tags, general_tags):
         tags = [t.text for t in tags if "warnings" not in t["class"]]
         fandom_tag_ids = []
         general_tag_ids = []
+        unknown_tags = []
         for tag in tags:
             if tag in fandom_tags:
                 fandom_tag_ids.append(fandom_tags[tag])
             elif tag in general_tags:
                 general_tag_ids.append(general_tags[tag])
             else:
-                pass
-                #print(f"unknown tag {tag}")
-        fandom_tag_ids = "+".join([str(t) for t in fandom_tag_ids])
-        general_tag_ids = "+".join([str(t) for t in general_tag_ids])
+                unknown_tags.append(tag)
+        fandom_tag_ids = "+".join([str(t) for t in fandom_tag_ids]) + "+"
+        general_tag_ids = "+".join([str(t) for t in general_tag_ids]) + "+"
         # language
         language = work.find("dd", class_="language")["lang"]
         # words
@@ -218,6 +219,7 @@ def get_works(soup, fandom_tags, general_tags):
                 fandoms,
                 fandom_tag_ids,
                 general_tag_ids,
+                unknown_tags,
                 language,
                 words,
                 chapters,
@@ -253,44 +255,132 @@ end_date = datetime.strptime(end_date, "%Y-%m")
 months_to_scrape = {}
 months_ago_start = (datetime.now() - start_date).days // 30
 months_ago_end = (datetime.now() - end_date).days // 30
+
+# go through each month and add it to the dictionary
+
+# for months_ago in range(months_ago_end, months_ago_start + 1):
+#     date = datetime.now() - timedelta(days=months_ago * 30)
+#     months_to_scrape[months_ago] = date.strftime("%Y-%m")
+# the above is the original code, but it doesn't work because it doesn't account for months with 31 days
+# so we'll do it this way instead
 for months_ago in range(months_ago_end, months_ago_start + 1):
     date = datetime.now() - timedelta(days=months_ago * 30)
     months_to_scrape[months_ago] = date.strftime("%Y-%m")
+    if date.day == 31:
+        months_ago += 1
+        date = datetime.now() - timedelta(days=months_ago * 30)
+        months_to_scrape[months_ago] = date.strftime("%Y-%m")
+
+years_to_scrape = {}
+
+for months_ago in months_to_scrape:
+    year = months_to_scrape[months_ago].split("-")[0]
+    # get difference between current year and year
+    years_ago = datetime.now().year - int(year)
+    # add to dictionary
+    if years_ago not in years_to_scrape:
+        years_to_scrape[years_ago] = year
+
+# check if the last year has 4000 or more pages
+# if it doesn't, we'll scrape by year
+# if it does, we'll scrape by month
+# this is because the last year is the most likely to have 4000 or more pages
+# and we want to minimize the number of times we scrape by month
+# because it's slower
 
 for _, row in tqdm(fandom_df.iterrows(), total=len(fandom_df)):
-    fandom = quote_plus(row["tag"])
-    fandom_path = Path(f"{work_path}/{row['hash']}")
-    fandom_tags_path = Path(f"{tag_path}/{row['hash']}/tags.csv.gz")
-    if not fandom_tags_path.exists():
-        print(f"tags for fandom {fandom} not available")
-        continue
-    if fandom_path.exists() and len(list(fandom_path.glob("*.csv"))) == len(months_to_scrape):
-        print(f"already scraped {row['tag']}")
-        continue
-    fandom_path.mkdir(parents=True, exist_ok=True)
-    fandom_tags = pd.read_csv(f"{tag_path}/{row['hash']}/tags.csv.gz")
-    fandom_tags = {
-        row["tag"]: i for i, row in fandom_tags.iterrows()
-    }
-    general_tags = pd.read_csv(f"{tag_path}/_general_tags.csv.gz")
-    general_tags = {
-        row["tag"]: i for i, row in general_tags.iterrows()
-    }
-    for months_ago in tqdm(range(months_ago_end, months_ago_start + 1), desc=fandom):
-        csv_path = Path(f"{fandom_path}/{months_to_scrape[months_ago]}.csv")
-        if csv_path.exists():
-            print(f"already scraped {fandom}, {months_ago} months ago")
+    # get the last year
+    last_year = min(years_to_scrape.keys())
+    soup = BeautifulSoup(scrape_url(work_url_years.format(years_ago=last_year, fandom=quote_plus(row["tag"]))).text, "html.parser")
+    # get number of pages (if there are any)
+    pagination = soup.find("ol", class_="pagination actions")
+    month_mode = True
+    if pagination is None:
+        print(f"no pages for {row['tag']}")
+        month_mode = False
+    else:
+        last_page = int(pagination.find_all("li")[-2].text)
+        print(f"found {last_page} pages for {row['tag']}")
+        if last_page <= 4000:
+            month_mode = False
+
+    if not month_mode:
+        fandom = quote_plus(row["tag"])
+        fandom_path = Path(f"{work_path}/{row['hash']}")
+        fandom_tags_path = Path(f"{tag_path}/{row['hash']}/tags.csv.gz")
+        if not fandom_tags_path.exists():
+            print(f"tags for fandom {fandom} not available")
             continue
-        url = work_url.format(months_ago=months_ago, fandom=fandom)
-        response = scrape_url(url)
-        soup = BeautifulSoup(response.text, "html.parser")
-        # get number of pages (if there are any)
-        pagination = soup.find("ol", class_="pagination actions")
-        if pagination is None:
-            print(f"no pages for {fandom}, {months_ago} months ago")
-            results = get_works(soup, fandom_tags, general_tags)
-            if results is None:
-                print(f"no works for {fandom}, {months_ago} months ago")
+        if fandom_path.exists() and len(list(fandom_path.glob("*.csv"))) == len(years_to_scrape):
+            print(f"already scraped {row['tag']}")
+            continue
+        fandom_path.mkdir(parents=True, exist_ok=True)
+        fandom_tags = pd.read_csv(f"{tag_path}/{row['hash']}/tags.csv.gz")
+        fandom_tags = {
+            row["tag"]: i for i, row in fandom_tags.iterrows()
+        }
+        general_tags = pd.read_csv(f"{tag_path}/_general_tags.csv.gz")
+        general_tags = {
+            row["tag"]: i for i, row in general_tags.iterrows()
+        }
+        for years_ago in tqdm(years_to_scrape, desc=fandom):
+            csv_path = Path(f"{fandom_path}/{years_to_scrape[years_ago]}.csv")
+            if csv_path.exists():
+                print(f"already scraped {fandom}, {years_ago} years ago")
+                continue
+            if years_ago != last_year:
+                url = work_url_years.format(years_ago=years_ago, fandom=fandom)
+                response = scrape_url(url)
+                soup = BeautifulSoup(response.text, "html.parser")
+            # get number of pages (if there are any)
+            pagination = soup.find("ol", class_="pagination actions")
+            if pagination is None:
+                print(f"no pages for {fandom}, {years_ago} years ago")
+                results = get_works(soup, fandom_tags, general_tags)
+                if results is None:
+                    print(f"no works for {fandom}, {years_ago} years ago")
+                    continue
+                df = pd.DataFrame(
+                    results,
+                    columns=[
+                        "id",
+                        "title",
+                        "author_hash",
+                        "fandoms",
+                        "fandom_tag_ids",
+                        "general_tag_ids",
+                        "unknown_tags",
+                        "language",
+                        "words",
+                        "chapters",
+                        "comments",
+                        "kudos",
+                        "bookmarks",
+                        "hits",
+                        "date",
+                        "rating",
+                        "category",
+                        "warnings",
+                        "status",
+                    ],
+                )
+                df.to_csv(csv_path, index=False)
+                continue
+            last_page = int(pagination.find_all("li")[-2].text)
+            print(f"found {last_page} pages for {fandom}, {years_ago} years ago")
+            pages_to_scrape = []
+            for page in range(1, last_page + 1):
+                pages_to_scrape.append(url + f"&page={page}")
+            results = []
+            with ThreadPoolExecutor(max_workers=lco["num_threads"]) as executor:
+                for result in tqdm(
+                    executor.map(scrape_page, pages_to_scrape),
+                    total=len(pages_to_scrape),
+                ):
+                    if result is not None:
+                        results.extend(result)
+            if len(results) == 0:
+                print(f"no works for {fandom}, {years_ago} years ago")
                 continue
             df = pd.DataFrame(
                 results,
@@ -301,6 +391,7 @@ for _, row in tqdm(fandom_df.iterrows(), total=len(fandom_df)):
                     "fandoms",
                     "fandom_tag_ids",
                     "general_tag_ids",
+                    "unknown_tags",
                     "language",
                     "words",
                     "chapters",
@@ -316,45 +407,106 @@ for _, row in tqdm(fandom_df.iterrows(), total=len(fandom_df)):
                 ],
             )
             df.to_csv(csv_path, index=False)
+    else:
+        fandom = quote_plus(row["tag"])
+        fandom_path = Path(f"{work_path}/{row['hash']}")
+        fandom_tags_path = Path(f"{tag_path}/{row['hash']}/tags.csv.gz")
+        if not fandom_tags_path.exists():
+            print(f"tags for fandom {fandom} not available")
             continue
-        last_page = int(pagination.find_all("li")[-2].text)
-        print(f"found {last_page} pages for {fandom}, {months_ago} months ago")
-        pages_to_scrape = []
-        for page in range(1, last_page + 1):
-            pages_to_scrape.append(url + f"&page={page}")
-        results = []
-        with ThreadPoolExecutor(max_workers=lco["num_threads"]) as executor:
-            for result in tqdm(
-                executor.map(scrape_page, pages_to_scrape),
-                total=len(pages_to_scrape),
-            ):
-                if result is not None:
-                    results.extend(result)
-        if len(results) == 0:
-            print(f"no works for {fandom}, {months_ago} months ago")
+        if fandom_path.exists() and len(list(fandom_path.glob("*.csv"))) == len(months_to_scrape):
+            print(f"already scraped {row['tag']}")
             continue
-        df = pd.DataFrame(
-            results,
-            columns=[
-                "id",
-                "title",
-                "author_hash",
-                "fandoms",
-                "fandom_tag_ids",
-                "general_tag_ids",
-                "language",
-                "words",
-                "chapters",
-                "comments",
-                "kudos",
-                "bookmarks",
-                "hits",
-                "date",
-                "rating",
-                "category",
-                "warnings",
-                "status",
-            ],
-        )
-        df.to_csv(csv_path, index=False)
+        fandom_path.mkdir(parents=True, exist_ok=True)
+        fandom_tags = pd.read_csv(f"{tag_path}/{row['hash']}/tags.csv.gz")
+        fandom_tags = {
+            row["tag"]: i for i, row in fandom_tags.iterrows()
+        }
+        general_tags = pd.read_csv(f"{tag_path}/_general_tags.csv.gz")
+        general_tags = {
+            row["tag"]: i for i, row in general_tags.iterrows()
+        }
+        for months_ago in tqdm(range(months_ago_end, months_ago_start + 1), desc=fandom):
+            csv_path = Path(f"{fandom_path}/{months_to_scrape[months_ago]}.csv")
+            if csv_path.exists():
+                print(f"already scraped {fandom}, {months_ago} months ago")
+                continue
+            url = work_url.format(months_ago=months_ago, fandom=fandom)
+            response = scrape_url(url)
+            soup = BeautifulSoup(response.text, "html.parser")
+            # get number of pages (if there are any)
+            pagination = soup.find("ol", class_="pagination actions")
+            if pagination is None:
+                print(f"no pages for {fandom}, {months_ago} months ago")
+                results = get_works(soup, fandom_tags, general_tags)
+                if results is None:
+                    print(f"no works for {fandom}, {months_ago} months ago")
+                    continue
+                df = pd.DataFrame(
+                    results,
+                    columns=[
+                        "id",
+                        "title",
+                        "author_hash",
+                        "fandoms",
+                        "fandom_tag_ids",
+                        "general_tag_ids",
+                        "unknown_tags",
+                        "language",
+                        "words",
+                        "chapters",
+                        "comments",
+                        "kudos",
+                        "bookmarks",
+                        "hits",
+                        "date",
+                        "rating",
+                        "category",
+                        "warnings",
+                        "status",
+                    ],
+                )
+                df.to_csv(csv_path, index=False)
+                continue
+            last_page = int(pagination.find_all("li")[-2].text)
+            print(f"found {last_page} pages for {fandom}, {months_ago} months ago")
+            pages_to_scrape = []
+            for page in range(1, last_page + 1):
+                pages_to_scrape.append(url + f"&page={page}")
+            results = []
+            with ThreadPoolExecutor(max_workers=lco["num_threads"]) as executor:
+                for result in tqdm(
+                    executor.map(scrape_page, pages_to_scrape),
+                    total=len(pages_to_scrape),
+                ):
+                    if result is not None:
+                        results.extend(result)
+            if len(results) == 0:
+                print(f"no works for {fandom}, {months_ago} months ago")
+                continue
+            df = pd.DataFrame(
+                results,
+                columns=[
+                    "id",
+                    "title",
+                    "author_hash",
+                    "fandoms",
+                    "fandom_tag_ids",
+                    "general_tag_ids",
+                    "unknown_tags",
+                    "language",
+                    "words",
+                    "chapters",
+                    "comments",
+                    "kudos",
+                    "bookmarks",
+                    "hits",
+                    "date",
+                    "rating",
+                    "category",
+                    "warnings",
+                    "status",
+                ],
+            )
+            df.to_csv(csv_path, index=False)
                     
