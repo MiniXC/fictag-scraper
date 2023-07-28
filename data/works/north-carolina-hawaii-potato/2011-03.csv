@@ -1,0 +1,16 @@
+id,title,author_hash,fandoms,fandom_tag_ids,general_tag_ids,language,words,chapters,comments,kudos,bookmarks,hits,date,rating,category,warnings,status
+137751,Poison,03115413d31bda48aa083b3984245141d4309fbd579f3d3d8dcbc66e6d5179ae,[],,14867+1259,en,2190,1/1,7,9,1,278,2010-12-06,G,G,N,C
+137754,Know Thyself,249549de1a8a1f57280b6df0d965bd28bdc27a61b954afae90318f6b5fa5f39d,[],,7841+11017+1259,en,1844,1/1,26,13,3,397,2010-12-06,T,H,N,C
+138306,κάλλος τε καὶ ὕπνος-- Beauty and Sleep,dd4b5c111f142822b3d384919088e3bf6bec96c7277921ab1df3d8d42e179501,"['Fairy Tales and Related Fandoms', 'The Iliad - Homer']",,2+33+2115,en,1360,1/1,31,81,14,1919,2010-12-08,T,HG,N,C
+541937,АРГО,1d8f48d983ecd866779e629543e405df1f54c0c1d2c6cf0baf7d2900b50b438c,[],,,ru,80,1/1,0,0,0,70,2010-12-16,T,G,D,C
+140253,The Fruits of Hades,0cdc5bb3fe1de2e2eabf38c01402e2776761f1faf4f82c5084c4ff9b0b24fa63,[],,3752+10+2,en,4246,1/1,58,2434,552,28080,2010-12-18,T,H,N,C
+141274,Gorgoneia,8be3b438c0432b7bf71fc2744cae0f317b7e2725a393b03638eae3b39764cb2d,[],,7041+15013+14751,en,1897,1/1,11,26,7,827,2010-12-19,G,G,C,C
+141225,Rarely Pure & Never Simple,0484edf543b38277f01778a8d87f48cf55bf01ef67daa170c56356450d15ec66,[],,,en,1134,1/1,4,21,2,559,2010-12-20,N,M,C,C
+141776,Young Agamemnon Sees It Through,907778cfd8fc02867c17aa235d2c8d7bc31b2879d55eaa3c0483dba2223b7b23,['Greek and Roman Mythology'],512+117,8804+10325+360+1437+4977,en,10605,1/1,17,39,5,1507,2010-12-20,G,G,N,C
+141340,Down All the Days,0e168f9c9057c91fe5990b3c44b60a9de7731cf8512a924d3f9670f8a46a0456,"['The Iliad - Homer', 'Greek and Roman Mythology']",,8804,en,3776,1/1,20,27,2,1100,2010-12-20,G,U,D,C
+141543,chicks before dicks has never really been our motto,9397c761894e7945c9da1c2c5707979fca08cd15270d1c87877cad4631310d37,[],,4728+7192+58,en,2693,1/1,13,66,9,1536,2010-12-20,M,F,N,C
+141724,Five Futures Kassandra Saw and One that She Could Not,621215b73b0ba10bc7cb33815dbf0b6564514a52727aef952ada38b6354e1602,['Greek and Roman Mythology'],,13702+8804+1548+2813,en,3888,1/1,20,131,30,2815,2010-12-20,G,GU,C,C
+143564,Here Thy Hands Let Fall the Gather'd Flower,1a15a96f887ad9d17cdcc8d4de36c64bcc85323b6a9626d1320f44907e51a99a,[],,3752+5686+7154+1647+4977,en,6883,1/1,123,3539,842,33456,2010-12-24,G,H,N,C
+144260,Moirai,621215b73b0ba10bc7cb33815dbf0b6564514a52727aef952ada38b6354e1602,[],,4728+1548+2813,en,4426,1/1,47,221,50,3866,2010-12-25,G,UG,C,C
+144522,"Death, be not proud",5840695a8050e2d687042ef98fbceca7753e8cf54f016a20c93258df7a693aa1,[],,3752+4249+2441+11356+9429+4728,en,512,1/1,9,103,10,2656,2010-12-26,T,FH,C,C
+144599,Growth,66660a63907e8a5b3227e849ba3b5a1227abfeed2ccfed05446ad6c216e88460,['Ancient Greek Religion & Lore'],7,,en,189,1/1,8,133,14,2562,2010-12-26,G,H,N,C
