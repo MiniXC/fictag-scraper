@@ -328,8 +328,8 @@ for _, row in tqdm(fandom_df.iterrows(), total=len(fandom_df)):
             if csv_path.exists():
                 print(f"already scraped {fandom}, {years_ago} years ago")
                 continue
+            url = work_url_years.format(years_ago=years_ago, fandom=fandom)
             if years_ago != last_year:
-                url = work_url_years.format(years_ago=years_ago, fandom=fandom)
                 response = scrape_url(url)
                 soup = BeautifulSoup(response.text, "html.parser")
             # get number of pages (if there are any)
