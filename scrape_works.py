@@ -188,7 +188,10 @@ def get_works(soup, fandom_tags, general_tags):
         fandom_tag_ids = "+".join([str(t) for t in fandom_tag_ids]) + "+"
         general_tag_ids = "+".join([str(t) for t in general_tag_ids]) + "+"
         # language
-        language = work.find("dd", class_="language")["lang"]
+        try:
+            language = work.find("dd", class_="language")["lang"]
+        except TypeError:
+            language = None
         # words
         words = work.find("dd", class_="words").text.strip().replace(",", "")
         # chapters
