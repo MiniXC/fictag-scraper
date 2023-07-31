@@ -12,6 +12,10 @@ from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 from urllib.parse import quote_plus
 from datetime import datetime, timedelta
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--fandom", type=str, default=None)
 
 lco.init("config.yml")
 
@@ -24,6 +28,8 @@ if not work_path.exists():
 
 fandom_df = pd.read_csv(f"{lco['process_dir']}/canonical_fandoms.csv")
 fandom_df = fandom_df[fandom_df["count"] >= 100]
+if parser.parse_args().fandom is not None:
+    fandom_df = fandom_df[fandom_df["tag"] == parser.parse_args().fandom]
 
 work_url = "https://archiveofourown.org/works/search?work_search%5Bquery%5D=&work_search%5Btitle%5D=&work_search%5Bcreators%5D=&work_search%5Brevised_at%5D={months_ago}+months+ago&work_search%5Bcomplete%5D=&work_search%5Bcrossover%5D=&work_search%5Bsingle_chapter%5D=0&work_search%5Bword_count%5D=&work_search%5Blanguage_id%5D=&work_search%5Bfandom_names%5D={fandom}&work_search%5Brating_ids%5D=&work_search%5Bcharacter_names%5D=&work_search%5Brelationship_names%5D=&work_search%5Bfreeform_names%5D=&work_search%5Bhits%5D=&work_search%5Bkudos_count%5D=&work_search%5Bcomments_count%5D=&work_search%5Bbookmarks_count%5D=&work_search%5Dsort_column%5D=revised_at&work_search%5Dsort_direction%5D=asc&commit=Search"
 work_url_years = "https://archiveofourown.org/works/search?work_search%5Bquery%5D=&work_search%5Btitle%5D=&work_search%5Bcreators%5D=&work_search%5Brevised_at%5D={years_ago}+years+ago&work_search%5Bcomplete%5D=&work_search%5Bcrossover%5D=&work_search%5Bsingle_chapter%5D=0&work_search%5Bword_count%5D=&work_search%5Blanguage_id%5D=&work_search%5Bfandom_names%5D={fandom}&work_search%5Brating_ids%5D=&work_search%5Bcharacter_names%5D=&work_search%5Brelationship_names%5D=&work_search%5Bfreeform_names%5D=&work_search%5Bhits%5D=&work_search%5Bkudos_count%5D=&work_search%5Bcomments_count%5D=&work_search%5Bbookmarks_count%5D=&work_search%5Dsort_column%5D=revised_at&work_search%5Dsort_direction%5D=asc&commit=Search"
